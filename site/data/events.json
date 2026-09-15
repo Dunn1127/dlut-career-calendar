@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T03:44:16.557Z",
-  "lastSuccessAt": "2026-09-15T03:44:16.557Z",
+  "generatedAt": "2026-09-15T10:38:53.306Z",
+  "lastSuccessAt": "2026-09-15T10:38:53.306Z",
   "window": {
     "start": "2026-09-10",
     "end": "2026-09-30"
@@ -12,7 +12,7 @@
   },
   "sync": {
     "status": "partial",
-    "fetchedCount": 261,
+    "fetchedCount": 277,
     "detailFailures": 1
   },
   "events": [
@@ -65,7 +65,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -103,7 +103,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -141,7 +141,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -203,7 +203,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -265,7 +265,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -294,7 +294,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -372,7 +372,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -410,7 +410,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -480,7 +480,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -574,7 +574,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -644,7 +644,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -682,7 +682,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -768,7 +768,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -806,7 +806,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -852,7 +852,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -890,7 +890,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -928,7 +928,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -974,7 +974,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1012,7 +1012,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1066,7 +1066,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1104,7 +1104,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1142,7 +1142,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1180,7 +1180,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1218,7 +1218,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1247,7 +1247,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1285,7 +1285,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1347,7 +1347,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1393,7 +1393,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1455,7 +1455,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1484,7 +1484,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1530,7 +1530,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1576,7 +1576,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1630,7 +1630,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1668,7 +1668,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1706,7 +1706,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1760,7 +1760,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1806,7 +1806,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1876,7 +1876,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1962,7 +1962,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -1991,7 +1991,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2029,7 +2029,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2067,7 +2067,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2105,7 +2105,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2143,7 +2143,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2181,7 +2181,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2210,7 +2210,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2248,7 +2248,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2277,7 +2277,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2315,7 +2315,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2369,7 +2369,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2407,7 +2407,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2445,7 +2445,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2474,7 +2474,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2503,7 +2503,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2541,7 +2541,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2579,7 +2579,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2617,7 +2617,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2663,7 +2663,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2692,7 +2692,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2721,7 +2721,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2759,7 +2759,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2853,7 +2853,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2891,7 +2891,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2929,7 +2929,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -2991,7 +2991,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3029,7 +3029,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3123,7 +3123,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3161,7 +3161,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3223,7 +3223,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3261,7 +3261,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3331,7 +3331,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3369,7 +3369,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3415,7 +3415,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3453,7 +3453,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3491,7 +3491,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3529,7 +3529,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3575,7 +3575,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3701,7 +3701,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3739,7 +3739,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3817,7 +3817,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3855,7 +3855,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -3893,7 +3893,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4019,7 +4019,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4065,7 +4065,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4119,7 +4119,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4157,7 +4157,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4211,7 +4211,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4297,7 +4297,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4335,7 +4335,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4381,7 +4381,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4419,7 +4419,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4481,7 +4481,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4510,7 +4510,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4548,7 +4548,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4618,7 +4618,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4696,7 +4696,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4822,7 +4822,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4860,7 +4860,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4898,7 +4898,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4960,7 +4960,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -4998,7 +4998,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5044,7 +5044,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5170,7 +5170,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5256,7 +5256,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5294,7 +5294,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5332,7 +5332,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5418,7 +5418,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5456,7 +5456,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5526,7 +5526,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5580,7 +5580,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5618,7 +5618,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5656,7 +5656,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5694,7 +5694,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5732,7 +5732,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5786,7 +5786,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5864,7 +5864,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5934,7 +5934,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -5980,7 +5980,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6058,7 +6058,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6096,7 +6096,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6150,7 +6150,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6196,7 +6196,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6234,7 +6234,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6320,7 +6320,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6358,7 +6358,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6396,7 +6396,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6466,7 +6466,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6495,7 +6495,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6562,7 +6562,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6600,7 +6600,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6670,7 +6670,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6708,7 +6708,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6746,7 +6746,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6792,7 +6792,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6830,7 +6830,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6956,7 +6956,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -6985,7 +6985,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7023,7 +7023,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7069,7 +7069,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7107,7 +7107,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7153,7 +7153,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7191,7 +7191,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7245,7 +7245,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7379,7 +7379,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7449,7 +7449,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7503,7 +7503,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7589,7 +7589,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7618,7 +7618,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7688,7 +7688,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7734,7 +7734,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7772,7 +7772,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7850,7 +7850,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7888,7 +7888,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -7974,7 +7974,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8060,7 +8060,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8106,7 +8106,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8176,7 +8176,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8222,7 +8222,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8260,7 +8260,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8298,7 +8298,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8376,7 +8376,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8430,7 +8430,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8484,7 +8484,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8554,7 +8554,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8616,7 +8616,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8654,7 +8654,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8692,7 +8692,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8730,7 +8730,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8768,7 +8768,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8797,7 +8797,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8875,7 +8875,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8945,7 +8945,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -8983,7 +8983,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9075,7 +9075,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9113,7 +9113,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9159,7 +9159,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9301,7 +9301,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9347,7 +9347,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9385,7 +9385,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9455,7 +9455,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9493,7 +9493,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9547,7 +9547,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9617,7 +9617,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9663,7 +9663,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9701,7 +9701,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9867,7 +9867,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9905,7 +9905,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -9943,7 +9943,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10005,7 +10005,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10083,7 +10083,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10129,7 +10129,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10207,7 +10207,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10245,7 +10245,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10315,7 +10315,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10353,7 +10353,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10399,7 +10399,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10485,7 +10485,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10571,7 +10571,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10609,7 +10609,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10647,7 +10647,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10685,7 +10685,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10714,7 +10714,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10752,7 +10752,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10790,7 +10790,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10852,7 +10852,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10906,7 +10906,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -10944,7 +10944,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11006,7 +11006,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11044,7 +11044,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "group:5f9408b12fef448c8cc74f858fc2c70b",
+      "kind": "group",
+      "title": "中国化学工程2027届校园招聘会——大连理工大学站",
+      "company": "大工就业办",
+      "startAt": "2026-09-18T15:00:00+08:00",
+      "endAt": "2026-09-18T17:00:00+08:00",
+      "date": "2026-09-18",
+      "venue": "学生文化中心A座501报告厅",
+      "campus": "",
+      "building": "学生文化中心A座",
+      "sourceUrl": "https://job.dlut.edu.cn/f/bilateralchosefairGroup/show?bilateralchosefairGroupId=5f9408b12fef448c8cc74f858fc2c70b",
+      "companyInfo": {
+        "nature": "高等教育单位",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "“中国化学工程校园行”2027届全球校园\n\n招聘简章\n\n一、企业简介\n\n中国化学工程集团有限公司是国务院国资委监管的大型中央企业集团，是全球化学工程的排头兵、中国化学工程的国家队、“走出去”战略的先行者以及美丽中国建设的实践者。\n\n（一）组织规模\n\n拥有32家二级企业、2家上市公司。设有13个国家级企业技术中心、1个国家能源研发中心、26家高新技术企业、7个博士后工作站。业务遍及全球80多个国家和地区，设立了160多个海外机构。\n\n（二）项目成就\n\n承建中国化工项目比例达90%、中国石油化工项目比例70%、中国炼油项目比例30%、全球共完成工程项目70000+。\n\n（三）荣誉资质\n\n奖项荣誉：荣获鲁班奖46项、国家优质工程奖129项、国家优质工程奖金奖23项、省部级优质工程奖1544项、优秀勘察、优秀设计、优秀总承包（金钥匙）奖986项。\n\n硬核资质：拥有9项施工总承包特级资质、6项工程设计综合甲级资质、67项施工总承包一级资质、32项工程监理专业甲级资质。\n\n（四）主营业务\n\n深入实施“T+EPC”“T+产业”模式创新，可提供规划、研发、设计、采购、施工、运营、检维修等全生命周期工程建设服务，业务覆盖国内工程、海外工程、新质实业、现代服务业。\n\n二、人才培养与福利\n\n（一）薪酬保障\n\n提供行业领先的薪酬体系，保障员工收入水平；给予精彩优渥的福利支持，涵盖多方面生活需求；组织丰富多彩的团建活动，增强团队凝聚力与员工归属感；实施温暖贴心的员工关怀，关注员工工作与生活状态。\n\n（二）成长体系\n\n制定系统发展规划，打造多元成长通道，满足不同员工发展需求；畅通晋升路径，开展青年干部选拔，为优秀人才提供上升空间；构建网格培养体系，实行终身导师带徒制度，助力员工快速成长；安排全面专业轮岗，实施科学绩效评价，促进员工综合能力提升。\n\n三、招聘详情\n\n（一）招募对象\n\n国（境）内外2027届本科、硕士、博士毕业生。\n\n招聘单位\n\n招聘岗位\n\n招聘单位\n\n总部地点\n\n中国天辰工程有限公司\n\n天津\n\n赛鼎工程有限公司\n\n太原\n\n东华工程科技股份有限公司\n\n合肥\n\n中国五环工程有限公司\n\n武汉\n\n华陆工程科技有限责任公司\n\n西安\n\n中国成达工程有限公司\n\n成都\n\n中化学土木工程有限公司\n\n南京\n\n中化二建集团有限公司\n\n太原\n\n中国化学工程第三建设有限公司\n\n合肥\n\n中国化学工程第四建设有限公司\n\n岳阳\n\n中国化学工程第六建设有限公司\n\n襄阳\n\n中国化学工程第七建设有限公司\n\n成都\n\n中国化学工程第十一建设有限公司\n\n开封\n\n中国化学工程第十三建设有限公司\n\n沧州\n\n中国化学工程第十四建设有限公司\n\n南京\n\n中国化学工程第十六建设有限公司\n\n宜昌\n\n中国化学工程重型机械化有限公司\n\n北京\n\n中化工程集团财务有限公司\n\n北京\n\n国化投资有限公司\n\n北京\n\n中化学交通建设集团有限公司\n\n济南\n\n中化学（北京）建设投资有限公司\n\n北京\n\n中化学南方建设投资有限公司\n\n广州\n\n中化学城市投资有限公司\n\n西安\n\n中化学科学技术研究有限公司\n\n北京\n\n中化学生态环境有限公司\n\n北京\n\n中化学西南工程科技有限公司\n\n成都\n\n中化学国际工程有限公司\n\n北京\n\n中化学装备科技有限公司\n\n上海\n\n中化学华谊工程科技有限公司\n\n上海\n\n中化学数智科技有限公司\n\n北京\n\n中化学开发建设有限公司\n\n北京\n\n中化学西部新材料有限公司\n\n榆林\n\n工艺研发类、工程设计类、项目管理类、施工管理类、实业运营类、职能管理类、市场营销类、信息技术类。\n\n四、招聘流程\n\n宣讲会简历投递、现场初面、进入中国化学工程网申系统、综合面试、签约。\n\n五、简历投递方式\n\n（一）现场投递\n\n宣讲会现场投递简历可优先面试。\n\n（二）线上投递\n\n扫描下方二维码一键投递简历。",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11082,7 +11111,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11144,7 +11173,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11182,7 +11211,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11284,7 +11313,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11346,7 +11375,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11375,7 +11404,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11429,7 +11458,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11531,7 +11560,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11569,7 +11598,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11607,7 +11636,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11669,7 +11698,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11747,7 +11776,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11865,7 +11894,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11903,7 +11932,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -11941,7 +11970,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12003,7 +12032,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12041,7 +12070,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12087,7 +12116,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12173,7 +12202,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "group:7a3e2e29ef5c438496f5e63d7b173fb1",
+      "kind": "group",
+      "title": "2026年陕西军工人才专场招聘——大连理工大学站",
+      "company": "大工就业办",
+      "startAt": "2026-09-20T09:00:00+08:00",
+      "endAt": "2026-09-20T12:00:00+08:00",
+      "date": "2026-09-20",
+      "venue": "学生文化中心A座一楼展厅",
+      "campus": "",
+      "building": "学生文化中心A座",
+      "sourceUrl": "https://job.dlut.edu.cn/f/bilateralchosefairGroup/show?bilateralchosefairGroupId=7a3e2e29ef5c438496f5e63d7b173fb1",
+      "companyInfo": {
+        "nature": "高等教育单位",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12211,7 +12269,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12265,7 +12323,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12327,7 +12385,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12365,7 +12423,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12443,7 +12501,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12569,7 +12627,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12607,7 +12665,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12645,7 +12703,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12683,7 +12741,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12721,7 +12779,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12759,7 +12817,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12797,7 +12855,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12843,7 +12901,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -12881,7 +12939,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new",
         "venue"
@@ -12925,7 +12983,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13011,7 +13069,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13049,7 +13107,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13087,7 +13145,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13205,7 +13263,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13251,7 +13309,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13289,7 +13347,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13327,7 +13385,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13365,7 +13423,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13539,7 +13597,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13577,7 +13635,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13631,7 +13689,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13677,7 +13735,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13755,7 +13813,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13793,7 +13851,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13847,7 +13905,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -13885,7 +13943,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -14019,7 +14077,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
@@ -14057,7 +14115,915 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-15T03:44:16.557Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:ad640889c23248f7af093742d06c48f4",
+      "kind": "talk",
+      "title": "国资领航·航空筑梦——大连长之琳科技2026校园招聘",
+      "company": "大连长之琳科技股份有限公司",
+      "startAt": "2026-09-22T10:00:00+08:00",
+      "endAt": "2026-09-22T12:00:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼A306",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=ad640889c23248f7af093742d06c48f4",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "500-1000人",
+        "website": "",
+        "introduction": "大连长之琳科技股份有限公司成立于2005年，是一家专门从事航空零部件研发制造的民营高新技术企业。公司现有员工1700余人，其中科研技术人员180余人。公司主要产品包括航空卡箍、隔热屏、管路连接件及航空发动机零部件等，在管路连接技术、钛合金热成形技术、高温合金异型钣金成形技术、精密钣焊类零部件加工技术等方面积累了较丰富的经验。"
+      },
+      "jobs": [
+        {
+          "title": "生产储备干部",
+          "education": "本科",
+          "majors": "材料科学与工程,机械设计制造及其自动化（国际班）(本科生）,机械工程,机械设计制造及其自动化（创新班）,机械设计制造及其自动化,机械制造及其自动化,材料成型及控制工程,机械类,工业工程,机械电子工程(研究生）,机械设计制造及其自动化(日语强化),机械制造及其自动化(研究生）,先进制造,机械设计制造及其自动化（英语强化）(本科生）,机械设计制造及其自动化（日语强化）(本科生）,机械设计制造及其自动化（国际班）,机械工程(研究生）,机械电子工程,机械设计制造及其自动化（日语强化）,机械设计制造及其自动化（中外合作办学）,机械设计制造及其自动化（创新实验班）,机械设计及理论(研究生）,机械设计及理论,机械设计制造及其自动化(本科生）",
+          "city": "辽宁省大连市",
+          "headcount": "5",
+          "description": "工作职责：1、协助生产计划制定与进度跟踪；2、负责现场人员、设备、5S管理；3、监督产品质量，处理异常问题；4、参与成本控制与效率改善；5、完成上级交办的其他日常事务。任职资格：1、本科在校/应届，理工或管理类优先；2、熟练使用办公软件；3、沟通协调能力强，吃苦耐劳；4、有学生干部或实习经验者优先。"
+        },
+        {
+          "title": "研发工程师",
+          "education": "本科",
+          "majors": "机械制造及其自动化,机械电子工程",
+          "city": "辽宁省大连市",
+          "headcount": "5",
+          "description": "1、统招本科及以上学历，机械设计相关专业；2、熟练应用二维和三维软件、有限元分析软件。"
+        }
+      ],
+      "participants": [],
+      "description": "大连长之琳科技股份有限公司（以下简称“公司”）成立于2005年，2023年完成股份制改造，注册资本7800万元，现有员工1500余人。2025年9月成为广东宏大控股集团（股票代码002683）控股子公司，由此成为国有控股企业。\n\n公司深耕航空装备领域，专注航空零部件研发与制造，是国家高新技术企业，建有辽宁省企业技术中心、大连市企业技术中心。被认定为国家级重点专精特新“小巨人”企业、国家级知识产权优势企业、辽宁省专精特新中小企业、辽宁省瞪羚企业、辽宁省制造业单项冠军企业、辽宁省知识产权优势企业、大连市技术创新中心、大连市工业设计中心、大连市专利技术产业化试点单位等。\n\n公司坚持自主创新引领，牵头实施重大科技专项、攻坚关键核心技术，构建飞机与航空发动机领域全产业链业务布局，多项技术与产品打破国外垄断、填补国内空白，研发实力与市场地位稳居国内行业前列。\n\n公司已建成大连、成都、贵阳、沈阳、西安五个制造基地，形成航空业务全国运营服务网络布局，深度配套中航工业、中国航发、中国商飞旗下各主机厂及科研院所等，参与多款批产和在研飞机、航空发动机型号配套供应，是专业化程度高、技术积淀深厚、客户认可度高的航空零部件产品核心供应商。已发展成为航空零部件细分领域兼具科技创新力、核心竞争力与行业影响力的企业。\n\n【招聘岗位及要求】\n\n招聘岗位：研发工程师、生产储备干部\n\n2、任职条件：\n\n1）、本科、硕士毕业生，机械相关专业；\n\n、成绩合格、无挂科，能按时取得毕业证与学位证；\n\n、中共党员、退役军人或学生干部优先；\n\n、身体健康、性格开朗、踏实肯干。\n\n【福利待遇】\n\n五险一金、年终奖金、免费三餐、免费住宿、带薪年假、节假日福利、安家费\n\n【联系方式】\n\n公司地址：辽宁省大连市开发区福泉北路22号\n\n微 信 号：CZLKJZP\n\n邮 箱：",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:efa26be5540d4c67ac6b8cceff4ef60f",
+      "kind": "talk",
+      "title": "海能达通信股份有限公司2027秋季校园招聘",
+      "company": "海能达通信股份有限公司",
+      "startAt": "2026-09-22T13:00:00+08:00",
+      "endAt": "2026-09-22T15:00:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼 A403",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=efa26be5540d4c67ac6b8cceff4ef60f",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "1000以上",
+        "website": "http://www.hytera.com.cn/",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "音频算法工程师",
+          "education": "硕士",
+          "majors": "电子与通信工程(研究生）,通信工程(本科生）,电子与通信工程,通信工程,信息与通信工程(研究生),信息与通信工程,信息与通信工程,通信工程（含宽带网络、移动通信等）,信息与通信工程,通信工程,信息与通信工程,信息与通信工程(研究生)",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "10",
+          "description": "【岗位描述】音频底层算法开发、性能优化、逻辑调试与工程化落地；【岗位要求】1. ***应届硕士及以上学历，信号与信息处理、声学、通信与信息系统、人工智能、计算机科学与技术等相关专业。2. 熟练掌握C/C++编程，可独立完成音频底层算法开发、性能优化、逻辑调试与工程化落地，具备端侧、嵌入式音频算法开发及跨平台移植能力。3. 具备扎实的数字信号处理、声学原理、机器学习、深度学习理论功底，精通音频信号处理基础原理与核心技术。4. 熟练掌握音频3A算法核心原理与落地实现，深入理解AEC回声消除、ANS噪声抑制、AGC自动增益控制的技术逻辑，具备相关算法仿真、优化、调试实战经验，熟悉WebRTC、SpeexDSP等主流音频处理开源框架者优先。5. 精通音频编解码器算法，熟悉主流语音/音乐编解码标准（OPUS、AAC、AMR等），掌握编解码压缩、码率控制、帧处理、抗丢包等核心技术，有编解码算法优化、移植、性能调优经验优先。6. 具备扎实的AI算法研发能力，熟练掌握深度学习框架（PyTorch/TensorFlow），有AI赋能音频增强、语音分离、音频降噪、智能音频处理等相关项目"
+        },
+        {
+          "title": "多源数据融合算法工程师",
+          "education": "博士",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "广东省东莞市",
+          "headcount": "10",
+          "description": "加入我们，你将接触前沿的数据算法工作，通过技术创新为用户创造价值；期待你在海能达的职业舞台实现你的梦想，你设计与研发的低空安全产品将助力城市更高效、更安全。【岗位描述】本岗位聚焦低空探测场景下多传感器数据融合与态势感知算法研发。岗位涉及传感器标定、多模态融合感知、目标跟踪与态势融合等关键技术。候选人将参与公司低空探测与反制系统的多源融合感知算法研发工作。【岗位要求】1、***博士学历， 计算机科学与技术、人工智能、机器人、电子工程、自动化、信号与信息处理等相关专业；2. 熟悉多传感器融合的常用方法，如传感器对齐、数据级/特征级/决策级融合；3. 熟悉目标检测、跟踪、图像/点云处理等基础算法；4. 熟练掌握matlab、Python及C++，具备良好的编程和工程实现能力；5. 熟悉PyTorch/TensorFlow等深度学习框架者优先；6. 有雷达-视觉融合、多传感器融合相关项目或研究经历者优先；7. 了解多源数据融合的工程实现方法。"
+        },
+        {
+          "title": "基带硬件工程师",
+          "education": "本科",
+          "majors": "电子与通信工程(研究生）,通信工程(本科生）,电子与通信工程,通信工程,信息与通信工程(研究生),信息与通信工程,信息与通信工程,通信工程,信息与通信工程,信息与通信工程(研究生),通信工程（含宽带网络、移动通信等）,信息与通信工程",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "10",
+          "description": "加入我们，你将接触前沿的通信硬件技术，通过技术创新为用户创造价值，助力城市更高效、更安全；期待你在海能达的职业舞台实现你的梦想。【岗位描述】方向一：电源工程师，负责全产品的电源设计开发，方向二：音频硬件工程师，负责全产品音频电路设计开发，提升用户体验；方向三：硬件工程师，负责产品器件选型，整体方案输出。【岗位要求】1、本科及以上学历，电子、通信、电磁场与微波相关专业优先；2、掌握数电、模电等专业知识；3、具备硬件设计及调试等项目经验；4、分析问题逻辑清晰，对技术有好奇心，学习欲望强。"
+        },
+        {
+          "title": "嵌入式软件工程师",
+          "education": "本科",
+          "majors": "电子与通信工程(研究生）,通信工程(本科生）,电子与通信工程,通信工程,信息与通信工程(研究生),信息与通信工程,通信工程（含宽带网络、移动通信等）,信息与通信工程",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "20",
+          "description": "加入我们，你将接触前沿的通信技术，通过技术创新为用户创造价值，助力城市更高效、更安全；期待你在海能达的职业舞台实现你的梦想。【岗位描述】方向一：操作系统开发工程师，参与OS研究、设计、形式化验证、开发与应用；挖掘OS关键技术和构建原型系统，推动关键技术落地；方向二：协议栈开发工程师，负责4G\\5G高层协议，传输，等开发；方向三：平台嵌入式开发工程师，根据项目开发需求，完成嵌入式软件功能开发及产品改进设计任务；【岗位要求】1、***本科及以上学历；2、掌握掌握C/C++语言专业知识；了解嵌入式软件开发的基本知识，对驱动开发有一定的掌握；3、参与过嵌入式项目开发或有电子类竞赛经验优先；4、分析问题逻辑清晰，对技术有好奇心，学习欲望强。"
+        },
+        {
+          "title": "web前端开发工程师",
+          "education": "本科",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "黑龙江省哈尔滨市",
+          "headcount": "5",
+          "description": "【岗位描述】1.据界面设计完成前端代码实现；2.与后端开发人员、测试人员协同完成产品的联调、测试和上线等操作；3.维护现有组件，提取新的通用组件。4.解决兼容性问题和性能问题。【岗位要求】1.本科及以上学历，计算机、软件工程、电子等相关专业优先；2.有扎实的前端基础知识，html,，css，javascript，了解Http协议，es6特性，熟悉Ajax原理，json数据，掌握常规前端框架和库优先； 3.熟悉React、Vue其中一种框架，了解webpack构建工具，了解nginx代理配置，有开发经验优先；4.掌握java开发语言、有处理现代浏览器安全、兼容、性能优化经验的优先；5.具备优秀的逻辑思维能力，问题解决思维清晰，强有力的执行力，对技术有好奇心，学习欲望强。"
+        },
+        {
+          "title": "AI算法工程师（NLP方向）",
+          "education": "本科",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "广东省东莞市",
+          "headcount": "10",
+          "description": "【岗位职责】NLP自然语言处理方向；【任职要求】1. 计算机、数学、自动化等相关专业硕士及以上学历，有AI算法研发经验优先；2. 精通Python/C++，具备良好的工程实现能力，熟悉Linux开发环境；3. 深入掌握PyTorch/TensorFlow等主流深度学习框架，熟悉ONNX、TensorRT等推理中间件者优先；4. 扎实的机器学习与深度学习理论基础，熟悉CNN/RNN/Transformer等经典网络结构，对NLP自然语言处理有深入实践；5. 具备模型压缩（剪枝、量化、蒸馏）实际项目经验，能独立设计轻量化网络结构；6. 熟悉常用NLP处理算法，能针对数据特点进行有效预处理和后处理；7. 良好的文献阅读与算法复现能力，具备独立解决复杂算法问题的能力。"
+        },
+        {
+          "title": "Android软件工程师（安卓框架方向）",
+          "education": "本科",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "黑龙江省哈尔滨市,广东省深圳市,广东省东莞市",
+          "headcount": "10",
+          "description": "加入我们，你将接触从底层到应用的安卓技术，通过技术创新为用户创造价值，助力城市更高效、更安全；期待你在海能达的职业舞台实现你的梦想。【岗位描述】Android系统工程师，解决Android框架层的各类原生异常问题；【岗位要求】1、本科及以上学历，计算机、软件工程、电子等相关专业优先；2、具备扎实的Java、C/C++、Python 编程功底，良好的编码习惯与设计能力；3、了解Android系统框架的工作原理和运行流程，掌握Android设备的开机流程，可以从框架层进行整机运行性能优化；掌握一个或者多个核心系统服务的工作原理和业务流程；4、对面向对象有较深的理解；英语CET-4以上，了解Android系统基本架构，熟悉嵌入式Linux/Android平台开发环境者优先；5、具备优秀的逻辑思维能力，问题解决思维清晰，强有力的执行力，对技术有好奇心，学习欲望强。"
+        },
+        {
+          "title": "通信算法工程师（物理层方向）",
+          "education": "硕士",
+          "majors": "电子与通信工程(研究生）,通信工程(本科生）,电子与通信工程,通信工程,信息与通信工程(研究生),信息与通信工程,通信工程（含宽带网络、移动通信等）,信息与通信工程",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "10",
+          "description": "加入我们，你将接触前沿的算法技术，通过技术创新为用户创造价值，助力城市更高效、更安全；期待你在海能达的职业舞台实现你的梦想。【岗位描述】物理层算法工程师，负责5G物理层和DSP平台上面关键算法设计，仿真平台开发；【岗位要求】1、计算机、通信、数学、电子相关专业，***硕士及以上学历，有良好的数学基础；2、熟悉C/C++开发语言，熟练运用Matlab仿真；python编程语言；3、熟悉数字通信信号处理原理和流程，熟悉常用的DSP，具备较扎实的DSP算法开发调试经验，具备调制解调和信道编解码相关开发经验者优先；4、对无线通信系统基本原理及组成有较深入的理解，有LTE/NR/WIFI等物理层算法及开发经验者优先；5、具备优秀的逻辑思维能力，问题解决思维清晰，强有力的执行力，对技术有好奇心，学习欲望强。"
+        },
+        {
+          "title": "C++应用软件工程师",
+          "education": "本科",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "5",
+          "description": "【岗位描述】方向一：负责音视频服务器软件开发；方向二：负责录音录像产品服务器软件开发和维护；方向三：负责协议栈软件开发；方向四：负责中间件开发.【岗位要求】1、本科及以上学历，计算机、软件工程、电子等相关专业优先；2、熟练掌握C/C++语言，熟悉数据结构，编译原理，操作系统等方面知识，对于通信有一定了解；3、有windows/linux开发、网络编程、具备音视频相关基础技能和开发经验优先；4、具备优秀的逻辑思维能力，问题解决思维清晰，强有力的执行力，对技术有好奇心，学习欲望强。"
+        },
+        {
+          "title": "技术支持工程师",
+          "education": "本科",
+          "majors": "通信工程（含宽带网络、移动通信等）,信息与通信工程,电子与通信工程(研究生）,通信工程(本科生）,电子与通信工程,通信工程,信息与通信工程(研究生),信息与通信工程",
+          "city": "广东省深圳市,广东省东莞市,黑龙江省哈尔滨市",
+          "headcount": "20",
+          "description": "加入我们，你将接触综合解决方案交付工作，通过用户需求理解与市场分析为用户创造价值；期待你在海能达的职业舞台实现你的梦想，你设计与交付的综合解决方案将助力城市更高效、更安全。【岗位描述】方向一：技术支持，完成重难点销售项目技术支持，参与技术标书撰写与应答，配合完成疑难技术问题的交流与答疑；方向二：售后交付，负责产品及解决方案交付项目，对接解决方案售后业务技术支持。【岗位要求】1、本科及以上学历，通信工程、电子工程、自动化、机电一体化、计算机、软件工程等相关工科专业；2、了解基本的通信原理，学习能力强；3、具有较强的逻辑思维与沟通表达能力，积极主动，进取心强，有较强的沟通能力和学习能力，良好的客户服务意识；4、接受国内或者海外出差。"
+        },
+        {
+          "title": "AI算法工程师（Agent开发方向）",
+          "education": "本科",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "广东省东莞市",
+          "headcount": "10",
+          "description": "加入我们，你将接触前沿的Agent开发技术，通过技术创新为用户创造价值，助力城市更高效、更安全；期待你在海能达的职业舞台实现你的梦想。【岗位职责】1.负责Agent开发框架的设计与实现;2.开发框架核心模块(如任务调度、通信协议、工具集成等)，实现Agent的自主规划、推理(CoT/ToT)及上下文管理能力，优化框架的易用性与性能;3.设计并实现标准化接口与协议(如MCP、A2A、FunctionCall)，支持Agent与外部系统、工具的无缝交互，提升框架的生态兼容性;4.集成与优化现有Agent架构(Multi-Agent、ReAct/PlanAct/CodeAct等)，构建模块化、可插拔的框架体系，满足不同场景的定制化需求;5.负责框架的性能优化与稳定性维护，通过工程手段。(如异步处理、资源调度等)提升框架的吞吐量与并发能力，降低资源消耗；【任职要求】1.本科及以上学历，计算机、软件工程、人工智能等相关专业。2.熟悉Java/Python，熟悉LangChain/LlamaIndex/Dify等框架，.具备AI Agent开发实战经验优先。"
+        },
+        {
+          "title": "行销经理（产品行销/解决方案）",
+          "education": "本科",
+          "majors": "电子与通信工程(研究生）,通信工程(本科生）,电子与通信工程,通信工程,信息与通信工程(研究生),信息与通信工程,通信工程（含宽带网络、移动通信等）,信息与通信工程",
+          "city": "黑龙江省哈尔滨市,广东省深圳市,广东省东莞市",
+          "headcount": "20",
+          "description": "加入我们，你将接触综合解决方案设计工作，通过用户需求理解与市场分析为用户创造价值；期待你在海能达的职业舞台实现你的梦想，你设计与交付的综合解决方案将助力城市更高效、更安全。【岗位描述】方向一：售前方案设计，通过行业发展趋势研究，引导和跟进行业政策标准，根据客户需求，提供综合产品解决方案；方向二：市场技术研究，通过市场调研、竞品分析，市场需求收集、分析与导入，为产品规划提供支撑，确保产品定位与市场目标符合预期。【岗位要求】1、本科及以上学历，通信工程、电子工程、自动化、人工智能、计算机、软件工程等相关工科专业；2、乐观、开放，乐于与人沟通，主动性强；3、具有较强的独立思考能力和逻辑推理能力，勇于挑战困难、有强烈的成就愿望；4、接受国内或者海外出差。"
+        },
+        {
+          "title": "产品经理培训生",
+          "education": "本科",
+          "majors": "电子与通信工程(研究生）,通信工程(本科生）,电子与通信工程,通信工程,信息与通信工程(研究生),信息与通信工程,通信工程（含宽带网络、移动通信等）,信息与通信工程",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "10",
+          "description": "加入我们，你将接触产品规划与管理全貌，通过综合解决方案为用户创造价值；期待你在海能达的职业舞台实现你的梦想，你设计的产品将助力城市更高效、更安全。【岗位描述】1、针对市场趋势，研究客户行为模式和业务需求，进行产品创新性设计参与工作，促进业务发展，提升客户体验；2、参与项目组内用户体验、研发、设计、测试等相关协同工作，共同完成产品的设计研发过程；3、参与或支持产品的市场运作、日常运营及对外合作拓展等工作；4、持续监测产品运行情况，给出阶段性总结分析和改进、提升计划，完成业务目标。【岗位要求】1、本科及以上学历，通信工程、电子工程、自动化、机电一体化、计算机、软件工程等相关工科专业优先；2、具备较强的沟通能力和推动能力；3、英语流利，可作为工作语言者优先；4、有创新精神，有规划、策划能力或潜力，逻辑性强，有优秀的语言和书面表达能力；有持续的学习能力。"
+        },
+        {
+          "title": "通信算法工程师（雷达探测感知）",
+          "education": "硕士",
+          "majors": "电子与通信工程(研究生）,通信工程(本科生）,电子与通信工程,通信工程,信息与通信工程(研究生),信息与通信工程,通信工程（含宽带网络、移动通信等）,信息与通信工程",
+          "city": "广东省东莞市",
+          "headcount": "10",
+          "description": "加入我们，你将接触前沿的算法技术，通过技术创新为用户创造价值，助力城市更高效、更安全；期待你在海能达的职业舞台实现你的梦想。【岗位描述】聚焦低空探测雷达系统的核心信号处理与数据处理算法研发。岗位涉及相控阵雷达信号处理、目标检测与参数估计、航迹跟踪与目标识别等核心技术模块。候选人将参与公司自主研发的有源相控阵雷达系统算法研发工作。【岗位要求】1.、通信、物理、数学、电子信息工程、人工智能等相关专业，硕士及以上学历；2 熟悉雷达数字信号处理基本原理 ；3. 熟练掌握Matlab/python，具备算法仿真与验证能力；4. 熟悉C/C++编程，具备将算法原型转化为工程代码的能力；5. 了解相控阵雷达系统工作原理者优先；6. 有雷达信号处理或数据处理算法研究或项目经历者优先；7. 具备良好的数学基础。"
+        },
+        {
+          "title": "多源数据融合算法工程师",
+          "education": "博士",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "广东省东莞市",
+          "headcount": "5",
+          "description": "加入我们，你将接触前沿的数据算法工作，通过技术创新为用户创造价值；期待你在海能达的职业舞台实现你的梦想，你设计与研发的低空安全产品将助力城市更高效、更安全。【岗位描述】本岗位聚焦低空探测场景下多传感器数据融合与态势感知算法研发。岗位涉及传感器标定、多模态融合感知、目标跟踪与态势融合等关键技术。候选人将参与公司低空探测与反制系统的多源融合感知算法研发工作。【岗位要求】1、***博士学历， 计算机科学与技术、人工智能、机器人、电子工程、自动化、信号与信息处理等相关专业；2. 熟悉多传感器融合的常用方法，如传感器对齐、数据级/特征级/决策级融合；3. 熟悉目标检测、跟踪、图像/点云处理等基础算法；4. 熟练掌握matlab、Python及C++，具备良好的编程和工程实现能力；5. 熟悉PyTorch/TensorFlow等深度学习框架者优先；6. 有雷达-视觉融合、多传感器融合相关项目或研究经历者优先；7. 了解多源数据融合的工程实现方法。"
+        },
+        {
+          "title": "AI算法工程师（语音处理方向）",
+          "education": "硕士",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "10",
+          "description": "加入我们，你将接触前沿的算法技术，通过技术创新为用户创造价值，助力城市更高效、更安全；期待你在海能达的职业舞台实现你的梦想。【岗位描述】语音识别/语音生成方向；【岗位要求】1. 计算机、数学、自动化等相关专业硕士及以上学历，有AI算法研发经验优先；2. 精通Python/C++，具备良好的工程实现能力，熟悉Linux开发环境；3. 深入掌握PyTorch/TensorFlow等主流深度学习框架，熟悉ONNX、TensorRT等推理中间件者优先；4. 扎实的机器学习与深度学习理论基础，熟悉CNN/RNN/Transformer等经典网络结构，对语音识别或语音合成有深入实践；5. 具备模型压缩（剪枝、量化、蒸馏）实际项目经验，能独立设计轻量化网络结构；6. 熟悉常用图像/语音处理算法，能针对数据特点进行有效预处理和后处理；7. 良好的文献阅读与算法复现能力，具备独立解决复杂算法问题的能力。"
+        },
+        {
+          "title": "AI算法工程师（图像方向）",
+          "education": "硕士",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "10",
+          "description": "【岗位描述】图像处理方向；【岗位要求】1. 计算机、数学、自动化等相关专业硕士及以上学历，有AI算法研发经验优先；2. 精通Python/C++，具备良好的工程实现能力，熟悉Linux开发环境；3. 深入掌握PyTorch/TensorFlow等主流深度学习框架，熟悉ONNX、TensorRT等推理中间件者优先；4. 扎实的机器学习与深度学习理论基础，熟悉CNN/RNN/Transformer等经典网络结构，对图像处理和分析有深入实践；5. 具备模型压缩（剪枝、量化、蒸馏）实际项目经验，能独立设计轻量化网络结构；6. 熟悉常用图像处理算法，能针对数据特点进行有效预处理和后处理；7. 良好的文献阅读与算法复现能力，具备独立解决复杂算法问题的能力。"
+        },
+        {
+          "title": "FPGA工程师",
+          "education": "本科",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "黑龙江省哈尔滨市,广东省深圳市",
+          "headcount": "5",
+          "description": "【岗位描述】方向一：负责4G/5G等通信产品的高速接口(CPRI/eCPRI、PCIe、GE等)、同步时钟（158等）等逻辑方案设计和开发；方向二：负责4G/5G等通信产品的中频（CFR、DPD等）相关的逻辑方案设计和开发；方向三：负责5G基带物理层的加速模块（LDPC、POLAR等）、信道模块（UL/DL信道）的设计和开发。【岗位要求】1、本科及以上学历，电子、通信、电磁场与微波相关专业优先；2、掌握无线通信系统、信号处理、数电等专业知识；3、具备FPGA设计及调试等项目经验；4、分析问题逻辑清晰，对技术有好奇心，学习欲望强。加分项：1、参加过电子设计大赛，数学建模，挑战杯等比赛优先；2、熟悉matlab或者python；3、性格乐观积极向上，抗压力强，对技术有一定追求。"
+        },
+        {
+          "title": "销售经理",
+          "education": "本科",
+          "majors": "不限专业",
+          "city": "广东省深圳市",
+          "headcount": "50",
+          "description": "加入我们，你将接触大客户销售与攻关工作，通过客户需求理解与探寻为用户创造价值；期待你在海能达的职业舞台实现你的梦想，你设计与交付的综合解决方案将助力城市更高效、更安全。【岗位描述】1、根据行业市场，对行业市场格局及发展和竞争对手动向有深入的理解分析，进行市场规划，制定行业销售策略；2、根据业务发展需要，建立和拓展本区域客户群，建立客户长期伙伴关系，管理客户资源、提升客户管理水平；3、根据市场需求状况和客户的反馈意见，及时了解市场信息、产品需求变化，并向相关部门反馈信息，提出产品改善或开发建议，为产品功能改进及研发提供依据，最大限度地满足客户需求。【岗位要求】1、本科及以上学历，通信、计算机、电子信息等理工等专业优先；2、具备良好的沟通能力、谈判能力和表达能力，客户意识良好；3、气质良好，执行力强，抗压能力强，有强烈的团队合作精神；4、接受国内或者海外出差。"
+        },
+        {
+          "title": "标准工程师",
+          "education": "本科",
+          "majors": "电子与通信工程(研究生）,通信工程(本科生）,电子与通信工程,通信工程,信息与通信工程(研究生),信息与通信工程,信息与通信工程,通信工程,信息与通信工程,信息与通信工程(研究生),通信工程（含宽带网络、移动通信等）,信息与通信工程",
+          "city": "黑龙江省哈尔滨市",
+          "headcount": "5",
+          "description": "【岗位描述】负责通信协议相关技术工作。【岗位要求】1、掌握通信基础知识，做过通信系统级仿真实验；2、研究过3GPP或IEEE或PDT等标准中某一项通信协议的某一子层的协议设计或关键技术的优先；3、通过英语6级，具备较好的听说读写能力；4、思维逻辑清晰，表达能力良好；5、具备较强的文字编辑能力；6、做事认真、严谨。"
+        },
+        {
+          "title": "射频硬件工程师",
+          "education": "本科",
+          "majors": "电子信息,电子与信息,电子信息工程（英语强化）(本科生）,电子与通信工程(研究生）,电子与通信工程,电子信息类,电子信息工程(本科生）,电子信息,电力电子与电力传动,微电子学与固体电子学,微电子学与固体电子学(研究生）,电子科学与技术(研究生),电子信息工程（英语强化）,电力电子与电力传动(研究生）,新一代电子信息技术(含量子技术等),电子信息工程,电子科学与技术,电子与信息,电子与信息,电子信息,电子信息工程（英语强化）,新一代电子信息技术（含量子技术等）,电子信息工程(英语强化),新一代电子信息技术(含量子技术等),电子信息,电子信息工程,电子与信息,电子与信息,电子信息",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "10",
+          "description": "加入我们，你将接触前沿的通信硬件技术，通过技术创新为用户创造价值，助力城市更高效、更安全；期待你在海能达的职业舞台实现你的梦想。【岗位描述】方向一：负责专网和公网通信产品的射频电子器件选型、射频方案设计；方向二：负责软硬件产品联合调试，保证整机射频性能及其可靠性；方向三：负责系统射频调试工作及射频方案输出；方向四：负责通信产品的天线仿真、设计及开发。【岗位要求】1、本科及以上学历，电子、通信、电磁场与微波相关专业优先；2、掌握数电、模电、射频电路、电磁场等专业知识；3、具备硬件设计及调试等项目经验；4、分析问题逻辑清晰，对技术有好奇心，学习欲望强。"
+        },
+        {
+          "title": "Java软件工程师",
+          "education": "本科",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "黑龙江省哈尔滨市",
+          "headcount": "5",
+          "description": "方向一：负责集团信息系统的设计、开发与维护；方向二：负责智能应用平台的开发，负责系统调度及配置工具开发；方向三：负责数据库开发与维护。【岗位要求】1、本科及以上学历，计算机、软件工程、电子等相关专业优先；2、熟练掌握Java编程技术，了解基本开发框架，对linux系统、微服务相关知识有所了解；3、有Java开发经验优先；4、具备优秀的逻辑思维能力，问题解决思维清晰，强有力的执行力，对技术有好奇心，学习欲望强。"
+        },
+        {
+          "title": "软件测试工程师",
+          "education": "本科",
+          "majors": "计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "黑龙江省哈尔滨市,广东省东莞市",
+          "headcount": "10",
+          "description": "【岗位描述】方向一：负责安卓终端类产品软件测试；方向二：负责集成系统管理软件平台类产品软件测试；方向三：负责4G、5G基站及与宽带自组网测试，负责5GC、Open UPF、VoNR、EPC、BtrunC等各种系统软件测试；方向四：负责公司自动化测试框架开发，负责测试工具的实现与完善，带领开展接口或契约测试，指导自动化测试脚本的开发。【岗位要求】1、本科及以上学历，计算机、电子、通信、自动化等工科相关专业优先；2、掌握良好的通信基础知识（数字通信原理、无线通信原理、LTE、5G），了解网络技术、无线蜂窝网技术等；3、熟悉各种操作系统，熟悉C/C++/Java/Python等至少一种编程语言，有Shell使用经验者优先；4、具备优秀的逻辑思维能力，问题解决思维清晰，强有力的执行力，对技术有好奇心，学习欲望强。"
+        }
+      ],
+      "participants": [],
+      "description": "海能达通信股份有限公司2027届校园招聘\n\n——为梦想发声 让世界听我的\n\n【公司介绍】\n\n海能达通信股份有限公司是总部位于中国深圳的全球化民营上市公司，专网通信领域龙头企业，全球领先的专用通信解决方案提供商，致⼒于为公共安全、应急、能源、交通、⼯商业等行业客户，在日常⼯作与关键时刻，提供更快、更安全、更多联接的通信设备及解决⽅案，助⼒城市更⾼效、更安全。\n\n全球化业务推进，拓展视野边界\n\n海能达在全球拥有8大研发中心，超过90家分支机构。在这里，你能够与来自40多个国家的专业伙伴并肩作战，你的职业视野，或许从第一次参与国际项目就已悄然拓展。\n\n行业标准制定，助力职场领先\n\n海能达专注于技术创新，持续将年营收的15%以上投⼊研发，在中国、德国和加拿⼤建有8个研发中⼼。海能达积极参与并引领全球专用通信技术的发展，是全球极少数全面掌握TETRA、DMR、PDT、LTE、5G等领先技术并拥有成熟应用的高科技企业。在这里，你不必只做规则的追随者，你的优秀想法也许可以成为引领行业的发展。\n\nAI专网引领，抢占赛道先机\n\n2025年海能达在行业内首次提出“AI专网”的概念，正引领专用通信迈向智能化。目前公司已在终端侧部署了轻量化的AI模型，在管道侧实现了网络的动态优化，在平台侧构建了行业专属AI模型。我们将围绕“AI+通信”的核心逻辑，将AI技术融入更广泛的行业专网生态，助推行业专网加速进入AI专网时代。加入我们，一起定义“AI专网”的未来！\n\n【工作地点】\n\n深圳、东莞、哈尔滨、南京、成都、海外\n\n【热招岗位】（HC多多，录用机会较大）\n\nAI类：语音处理方向、图像处理方向、计算机视觉方向、NLP方向、Agent开发方向\n\n算法类：物理层算法、中射频算法、音频算法、雷达探测感知算法、数据融合算法\n\n营销类：销售经理（海外/国内）、行销经理（海外/国内）、技术支持（海外/国内）\n\n【其他岗位】\n\n技术类：软件开发、硬件开发、软件测试、硬件测试、项目管理等\n\n设计类：交互设计、结构设计、多媒体设计、视觉设计等\n\n职能类：财务、运营、投融资等\n\n供应链类：供应链计划、项目管理、质量管理、采购、制造等\n\n【面试流程】\n\n①网申——②笔试/无领导小组面试——③结构化面试——④测评——⑤录用沟通会\n\n【薪酬福利】\n\nn基本工资：为员工提供行业内具有竞争力的薪酬待遇\n\nn绩效调薪：每年根据员工个人绩效结果（工作成果表现）进行薪酬审视\n\nn过程奖金：年度内根据个人绩效表现，发放研发项目奖金/销售过程奖金\n\nn专项激励：在公司/部门层面设置总裁特别奖、半年度/年度表彰、灵活激励等表彰方式，发放奖金或同等价值奖品，公开表彰优秀员工\n\nn年度奖金：根据公司每年经营情况和个人绩效表现发放年度奖金，与员工共享经营收益（应届生入职前三年，平均可获取2-4个月月薪的年度奖金）\n\nn健康保障：五险一金、商业保险、员工体检、补充带薪假等\n\nn生活关怀：过渡住房、员工食堂、年度旅游、节日礼品、员工俱乐部等",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:4d7293c8d77f47d08fcce4b2ae1ad91e",
+      "kind": "talk",
+      "title": "中国东方电气集团有限公司2027届 校园招聘",
+      "company": "中国东方电气集团有限公司",
+      "startAt": "2026-09-22T15:30:00+08:00",
+      "endAt": "2026-09-22T17:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼B101",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=4d7293c8d77f47d08fcce4b2ae1ad91e",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "中国东方电气集团有限公司2027届 校园招聘",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "四川省成都市",
+          "headcount": "900",
+          "description": "详见招聘简章"
+        }
+      ],
+      "participants": [],
+      "description": "中国东方电气集团有限公司2027届\n\n校园招聘\n\n简章\n\n*宣讲现场不仅为同学们带来大量的offer，还有丰厚礼品相送，更有机会参与幸运抽奖，获取惊喜大奖！东方电气期待你的加入！\n\n一、 我们是谁？\n\n【超多优质 offer】20+需求单位，400+岗位，900+\n\noffer名额，等你来！\n\n【广阔发展前景】中央企业、国有重要骨干企业；全球最大的发电设备制造和电站工程总承包企业集团之一；\n\n【平台强大——参与国家战略项目】成功研制全球单机容量最大——白鹤滩百万千瓦水轮发电机组；世界首个高原水电机组产研基地——东方电气西藏林芝产研基地建成投用；全球首堆主设备——“华龙一号”“国和一号”；自主研制全球最大——26兆瓦级海上风电机组；我国首台具有自主知识产权的50兆瓦重型燃机（G50）；深度参与我国首台——万米大陆科学钻探专用设备“地壳一号”。\n\n【竞争力 max 的薪酬】在行业内极具竞争力的薪酬福利待遇；\n\n【职业发展双通道】不同的赛道，同样的卓越，你的才华由你定义！\n\n中国东方电气集团有限公司（以下简称东方电气集团）创立于1958年，是中央管理的涉及国家安全和国民经济命脉的国有重要骨干企业，肩负保障国家能源安全的重大责任，是全球最大的能源装备制造企业集团之一。\n\n东方电气集团是中国电力驱动时代的先驱者之一，诞生于新中国，成长于三线建设，发展于改革开放，壮大于新时代，孕育了东汽精神，是能源装备制造“国家队”、科技自立自强“排头兵”、绿色智造转型“引领者”、可贵东汽精神“弘扬者”。东方电气集团始终牢记习近平总书记殷殷嘱托，不忘产业报国初心，牢记制造强国使命，以“绿色动力、驱动未来”为己任，坚持科技自立自强，完整、准确、全面贯彻新发展理念，瞄准碳达峰、碳中和目标，打造以能源装备制造为核心、以制造服务和新兴产业为增长点的“一核两翼”产业布局，培育深植“严细实快”基本品格，加快打造具有核心竞争力的精品集团。\n\n东方电气集团大力拓展海外市场，积极参与共建“一带一路”，为全球110多个国家和地区提供成套设备和工程承包业务，主要市场涵盖东南亚、南亚、中亚、中东、欧洲、非洲、南美等地区，出口能源装备规模超过1亿千瓦、石油钻机620余台，从1994年起连续入选ENR全球250家最大国际工程承包商之列。\n\n东方电气集团是国家首批创新型企业、国家技术创新示范企业，拥有全国重点实验室、国家发展改革委企业技术中心、国家能源大型清洁高效发电设备研发中心、海外高层次人才创新创业基地、院士工作站、博士后科研工作站，建立了面向市场的企业产品研发多级创新体系，助推企业可持续稳定发展，助力国家建设“创新型国家”“制造强国”和“数字中国”。\n\n二、 我们的招聘岗位\n\n涉及研发、设计、工艺、营销、项目管理、职能管理（党建、法务、财会、人力等）多个岗位需求；\n\n涵盖机械类、电气类、能动类、材料类、自动化类、电子信息与计算机类、化学类、工程类、财务类、管理类等；\n\n工作地点：成都/德阳/自贡/北京/武汉/广州/杭州/福州/南通/海外等。\n\n（更多工作地点详见校招官网）\n\n三、 我们的发展与福利\n\n1.职业发展\n\n一是有“横向可交流、纵向可发展”的职业发展体系；\n\n二是有“对内可交流、对外可输送”的事业发展平台。\n\n2.薪酬福利\n\n一是健全的正向激励体系。包括当期岗能效收入分配制度、中长期激励、分红激励、重点项目奖励、专项奖励等激励机制。\n\n二是丰富的福利待遇体系。包括各类津补贴、政府人才支持补贴、安家费、人才公寓、节日慰问和法定假期等。\n\n三是多元的保障管理体系。除法定的“五险一金”外，还为职工购买商业补充医疗保险、大额意外伤害保险等，为职工建立企业年金，对职工定期开展健康体检等。\n\n3.专项政策\n\n对引进的紧缺、优秀专业人才，可实施市场化协议薪酬待遇；优先参与国家重点科研项目；可为其量身定制科研项目；享有组建专项科研团队的建议权；可给予专项经费支持；在职称评定和专家评聘中实行“绿色通道”管理；在落户地、社保缴交地等方面可在总部和工作所在企业间协商选择，按规定争取属地政府引才政策。\n\n四、 招聘流程\n\n1.网投简历。\n\n2.简历筛选。\n\n3.面试。\n\n4.拟录人员公示。\n\n5.发放offer。\n\n6.签订三方协议。\n\n五、简历投递方式\n\n扫码关注“东方电气微招聘”公众号选择“校园招聘”版块投递简历；",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:2d9d1aeec23440f7b9de63ff2eb8b294",
+      "kind": "talk",
+      "title": "中国市政工程中南设计研究总院有限公司",
+      "company": "中国市政工程中南设计研究总院有限公司",
+      "startAt": "2026-09-22T15:30:00+08:00",
+      "endAt": "2026-09-22T17:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼 A406",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=2d9d1aeec23440f7b9de63ff2eb8b294",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "工程设计岗",
+          "education": "硕士,博士",
+          "majors": "市政工程,土木水利,结构工程,水工结构工程,环境工程",
+          "city": "全国",
+          "headcount": "110",
+          "description": "★按合同要求保质、按期完成工程设计和服务工作；★根据相关设计原则、计算原则，以及相关规范、标准进行具体设计、计算和制图，并编写说明；★参加设计评审、设计确认、施工交底、竣工验收以及合同规定的施工配合、投产试运转、回访总结等工作。"
+        }
+      ],
+      "participants": [],
+      "description": "中国市政工程中南设计研究总院有限公司\n\n2027届秋季校园招聘简章\n\n中国市政工程中南设计研究总院有限公司（简称:中国市政中南院）成立于1954年，原为建设部直属单位，现为世界500强中信集团新型城镇化板块的重要子公司，综合实力位于全国勘察设计行业前茅，是全国文明单位、国家高新技术企业。拥有工程设计综合甲级、工程勘察综合甲级、工程咨询单位综合甲级资信、工程监理综合、城乡规划编制甲级“四综一甲”顶级资质，主要承担市政、建筑、公路、水利、电力、农业等行业的规划、咨询、勘测、设计、工程总承包、监理、数字化设计研发和科学研究等工程建设全过程服务。具有80余个分院构成的全国化市场布局、强大的科技创新能力，是国际、国家和行业标准规范的制定者，工程勘察设计行业数字化转型的领跑者。\n\n一、招聘岗位\n\n岗位\n\n学历\n\n工作地点\n\n给排水研究岗\n\n博士\n\n武汉\n\n给排水设计岗\n\n硕士\n\n武汉、西安、宜昌、兰州、长沙、东莞、广州、湛江、深圳、佛山、昆山、贵阳、惠州、汕头、杭州、天津、无锡、青岛、烟台、海口、三亚\n\n固废设计岗\n\n（环境工程）\n\n硕士\n\n武汉、深圳\n\n结构设计岗\n\n硕士\n\n兰州、昆山、汕头、天津、无锡\n\n电气设计岗\n\n硕士\n\n武汉、西安、兰州、惠州、汕头、杭州、天津、无锡、南宁\n\n工程经济岗\n\n硕士\n\n深圳、济南、厦门、海口、南宁\n\n水利工程岗\n\n硕士\n\n汕头、青岛、成都\n\n水文水资源岗\n\n硕士\n\n武汉、兰州、成都\n\n水文地质岗\n\n硕士\n\n成都\n\n道路设计岗\n\n硕士\n\n深圳、昆山、汕头\n\n建筑设计岗\n\n硕士\n\n湛江、深圳、汕头\n\n桥梁设计岗\n\n硕士\n\n深圳\n\n燃气设计岗\n\n硕士\n\n武汉\n\n风景园林岗\n\n硕士\n\n南昌、汕头\n\n工程管理岗\n\n硕士\n\n武汉\n\n智慧水务岗\n\n硕士\n\n武汉\n\n计算机岗\n\n（软件测试、前端开发、后端开发）\n\n硕士\n\n武汉\n\n法务岗\n\n硕士\n\n武汉\n\n二、网申地址\n\nPC端投递网址：https://app.mokahr.com/campus-recruitment/znszy/98600#/\n\n（请优先选择校招官网投递简历，简历投递后请勿在其他渠道重复投递）\n\n三、薪酬福利\n\n职工保障：五险一金、企业年金、补充医疗保险、意外伤害保险、三甲医院年度体检、健康生活讲座、健身中心、母婴室\n\n职工福利：单身宿舍、交通补贴、通讯补贴、出差补贴、高温津贴、取暖补贴、注册津贴、免费三餐、节假日福利、生日蛋糕券、员工困难补助\n\n四、内推指南\n\n我们还有重磅惊喜等待各位同学解锁：寻找身边在总院工作的师兄师姐或有总院实习经历的同学助你内推！\n\n我们将优先处理内推简历，提前安排面试！\n\n五、面试流程\n\n简历投递-初步筛选-综合素质测评&心理测评-专业面试-综合素质面-总院终面（线下）\n\n六、联系我们\n\n招聘微信公众号：中国市政中南院人才招聘\n\n总院微信公众号：中国市政工程中南设计研究总院\n\n官方网站：https://www.znszy.com.cn/\n\n2027届校招沟通一群：1090784410\n\n2027届校招沟通二群：839232152\n\n2027届校招沟通三群：1104904253",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:4825a265dc4841eba4d7bd1b2187ca40",
+      "kind": "talk",
+      "title": "基恩士2027届秋季校园招聘",
+      "company": "基恩士（中国）有限公司",
+      "startAt": "2026-09-22T15:30:00+08:00",
+      "endAt": "2026-09-22T17:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼A403",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=4825a265dc4841eba4d7bd1b2187ca40",
+      "companyInfo": {
+        "nature": "外商投资企业",
+        "scale": "500-1000人",
+        "website": "https://www.keyence.com.cn/",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "销售工程师/销售（2027届）",
+          "education": "本科,硕士",
+          "majors": "不限专业",
+          "city": "全国",
+          "headcount": "100",
+          "description": "【工作内容】·顾问式销售，在所负责区域范围内推广、销售基恩士产品，帮助客户解决问题·直接对应最终用户，了解客户显在和潜在需求（B2B销售）·分析所负责区域的行业动态并制定相应的战略计划，实现指定区域销售业绩最大化【薪酬福利】本科生月薪：12,000~15,000元/月（薪资视工作地点而定）参考年收入：第一年18~22万元，第二年23~31万元（因业绩变化会有变动，年薪为预测值，仅供参考）研究生月薪：14,000~17,000元/月（薪资视工作地点而定）参考年收入：第一年20~24万元，第二年25~33万元（因业绩变化会有变动，年薪为预测值，仅供参考）奖金：1年2次半年奖金、一定级别后可享每月业绩奖金补贴：1年2次现金福利补贴（国庆、春节前发放，总计8000-15000元不等）保险：五险一金、补充商业保险假期：周末双休、法定节假日，带薪年假10天起，婚假、育儿假等假期其他福利：年度免费体检、结婚、生育礼金等·新人培训：入职提供1-3个月带薪培训，公司承担入职交通费用及培训期间酒店住宿费用。·培训内容：包含职场礼仪、产品知识、技术知识、销售技巧"
+        }
+      ],
+      "participants": [],
+      "description": "基恩士2027届秋季校园招聘正式启动 | 定义工业自动化，寻找未来专家\n\n网申链接： https://www.keyence.com.cn/career209\n\n空中宣讲会：https://tv.51job.com/redirect.aspx?key=AFB7T\n\n【关于基恩士】\n\n基恩士（KEYENCE）成立于1974年，业务遍布全球46个国家和地区，设有250个办事处。2001年进入中国市场，伴随国内制造业转型升级与自动化进程加速，基恩士在华业务持续扩大，发展前景广阔，现已在中国超过20个城市设立办事处。主营传感器、测量仪器、数码显微系统、激光刻印机、影像系统、PLC、条码读取器等工业自动化产品。\n\n- 连续8年入选福布斯“全球最具创新力企业”100强榜单\n\n- 在波士顿咨询“价值创造者”排名位列前50\n\n- 连续10年平均成长率超15%，利润率超50%\n\n【2027届校园招聘-以新人身份入场，以专家身份领航】\n\n在基恩士，我们对年轻人委以重任。我们不对专业设限，只为潜力提供舞台——通过系统培训、清晰路径与公平机制，让优秀者更快崭露头角，肩负重任。\n\n1、招聘对象\n\n- 2027届本科及以上应届毕业生，专业不限\n\n- 毕业时间2026年9月1日-2027年8月31日\n\n2、招聘岗位：\n\n销售工程师/销售\n\n·顾问式销售，在所负责区域范围内推广、销售基恩士产品，帮助客户解决问题\n\n·直接对应最终用户，了解客户显在和潜在需求（B2B销售）\n\n·分析所负责区域的行业动态并制定相应的战略计划，实现指定区域销售业绩最大化\n\n3、营业支持：\n\n·配备专属工作电脑及手机，定制Demo箱，携带演示产品（总重量约13~40kg）\n\n·外出安排专车与司机接送\n\n4、薪酬福利：\n\n本科生月薪：12,000~15,000元/月（薪资视工作地点而定）\n\n参考年收入：第一年18~22万元，第二年23~31万元（因业绩变化会有变动，年薪为预测值，仅供参考）\n\n研究生月薪：14,000~17,000元/月（薪资视工作地点而定）\n\n参考年收入：第一年20~24万元，第二年25~33万元（因业绩变化会有变动，年薪为预测值，仅供参考）\n\n奖金：1年2次半年奖金、一定级别后可享每月业绩奖金\n\n补贴：1年2次现金福利补贴（国庆、春节前发放，总计8000-15000元不等）\n\n保险：五险一金、补充商业保险\n\n假期：周末双休、法定节假日，带薪年假10天起，婚假、育儿假等假期\n\n其他福利：年度免费体检、结婚、生育礼金等\n\n5、培训与晋升：\n\n·新人培训：入职提供1-3个月带薪培训，公司承担入职交通费用及培训期间酒店住宿费用。\n\n·培训内容：包含职场礼仪、产品知识、技术知识、销售技巧、谈判技巧、行业知识等\n\n·实战培训：OJT培训（前辈带教）及定期区域业绩及市场分析培训等。\n\n·晋升与激励： 每半年开展一次晋升与调薪评估；定期开展评优表彰及奖励。\n\n6、工作地点：\n\n需服从公司全国业务布局统一分配。（目前在超23个城市设立了办事处）\n\n北京，天津，大连，济南，青岛，合肥，南京，无锡，苏州，昆山，上海，杭州，宁波，武汉，长沙，西安，成都，重庆，厦门，广州，东莞，中山，深圳\n\n【招聘流程】\n\n网申 → 一面 → 测评 → 面试（2-3轮）→ Offer\n\n测评后HR定向邀约：总部场（线上2轮后上海线下终面）或城市场（线下2轮当天完成）\n\n*注：总部场面试往返交通及住宿费用由公司承担\n\n【HR小提示】\n\n1.网申时，请务必确保自己的手机号码以及邮箱地址填写正确\n\n2.整个面试流程由系统邮件通知应聘者操作内容，请关注邮件并按照指示操作\n\n3.请确保每轮面试前的问卷/测评填写完整，否则无法参加面试\n\n4.最新招聘信息，请关注“基恩士招聘”微信公众号及官方招聘网站\n\n扫码网申\n\n基恩士招聘公众号\n\n基恩士 招聘组\n\n电话：(+86) 转7112\n\n邮箱：",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:af99918f82024564acabccdcc7ad5b80",
+      "kind": "talk",
+      "title": "“梦想靠岸”招商银行总行、分行及子公司2027校园招聘公告",
+      "company": "招商银行股份有限公司",
+      "startAt": "2026-09-22T18:00:00+08:00",
+      "endAt": "2026-09-22T21:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "学生文化中心A座312报告厅",
+      "campus": "大连凌水主校区",
+      "building": "学生文化中心A座",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=af99918f82024564acabccdcc7ad5b80",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "“梦想靠岸”招商银行总行、分行及子公司2027校园招聘公告",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "全国",
+          "headcount": "150",
+          "description": "众多岗位招聘，登录“招商银行校园招聘”官方网站https://career.cmbchina.com/home，申请感兴趣的职位，在线注册，投递简历！"
+        }
+      ],
+      "participants": [],
+      "description": "“梦想靠岸”招商银行总行、分行及子公司\n\n2027校园招聘公告\n\n1987年，招商银行在深圳蛇口成立，是中国境内第一家完全由企业法人持股的股份制商业银行，经过39年发展，招商银行已成为沪港两地上市的大型银行集团，拥有商业银行、金融租赁、基金管理、人寿保险、境外投行、消费金融、理财子公司、保险资产管理、金融资产投资等金融牌照；机构覆盖境内130多个城市，并在境外主要金融中心设有6家分行和1家代表处。\n\n2026年，招商银行在英国《银行家》杂志公布的“全球银行1000强”榜单中，按照一级资本排名位列全球第9位，并连续三年蝉联“中资银行综合10强”首位；荣获《欧洲货币》“亚洲最佳消费者银行”“中国最佳银行”“中国最佳数字银行”三项大奖；荣获《亚洲银行家》“中国最佳财富管理银行”“中国最佳托管银行”“中国最佳股份制零售银行”等大奖。\n\n成立以来，招商银行一直谨记创办初期“为中国贡献一家真正的商业银行”的使命，始终坚持创新驱动、科技兴行、人才强行、服务立行，以自身转型发展推动社会经济持续进步，全力服务居民和企业客户财富增长、资产安全、资金融通。招商银行坚持“AI First”理念，深入探索“AI+金融”“人+数智化”模式，不断提升服务效率和客户体验，加快打造智能银行。\n\n新时代、新征程，招商银行牢牢把握高质量发展首要任务，锚定成为“创新驱动、模式领先、特色鲜明的最佳价值创造银行”战略愿景，努力为客户、员工、股东、合作伙伴、社会创造更大价值，在服务实体经济和民生福祉中展现更大作为，为金融强国建设和中国特色金融发展之路贡献招行力量。\n\n一流人才成就一流企业。39年来，招商银行坚持人才强行，提倡“尊重、关爱、分享”的人本文化，打造员工最佳成长银行，吸引和培养了一批又一批精通业务、敬业奉献、开拓创新的优秀人才，当前员工总数近12万人，连续15年进入“中国年度最佳雇主”10强榜单，并于2024、2025年蝉联第一名。\n\n招商银行总行、分行、信用卡中心及子公司2027校园招聘虚位以待，邀您同行，梦想靠岸！\n\n一、校园招聘职位\n\n（一）总行职位\n\n1.管理培训生\n\n通过业务条线及专业岗位历练，成为“价值银行”业务专家型人才，具体包括公司金融、零售金融、投行与金融市场、定向分行、政策研究等方向。\n\n2.职能类岗位（智能科学研发方向）\n\n从事人工智能、大模型相关算法研究、系统研发相关工作，成长为既懂AI又懂业务的复合人才。\n\n3.职能类岗位（系统研发方向）\n\n从事信息系统开发、建设和维护工作，成长为既懂IT又懂业务的复合人才。\n\n4.职能类岗位（智能运维研发方向）\n\n从事金融IT基础设施建设与管理、智能运维设计与研发，成长为既懂AI又懂运维与研发的复合人才。\n\n（二）分行职位\n\n全国130余城市开放岗位，分为以下类型：\n\n1.市场营销类职位\n\n从事各类银行业务客户服务及营销，包括产品营销、市场拓展、厅堂服务、客户关系维护等岗位工作，成为精通银行业务的市场专家。\n\n2.运营支持类职位\n\n从事各类运营结算业务，成长为精通银行运营的业务能手。\n\n3.职能类职位\n\n从事客户管理、风险管理、数据管理、合规管理等岗位工作，成长为熟悉银行业务的专业人才。\n\n4.信息技术类职位\n\n从事软件开发、数据分析、网络及IT专业系统运行维护等岗位工作，成长为银行业的IT专业人才。\n\n（三）信用卡中心职位\n\n1.技术类：包括软件开发和算法方向。\n\n2.数据类：数据分析岗，包括商业分析及风险量化方向。\n\n3.产品类：产品经理岗，包括获客策略、产品研发、用户增长、App经营等方向。\n\n4.市场类：市场营销岗，包括消费促动、品牌传播、内容营销等方向。\n\n5.职能类：包括人力资源、消费者权益保护与合规管理、账务清算方向。\n\n（四）招商银行集团子公司职位\n\n1.招银网络科技有限公司\n\n包括后端开发工程师、前端开发工程师、算法工程师、测试技术开发工程师、运维研发工程师。\n\n2.招商永隆银行\n\n包括培训生、业务拓展主任项目。\n\n3.招银国际金融有限公司\n\n包括管理培训生项目。\n\n4.招银金融租赁有限公司\n\n包括管理培训生、管理培训生（IT方向）项目。\n\n5.招银理财有限责任公司\n\n包括研究交易类岗位。\n\n具体岗位及招聘需求详见官方招聘公告及微信公众号推文。\n\n二、基本申请条件\n\n（一）具有良好的政治素质和道德修养，遵纪守法，品学兼优，无不良行为记录；\n\n（二）本科及以上学历毕业生：境内院校最高学历毕业时间为2027年1月1日至2027年7月31日，境外院校最高学历毕业时间为2026年1月1日至2027年7月31日。各招聘项目对学历需求有所不同，具体要求详见岗位要求；\n\n（三）本科生需达到大学英语四级分数425分（含）以上水平，研究生需达到大学英语六级分数425分（含）以上水平。如未有大学英语四、六级成绩，可用其他同等英语考试成绩代替，本科生需达到雅思5.5分（含）以上或托福70分（含）以上水平，研究生需达到雅思6分（含）以上或托福80分（含）以上水平；\n\n（四）具有较强的责任心、学习能力和良好的团队协作精神，能承受较大的工作压力，具有良好的书面及口头表达能力。\n\n三、校园招聘行程\n\n（一）招聘流程\n\n简历投递——空中宣讲会/校园宣讲会——简历筛选——统一笔试——多轮面试——录用通知\n\n（二）空中宣讲会\n\n9月将举办2027校园招聘空中宣讲会，引领您走进招商银行，感受招行企业文化，了解招行发展战略，为即将参加校招的您答疑解惑。\n\n（三）校园宣讲会\n\n9月起，将开展校园宣讲会！具体校园宣讲行程可关注招商银行招聘微信公众号推送。\n\n（四）统一在线笔试\n\n第一批：2026年9月中下旬\n\n第二批：2026年10月中下旬\n\n具体时间请关注招商银行通知。\n\n四、报名方式\n\n（一）官方网站\n\n登录招商银行一网通网站，点击“人才招聘”或搜索网址https://career.cmbchina.com进入招商银行人才招聘官网。\n\n（二）手机银行APP\n\n下载招商银行手机银行APP，登录后前往校园招聘功能模块，申请感兴趣的职位，在线投递简历！\n\n（三）官方公众号\n\n关注“招商银行招聘”微信公众号平台，获取最新的校园招聘内容和干货满满的信息分享，点击“招了-校园招聘”，申请感兴趣的职位，投递简历！\n\n（四）内部推荐\n\n联系在招商银行工作的师兄师姐、数字金融训练营学员或“梦工场”实习生，请他们通过“招商银行招聘”微信公众号平台，点击“招了-YOU伯乐-校招内推”进行内部推荐。\n\n五、温馨提示\n\n（一）所有个人资料必须真实无误，如有虚假或隐瞒信息，申请人将会被取消申请资格；\n\n（二）面试时间与招商银行各机构的行程安排有关，敬请关注招商银行各机构相关公告通知；\n\n（三）当您的手机号码变更时，请及时更新注册信息，这是我们与您联系的重要渠道；\n\n（四）应聘仅可通过招商银行官方招聘渠道进行，招商银行招聘不收取任何费用！\n\n（五）。\n\n我们期待，与您同行，梦想靠岸！",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:656a7ffbe0c24690a43f07ed9c3119a3",
+      "kind": "talk",
+      "title": "【宁德时代子公司】苏州时代新安27届校招宣讲会",
+      "company": "苏州时代新安能源科技有限公司",
+      "startAt": "2026-09-22T18:00:00+08:00",
+      "endAt": "2026-09-22T21:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼 A306",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=656a7ffbe0c24690a43f07ed9c3119a3",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "500-1000人",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "硬件工程师",
+          "education": "硕士",
+          "majors": "电气工程(研究生）",
+          "city": "江苏省苏州市",
+          "headcount": "10",
+          "description": "\"一、岗位职责描述：1、负责新能源汽车电机控制器产品硬件设计开发工作；2、负责硬件详细方案及架构设计,包括功率器件选型、电路参数设计、电应力和热应力仿真计算分析、原理图设计等；3、负责撰写测试用例，硬件单板级的单元测试和集成测试、电机控制器整机层面的集成测试、负责分析和解决测试问题,撰写问题分析报告；4、负责产品失效问题的根因分析和制定解决方案，持续优化产品设计方案。二、岗位要求：1、学历要求：硕士；2、专业要求：电力电子与电力传动、电气工程、汽车电子、控制科学与工程、自动化、电机控制、电子信息等相关专业；3.掌握电路基础、模拟/数字电子、电力电子和自动控制原理等专业知识；4.具备良好的逻辑思维能力、沟通能力和团队协作意识。\""
+        },
+        {
+          "title": "电控软件工程师",
+          "education": "硕士",
+          "majors": "电气工程(研究生）,电气工程及其自动化,电气工程及其自动化,电力电子与电力传动(研究生）",
+          "city": "江苏省苏州市",
+          "headcount": "10",
+          "description": "\"岗位职责1 与客户对接软件开发需求，根据需求，完成软件功能开发以及集成测试，主要负责电控应用层软件（ASW）开发、调试与测试，主要涵盖电机控制、上下电控制、整车通信等功能模块。2 与底层软件（BSW）、硬件（HW）团队紧密协作，完成软硬件集成、功能调试与问题排查。支持台架测试、整车/整机测试，分析并解决测试过程中出现的软件问题，确保软件功能、性能及可靠性满足要求。3 编写和维护相关的设计文档、测试文档及版本说明。遵循ASPICE、功能安全（ISO 26262）等开发流程与标准进行软件开发。任职要求学历与经验： 1、硕士学历，自动化、电气工程、电子信息、机械电子等相关专业；2、精通C/C++语言编程以及Simulink建模，具备良好的代码风格和软件工程思想。3、理解电机原理及经典控制理论（PID、FOC等），有实际的电机控制算法实现与调试经验。4、熟悉嵌入式系统开发流程，熟悉常用MCU（如TI C2000、NXP、Infineon AURIX、ST等至少一种）。工具与标准：5、熟悉CAN、UART、SPI、I2C等通信协议，具备CANoe/CANalyzer等工具使"
+        }
+      ],
+      "participants": [],
+      "description": "时代新安 2027届校园招聘简章\n\n【企业简介】\n\n苏州时代新安能源科技有限公司（简称“时代新安”），是宁德时代旗下创新孵化企业，注册资本25亿元。我们承接宁德时代在零碳交通领域的战略布局，专注为全球提供高价值的商用车电动底盘系统、零部件与解决方案，致力于成为零碳科技时代的引领者。\n\n【薪酬福利】\n\n极具行业竞争力的毕业生薪资方案：基本工资、年终奖金、丰富的激励体系、地方人才引进津贴；\n\n2、健全的福利体系：五险一金、法定年假、补充福利假（3天）、全薪病假（每月1天）、年度体检、餐饮补贴、交通补助、节日礼品、定期团建、丰富多彩的社团活动。\n\n【校招岗位】\n\n职能类型\n\n职位名称\n\n专业要求\n\n学历要求\n\n研发\n\n电机控制算法工程师\n\n电力电子、电气、电机与电器等相关专业；精通电机控制理论，热模型及常见电机控制算法，有较好的理论和实践能力。\n\n硕士及以上\n\n电控硬件工程师\n\n电力电子、电气、自动化等相关专业；掌握硬件/软件相关专业知识和业务流程，有良好的开发习惯。\n\n电控软件工程师\n\n结构工程师\n\n机械设计相关专业，熟练使用NX、Creo、Catia等结构设计软件，在校期间负责过结构开发项目。\n\n本科及以上\n\nNVH仿真工程师\n\n车辆工程或机械专业，熟悉Hypermesh、ANSA、OptiStruct等仿真软件。\n\n底盘电气工程师\n\n车辆工程或汽车电子等相关专业，熟练使用CAD和三维设计软件UG，了解汽车CAN、以太网、LIN通信机制等相关知识者优先。\n\n试验运营工程师\n\n车辆工程专业，掌握汽车构造专业知识、掌握汽车开发工艺，熟悉应用办公软件进行数据处理，驾驶经验丰富者优先。\n\n本科\n\n测试工程师\n\n测控技术、电子信息、自动化、电气工程等相关专业；熟练掌握数字电路、模拟电路、电力电子、单片机原理等相关专业知识。\n\n职能类型\n\n职位名称\n\n专业要求\n\n学历要求\n\n市场\n\n行销工程师\n\n车辆工程或自动化等相关专业；具备强烈的责任心和目标达成意识；擅长制定并落实计划，执行力强，确保任务高效推进。\n\n本科及以上\n\n项目工程师\n\n车辆工程、汽车电子、自动化等相关专业，熟练应用Project、Office办公软件，英语具备口语交流能力。\n\n市场研究工程师\n\n产品解决方案工程师\n\n销售管理工程师\n\n市场营销等相关专业，能熟练使用EXCEL进行各类数据分析，有过CRM系统、ERP系统操作经验者优先。\n\n本科\n\n供应链与运营\n\n项目质量工程师\n\n电气、自动化、机械等相关专业，沟通协调、思维逻辑能力强，具有较好的保密及廉洁意识。\n\n本科及以上\n\n供应商质量工程师\n\n采购工程师\n\n职能\n\n财务助理\n\n财务管理、会计学、审计学等相关专业，了解会计准则和财务核算流程；能熟练使用Office办公软件\n\n本科及以上\n\n人事专员\n\n人力资源或理工类专业，沟通能力强，有自媒体运营经验者优先。\n\n【校招安排】\n\n1、网申方式：\n\n（1）电脑端：登录招聘官网投递https://app.mokahr.com/campus-recruitment/synland\n\n（2）手机端：关注微信公众号【时代新安招聘】，选择校园招聘端口进入投递\n\n（微信扫描二维码，直接开启网申）\n\n【校招答疑专用邮箱】",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:bebd7fd1404d4deea2e49cd0f82ef606",
+      "kind": "talk",
+      "title": "2027春风动力全球校园招聘",
+      "company": "浙江春风动力股份有限公司",
+      "startAt": "2026-09-22T18:00:00+08:00",
+      "endAt": "2026-09-22T21:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼A508",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=bebd7fd1404d4deea2e49cd0f82ef606",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "春风动力2027校招招聘",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "全国",
+          "headcount": "500",
+          "description": "研发类（整车研发、新能源研发、智能研发）；设计类；生产制造类；营销管理类；职能类；采购/质量/供应链管理类 ；国际营销类"
+        }
+      ],
+      "participants": [],
+      "description": "逐风自锋芒｜2027春风动力全球校园招聘\n\n公司介绍\n\n关于春风动力（股票代码603129）\n\n浙江春风动力股份有限公司创立于1989年，全球总部位于杭州，是一家专注于摩托车、全地形车、新能源两轮及核心零部件研发、制造与销售的大型国际化企业。2025年全年营收同比增长31.30%，全球超9000经销商，业务覆盖100多个国家和地区。其中全地形车产品连续十余年欧洲市占率第一，两轮产品在国内200CC以上跨骑摩托车市场销量位居行业首位，电动极核产品2025年营收同比增长381.03%。\n\n春风动力秉承专注、进取、快乐的企业理念，诚邀青年人才加入我们共同打造世界一流的动力运动品牌，让生命体会更多运动乐趣。\n\n关于极核\n\n极核 ZEEHO，春风动力旗下首个电动子品牌，致力于城市出行趋势，旨在更好的满足Z时代的需求。成立于2020年12月，承袭CFMOTO三十余年动力运动基因，致力于为全球新一代用户带来高性能、高智能、高颜值、高品质的产品及全新的都市出行体验。极核一直保持高速增长。目前极核已建成覆盖全国400座城市，超2700家门店的服务网络。极核正以每年多款新品的节奏，快速构建全场景出行新生态。\n\n面向群体\n\n2027届毕业的本科、硕士、博士\n\n岗位详情\n\n研发类（整车研发、新能源研发、智能研发）；设计类；生产制造类；营销管理类；职能类；采购/质量/供应链管理类 ；国际营销类\n\n招聘流程\n\n线上网申/内推 → 简历筛选 → 在线测评 → 面试 → 发放Offer → 签约入职\n\n网申渠道\n\nPC端｜春风动力校园招聘官网：cfmoto.zhiye.com\n\n移动端｜关注「春风动力招聘」微信公众号，扫码一键投递\n\n薪酬福利\n\n有竞争力的薪酬 年度14薪\n\n餐补+五险一金+超长春节假期+长期激励+定期体检+生日福利\n\n员工健身房、丰富社团活动\n\n快乐春风，快乐工作！有你世界皆春风，我们在春风等你！",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:4f945f2c1d5b44fb81f04f781900d8e0",
+      "kind": "talk",
+      "title": "七彩化学2027届校园招聘",
+      "company": "鞍山七彩化学股份有限公司",
+      "startAt": "2026-09-22T18:00:00+08:00",
+      "endAt": "2026-09-22T21:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼 A406",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=4f945f2c1d5b44fb81f04f781900d8e0",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "研发工程师",
+          "education": "本科,硕士",
+          "majors": "制药工程,应用化学,工程力学,生物信息学,生物与医药,资源循环科学与工程,海洋技术,药学,环境生态工程,环境科学与工程,能源化学工程,土木水利,食品科学与工程,生物学,环境工程,化学工程与工业生物工程,化学工程,生物科学,生物科学,资源循环科学与工程,环境工程,生物技术与工程,生物学,环境生态工程类,土木水利,海洋技术,环境生态工程,海洋工程,应用化学,化学工程与工业生物工程,环境科学与工程,药学,能源化学工程,制药工程,食品科学与工程,能源化学工程类,生物与医药,化学工程,生物信息学,工程力学,化学工程与工艺（石油化工）,化学工程与工艺（天然气化工）,无机化学,物理化学,应用化学,化学工程,分析化学,材料与化工,物理化学(含化学物理),应用化学（张大煜化学基础科学班）,有机化学,化学,物理化学（含化学物理）,应用化学（强基班）,应用化学（张大煜化学菁英班）,环境科学(本科生）,制药工程(本科生）,化学工程与工艺（电化学）,能源化学工程（本科生）,软件工程（金融方向）,膜科学与技术(研究生）,制药工程,化学工程(研究生）,化学工程与技术(研究生）,安全工程(研究生）,过程装备与控制工程,制药工程(研究生）,应用化学（化学基础科学班）(本科生),化工环境生命类创新实验班(本科生),高分子材料与工程(本科生）,化学工程与工艺（催化化学与工程）,应用化学（张大煜化学菁英班）,无机化学(研究生）,应用化学(本科生）,精细化工,生物化工,生物工程(本科生）,过程装备与控制工程(本科生）,生物化工(研究生）,环境工程(本科生）,生物医学工程,有机化学,环境工程(研究生）,化学工程与工艺（创新实验班）(本科生）,功能材料化学与化工(研究生）,物理化学(研究生）,药物工程(研究生）,膜科学与技术,物理化学（含化学物理）(研究生）,生物工程,化学工程与工艺（国际班）(本科生),工业催化,安全工程(本科生）,化学工艺,未知,物理化学（含化学物理）,分析化学(研究生）,流体机械及工程,物理化学,环境科学(研究生）,环境工程,应用化学（化学基础科学班）,精细化工(研究生）,安全工程,化学工程与工艺（化学工艺）(本科生）,水科学与技术,生物学(研究生),化学工程与工艺（化学工程）,化学工程与工艺（化学工艺）,安全科学与工程,化工过程机械,轻化工程,高分子化学与物理,机械电子工程,化学工艺(研究生）,高分子材料,交通运输,环境科学与工程,化学工程与工艺（精细化工）,分析化学,功能材料化学与化工,化学工程与工艺（电化学）(本科生）,高分子材料与工程,生物工程与技术,药物化学(研究生）,环境科学与工程(研究生）,生物学,化学工程,高分子材料(研究生）,化学工程与工艺（国际班）,高分子化学与物理(研究生）,化学工程与工艺,工业催化(研究生）,化学工程与工艺（精细化工）(本科生）,化学工程与工艺（创新实验班）,药物工程,建筑环境与能源应用工程,生物技术,化学工程与工艺（能源化学工程）,化学工程与工艺（催化化学与工程）(本科生）,工业生态与环境规划,有机化学(研究生）,无机非金属材料工程,无机化学,材料成型及控制工程,能源化工,环境科学,土木工程,无机非金属材料工程(本科生）,药物化学,化学（应用化学）(研究生）,生物技术(本科生）,生物工程(研究生）,材料成型及控制工程（铸造方向）,能源化工(研究生）,化学工程与工艺（化学工程）(本科生）,安全科学与工程(研究生）,能源化学工程,应用化学(研究生）,应用化学,化学工程与技术,化工过程机械(研究生）,水文与水资源工程",
+          "city": "辽宁省鞍山市",
+          "headcount": "10",
+          "description": "1、新产品与新技术研发：主导/参与新产品开发项目，负责技术可行性分析、方案设计及实施跟踪行业前沿技术动态，推动创新技术在企业产品中的应用转化2、技术转移与知识管理：系统化接收新产品技术转移，完成技术文档（含设计规范、BOM、验证报告等）的标准化归档建立技术资料数据库，确保版本受控并实现跨部门共享3、工艺设计与标准化：编制详尽的工艺流程图、作业指导书及安全操作规程（含风险评估）主导新产品工艺验证（IQ/OQ/PQ），输出验证报告开展技术培训（覆盖研发/生产/质量部门），确保工艺标准落地4、持续工艺优化：通过PDCA循环改进新产品工艺，提升良率/效率（建议量化指标）协同生产部门进行成熟产品工艺巡检，主导偏差调查与CAPA实施5、设备与实验室管理：制定实验设备维护计划（含校准/点检/预防性维护）推行5S管理，负责实验室耗材库存管控及EHS体系执行"
+        },
+        {
+          "title": "管培生（管理类）",
+          "education": "本科,硕士",
+          "majors": "光学(研究生）,化学工程与工艺（天然气化工）,生物与医药,物理化学（含化学物理）,计算数学,人力资源管理,环境生态工程（本科生）,化学工程与工艺（化学工程）,生物信息学（本科生）,化学工程与工艺（催化化学与工程）,运动康复（本科生）,体育学,国际贸易学,无机化学,生物科学,应用化学,技术经济及管理,法学理论,运动训练,知识产权管理,企业管理(研究生）,分析化学(研究生）,工程力学(研究生）,电子商务（本科生）,分析化学,运筹学与控制论(研究生）,流体机械及工程(研究生）,物理化学（含化学物理）(研究生）,运动康复,过程装备与控制工程（海洋石油装备）（本科生）,环境工程,过程装备与控制工程,环境科学与工程,环境科学与工程(研究生）,能源化工,有机化学(研究生）,海洋技术,应用化学(本科生）,化学工程与工艺,光学,食品科学与工程,运筹学与控制论,电子商务,能源化学工程,生物学,生物信息学,流体机械及工程,知识产权,计算数学(研究生）,法学,环境工程(研究生）,过程装备与控制工程（石油化工过程与装备）（本科生）,企业管理,经济学,数理基础科学,化学工程与工业生物工程,有机化学,化学工程(研究生）,海洋工程,化学工程与工艺（石油化工）,管理科学与工程,过程装备与控制工程（石油化工过程与装备）,项目管理(研究生）,无机化学(研究生）,化学工程与工艺（天然气化工）（本科生）,化学工程,应用数学,工程力学,化学工程与工艺（创新实验班）,生物学(研究生),商务英语,资源循环科学与工程,产业经济学,项目管理,环境生态工程,知识产权（本科生）,生物工程,化学工艺(研究生）,药学,工业催化,人力资源管理（本科生）,应用统计,生物化工,管理科学与工程(研究生）,化学工艺,物理化学,土木水利,过程装备与控制工程（海洋石油装备）,金融数学与保险精算,商务英语（本科生）,化学工程与工艺（石油化工）（本科生）,体育学(研究生),膜科学与技术,经济学（本科生）,制药工程,应用化学,工程力学,生物信息学,生物与医药,资源循环科学与工程,海洋技术,药学,环境生态工程,环境科学与工程,能源化学工程,土木水利,食品科学与工程,生物学,环境工程,化学工程与工业生物工程,化学工程,生物科学,生物科学,资源循环科学与工程,环境工程,生物技术与工程,生物学,环境生态工程类,土木水利,海洋技术,环境生态工程,海洋工程,应用化学,化学工程与工业生物工程,环境科学与工程,药学,能源化学工程,制药工程,食品科学与工程,能源化学工程类,生物与医药,化学工程,生物信息学,工程力学,化学工程与工艺（石油化工）,化学工程与工艺（天然气化工）,生物工程,化学工程与工业生物工程,生物技术,生物科学,环境科学(本科生）,制药工程(本科生）,化学工程与工艺（电化学）,能源化学工程（本科生）,软件工程（金融方向）,膜科学与技术(研究生）,制药工程,化学工程(研究生）,化学工程与技术(研究生）,安全工程(研究生）,过程装备与控制工程,制药工程(研究生）,应用化学（化学基础科学班）(本科生),化工环境生命类创新实验班(本科生),高分子材料与工程(本科生）,化学工程与工艺（催化化学与工程）,应用化学（张大煜化学菁英班）,无机化学(研究生）,应用化学(本科生）,精细化工,生物化工,生物工程(本科生）,过程装备与控制工程(本科生）,生物化工(研究生）,环境工程(本科生）,生物医学工程,有机化学,环境工程(研究生）,化学工程与工艺（创新实验班）(本科生）,功能材料化学与化工(研究生）,物理化学(研究生）,药物工程(研究生）,膜科学与技术,物理化学（含化学物理）(研究生）,生物工程,化学工程与工艺（国际班）(本科生),工业催化,安全工程(本科生）,化学工艺,未知,物理化学（含化学物理）,分析化学(研究生）,流体机械及工程,物理化学,环境科学(研究生）,环境工程,应用化学（化学基础科学班）,精细化工(研究生）,安全工程,化学工程与工艺（化学工艺）(本科生）,水科学与技术,生物学(研究生),化学工程与工艺（化学工程）,化学工程与工艺（化学工艺）,安全科学与工程,化工过程机械,轻化工程,高分子化学与物理,机械电子工程,化学工艺(研究生）,高分子材料,交通运输,环境科学与工程,化学工程与工艺（精细化工）,分析化学,功能材料化学与化工,化学工程与工艺（电化学）(本科生）,高分子材料与工程,生物工程与技术,药物化学(研究生）,环境科学与工程(研究生）,生物学,化学工程,高分子材料(研究生）,化学工程与工艺（国际班）,高分子化学与物理(研究生）,化学工程与工艺,工业催化(研究生）,化学工程与工艺（精细化工）(本科生）,化学工程与工艺（创新实验班）,药物工程,建筑环境与能源应用工程,生物技术,化学工程与工艺（能源化学工程）,化学工程与工艺（催化化学与工程）(本科生）,工业生态与环境规划,有机化学(研究生）,无机非金属材料工程,无机化学,材料成型及控制工程,能源化工,环境科学,土木工程,无机非金属材料工程(本科生）,药物化学,化学（应用化学）(研究生）,生物技术(本科生）,生物工程(研究生）,材料成型及控制工程（铸造方向）,能源化工(研究生）,化学工程与工艺（化学工程）(本科生）,安全科学与工程(研究生）,能源化学工程,应用化学(研究生）,应用化学,化学工程与技术,化工过程机械(研究生）,水文与水资源工程,生物医学工程,化工过程机械,工业催化,物理化学,无机化学,有机化学,分析化学,化学（应用化学）,职业技术教育类,化工与制药类,化工与制药类（创新班）,药学,功能材料化学与化工,材料科学与工程,化学工程与工艺（精细化工）,化学工程与工艺（电化学）,能源化工,应用化学,水科学与技术,化学,流体机械及工程,工业生态与环境规划,药物化学,无机非金属材料工程,材料与化工,物理化学（含化学物理）,化学工程与工艺（创新实验班）,制药工程,化学工程与工艺（催化化学与工程）,化学工程与工艺（化学工艺）,储能科学与工程,高分子材料与工程,药物工程,化学工程,高分子化学与物理,能源化学工程,化学工程与工艺（化学工程）,化学工程硕士,生物与医药,精细化工,材料学,材料化工,过程装备与控制工程,安全科学与工程,化学工艺,化学工程与技术,过程装备与控制工程（石油化工过程与装备）,高分子材料,化学工程与工艺（材料化工）,化学类,膜科学与技术,材料工程,化学工程与工艺（国际班）,生物化工,化学工程与工艺,安全工程,化学工程与工艺(国际班),能源与环保,智能分子材料工程",
+          "city": "辽宁省鞍山市",
+          "headcount": "10",
+          "description": "1、跨部门轮岗与任务执行：参与公司管培生轮岗计划，深入研发、生产、职能等核心部门学习业务流程，协助负责人推进重点项目，定期提交结构化工作报告，确保任务高效闭环。2、实践成长与价值贡献：通过实战项目积累管理经验，在流程优化、成本控制或跨部门协作中主动提出可行性建议，推动业务效率提升，加速复合型能力成长。3、战略参与与计划落地：学习各业务模块管理体系，参与部门战略拆解及年度/季度计划制定，协助完成目标分解、执行跟踪（PDCA）及结果复盘。4、文化融入与团队协作：快速适应公司文化，在轮岗中建立跨部门协作网络，组织或参与团队知识分享，促进经验沉淀与信息互通。5、研究与创新：针对业务痛点或管理优化方向，在上级领导指导下完成专项交付，输出可落地的解决方案或创新提案。"
+        }
+      ],
+      "participants": [],
+      "description": "鞍山七彩化学股份有限公司招聘简章\n\n企业简介：\n\n鞍山七彩化学股份有限公司聚焦高档环保有机颜料与溶剂染料的研发、生产及销售，同时深度布局氨氧化系列材料单体，以及特种PA、特种TPU等高端有机新材料领域，构建起协同发展的产业体系。历经多年深耕与创新积淀，科学的管理模式以及对绿色低碳发展的坚定践行，已成长为行业内极具影响力的科技创新型上市股份公司。\n\n招聘岗位：\n\n研发工程师\n\n高潜管培生\n\nPSR合规业务专员\n\n专业要求：化工类相关专业\n\n工作时间：早八晚五 双休 五险一金\n\n工作地点：辽宁省 鞍山市 腾鳌经济开发区 1号路 8号\n\n福利待遇：\n\n五险一金、免费工作餐、免费独立公寓、带薪年假、年终奖、股权激励、工龄津贴、学历津贴、年度健康体检、福利假期（婚假、孕检假、产假、陪产假、育儿假、子女护理假）、政府政策（住房补贴、购房补贴）\n\n投递渠道",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:0996b0dbe6e14e7c8bd3356c4afd55a7",
+      "kind": "talk",
+      "title": "奇瑞集团 2027 届校园招聘",
+      "company": "奇瑞控股集团有限公司",
+      "startAt": "2026-09-22T18:00:00+08:00",
+      "endAt": "2026-09-22T21:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼A304",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=0996b0dbe6e14e7c8bd3356c4afd55a7",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "奇瑞集团 2027 届校园招聘",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "安徽省芜湖市",
+          "headcount": "5000",
+          "description": "详见招聘简章"
+        }
+      ],
+      "participants": [],
+      "description": "奇瑞集团 2027 届校园招聘\n\n让好奇发生\n\n用好奇改变世界！\n\n1、 2025年 ，奇瑞集团销售汽车累计 280.6 万辆 ，其中出口 134.4 万辆，蝉联中国汽车第一；2026年奇瑞集团半年报再创新纪录，销量超135万辆，出口超94万辆；\n\n2、奇瑞集团连续 23 年位居中国品牌乘用车出口第一；\n\n3、 奇瑞集团于2025年位列《财富》世界500强第233名，2026年集团乘用车板块首次以上市公司主体参评，排名第383位；\n\n4、坚持“In somewhere ，for somewhere”的全球化理念 ，致力于做海外当地的“施肥者”和价值贡献者，争做优秀企业公民；\n\n5、在 ESG 建设方面 ，成为“2024-2025 福布斯中国可持续发展工业企业” 唯一入选汽车企业；\n\n6、八大岗位方向 海量 offer；\n\n7、加入奇瑞 ，与我们一起 ，面向未来 ，永葆好奇与热爱 ，共同努力打造世界一流品牌。\n\n【关于奇瑞集团】\n\n奇瑞集团围绕汽车主价值链进行布局 ，成为以汽车产业为核心的多元化企业集团 ，旗下拥有奇瑞汽车、奇瑞商用车、奇瑞汽金、奇瑞科技等 500 余家成员企业。集团业务遍布全球 130 个国家和地区；截至目前，奇瑞集团累计全球用户突破2016万 ，其中海外用户超过699 万；连续 23 年位居中国品牌乘用车出口第一。\n\n奇瑞集团秉持“创新 责任 共赢”的核心理念 ，致力于成为具有全球影响力和竞争力的一流企业集团。\n\n【岗位方向】\n\n产品创新研发类、智能制造类、创意设计类、数字化与信息化类\n\n项目管理类、采购/供应链/质量类、 品牌营销类、 战略职能支持类\n\n【网申】\n\n方式一： PC 端\n\n登录 https://cheryholding.zhiye.com/campus\n\n选择校园招聘 ，注册、完善简历并投递即可\n\n方式二：移动端\n\n关注“奇瑞集团招聘”公众号\n\n点击“加入我们” ，选择“校园招聘” ，注册、完善简历并投递即可\n\n【招聘对象】\n\n2027 届海内外高校应届毕业生2026 年 9 月-2027 年 7 月毕业\n\n*中国大陆地区以毕业证为准 ，非中国大陆地区以学位证为准 ，且最高学历毕业后无全职工作经验\n\n【校招流程】\n\n【奇瑞赋能 助力成长 创造无限未来】薪酬体系 ：月度工资、季度奖、年终奖；\n\n法定福利 ：养老保险、 医疗保险、工伤保险、失业保险、生育保险、住房公积金；\n\n假期福利 ：带薪年假、产假、 陪产假、婚假、工伤假、产检假、调休等；\n\n生活福利 ：购车优惠、安家补贴、用餐补贴、员工宿舍、员工班车；\n\n健康福利 ：福利体检、商业保险、高温补贴；\n\n关怀福利： 团建活动、节日慰问、子女升学、兴趣协会。\n\n【联系我们】\n\n加入技术奇瑞 共同探索世界的无限可能\n\n欢迎关注“奇瑞集团招聘”官方微信公众号了解更多校招资讯",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:798ebe268e1b427699451eac6dbfee12",
+      "kind": "talk",
+      "title": "新安股份2027年校园招聘宣讲会",
+      "company": "浙江新安化工集团股份有限公司",
+      "startAt": "2026-09-22T18:00:00+08:00",
+      "endAt": "2026-09-22T21:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼 A308",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=798ebe268e1b427699451eac6dbfee12",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "有机硅海外销售工程师",
+          "education": "本科,硕士",
+          "majors": "功能材料化学与化工,材料科学与工程,无机非金属材料工程,材料与化工,高分子材料与工程,材料学,材料化工,高分子材料,化学工程与工艺（材料化工）,材料工程,智能分子材料工程,高分子材料与工程(本科生）,功能材料化学与化工(研究生）,高分子材料,功能材料化学与化工,高分子材料与工程,高分子材料(研究生）,无机非金属材料工程,材料成型及控制工程,无机非金属材料工程(本科生）,材料成型及控制工程（铸造方向）,材料表面工程(研究生）,材料类,金属材料工程（中日精英班）,材料无损检测与评价(研究生）,材料科学与工程（无机非金属材料方向）,材料加工工程(研究生）,材料连接技术,功能材料(本科生）,金属材料工程,材料工程,金属材料工程(本科生）,材料表面工程,材料工程(研究生）,材料学(研究生）,材料加工工程,材料成型及控制工程,智能分子材料工程,材料物理与化学,功能材料,金属材料工程（无损检测）,高分子材料,材料科学与工程,材料无损检测与评价,材料物理与化学(研究生）,金属材料工程（无损检测）(本科生）,材料与化工,材料物理(本科生）,材料连接技术(研究生）,材料学,金属材料工程（日语强化）(本科生）,金属材料工程（日语强化）,材料物理,材料成型及控制工程(本科生）",
+          "city": "浙江省杭州市",
+          "headcount": "5",
+          "description": "岗位职责：1、根据销售目标和市场情况，协助制定销售策略和计划，并对市场趋势和竞争对手进行分析评估；‌2、负责海外市场开拓和维护，与海外经销商建立合作关系，拓宽销售渠道，提高市场覆盖率；3、建立和维护良好的客户关系，了解客户需求，提供专业咨询和支持，及时解决客户问题和投诉‌，定期拜访潜在客户，建立长期合作关系；4、进行有机硅海外市场调研，收集市场信息，了解各行业对有机硅产品的具体需求、技术标准和认证要求，提升新安品牌在海外市场的知名度和影响力。"
+        },
+        {
+          "title": "有机硅工艺工程师",
+          "education": "本科,硕士",
+          "majors": "功能材料化学与化工,材料科学与工程,无机非金属材料工程,材料与化工,高分子材料与工程,材料学,材料化工,高分子材料,化学工程与工艺（材料化工）,材料工程,智能分子材料工程,高分子材料与工程(本科生）,功能材料化学与化工(研究生）,高分子材料,功能材料化学与化工,高分子材料与工程,高分子材料(研究生）,无机非金属材料工程,材料成型及控制工程,无机非金属材料工程(本科生）,材料成型及控制工程（铸造方向）,材料表面工程(研究生）,材料类,金属材料工程（中日精英班）,材料无损检测与评价(研究生）,材料科学与工程（无机非金属材料方向）,材料加工工程(研究生）,材料连接技术,功能材料(本科生）,金属材料工程,材料工程,金属材料工程(本科生）,材料表面工程,材料工程(研究生）,材料学(研究生）,材料加工工程,材料成型及控制工程,智能分子材料工程,材料物理与化学,功能材料,金属材料工程（无损检测）,高分子材料,材料科学与工程,材料无损检测与评价,材料物理与化学(研究生）,金属材料工程（无损检测）(本科生）,材料与化工,材料物理(本科生）,材料连接技术(研究生）,材料学,金属材料工程（日语强化）(本科生）,金属材料工程（日语强化）,材料物理,材料成型及控制工程(本科生）",
+          "city": "浙江省杭州市",
+          "headcount": "5",
+          "description": "岗位职责：1.负责生产提质、降耗、提效，相关QC、课题实施；2.负责中试转放大产品工艺承接；3.负责产品质量异常处置及纠正措施制定；4.负责生产工艺改进和创新并编制生产工艺规程，对工序过程进行技术指导和监督。"
+        },
+        {
+          "title": "有机硅研发工程师",
+          "education": "硕士,博士",
+          "majors": "材料与化工,高分子材料与工程(本科生）,功能材料化学与化工(研究生）,高分子材料,功能材料化学与化工,高分子材料与工程,高分子材料(研究生）,无机非金属材料工程,材料成型及控制工程,无机非金属材料工程(本科生）,材料成型及控制工程（铸造方向）,材料表面工程(研究生）,材料类,金属材料工程（中日精英班）,材料无损检测与评价(研究生）,材料科学与工程（无机非金属材料方向）,材料加工工程(研究生）,材料连接技术,功能材料(本科生）,金属材料工程,材料工程,金属材料工程(本科生）,材料表面工程,材料工程(研究生）,材料学(研究生）,材料加工工程,材料成型及控制工程,智能分子材料工程,材料物理与化学,功能材料,金属材料工程（无损检测）,高分子材料,材料科学与工程,材料无损检测与评价,材料物理与化学(研究生）,金属材料工程（无损检测）(本科生）,材料与化工,材料物理(本科生）,材料连接技术(研究生）,材料学,金属材料工程（日语强化）(本科生）,金属材料工程（日语强化）,材料物理,材料成型及控制工程(本科生）,功能材料化学与化工,材料科学与工程,无机非金属材料工程,材料与化工,高分子材料与工程,材料学,材料化工,高分子材料,化学工程与工艺（材料化工）,材料工程,智能分子材料工程",
+          "city": "浙江省杭州市",
+          "headcount": "5",
+          "description": "岗位职责：1.负责有机硅产品小试工艺及实验、分析检测操作，能够按照要求独立开展实验工作；2.负责有机硅产品小试、中试和产业化放大流程；3.参与有机硅产品的市场调研、研究开发、应用技术服务及生产技术支持等。"
+        }
+      ],
+      "participants": [],
+      "description": "浙江新安化工集团股份有限公司\n\n新安股份创建于1965年，2001年上市，拥有控股子公司80余家、员工8000余人。\n\n新安主营作物保护、硅基新材料、新能源材料三大产业，其中作物保护形成了“中间体-原药-制剂”一体化发展模式，涵盖种子种苗、除草剂、杀虫剂、杀菌剂、作物营养等完整的作物保护体系，为保障粮食安全、助力增产增收提供植保综合解决方案；硅基新材料拥有从上游硅矿开采冶炼、有机硅单体合成、下游产品制造的完整产业链，产品广泛应用于电力通信、轨道交通与汽车、医疗健康、电子科技等领域，畅销全球130多个国家和地区；新能源材料基于“磷基、硅基”两大产业基础与优势，围绕新能源应用场景打造材料综合解决方案，构建“三足鼎立”的新发展格局。\n\n·全球十大有机硅企业，全球农化销售20强、中国制造业500强、中国化工500强\n\n·国家创新型企业、国家高新技术企业、国家智能制造试点示范企业、全国知识产权示范企业\n\n·全国资源综合利用先进企业、中国石油和化工行业绿色工厂、中国民营企业社会责任百强、全国工商联抗击疫情先进民营企业\n\n招聘需求\n\n研发类岗位：作物保护研发工程师、有机硅研发工程师、研发分析工程师、造纸化学品研发工程师\n\n专业要求：化学工程与工艺、高分子材料与工程、材料科学与工程、应用化学、有机化学、精细化工等\n\n技术类岗位:设备工程师、工艺工程师、质量工程师、安全工程师、仪表工程师、应用技术服务工程师\n\n专业要求：农药学、农学、植物保护、化学工程与工艺、高分子材料与工程、植物保护、精细化工、产品质量工程、电气工程及其自动化、过程装备与控制、测控技术与仪器、自动化等\n\n业务类岗位:有机硅销售工程师、作物保护销售工程师、阻燃剂销售工程师、海外销售工程师等\n\n专业要求：法语、化学工程与工艺、高分子材料与工程、农药学、植物保护、农学等\n\n管培生岗位：财务管培生、工程工艺管培生、研发应用管培生、供应链管培生、市场营销管培生、人力资源管培生\n\n专业要求：化学工程与工艺、高分子材料与工程、材料科学与工程、应用化学、农药学、植物保护、农学等\n\n薪酬福利\n\n1．薪资：具备行业、地域竞争优势的薪资水平，本、硕、博超优人才薪资一人一议。\n\n2．主要福利：社会保险；商业保险；住房公积金；人才公寓；带薪年休；探亲假期；高层次人才购房无息借款；工会互助；子女助学；旅游基金。\n\n3. 发展机会：事业合伙；内部创客；项目合作；职务晋升；股权激励。\n\n4．文体活动：篮球队、足球队、羽毛球队、兵乓球队、游泳、瑜伽、新安好声音、辩论赛、挑战主持人、拓展活动、主题晚会。\n\n*各子公司岗位具体薪酬福利以子公司实际情况为准。\n\n三、简历投递方式\n\n1．新安集团校招网申系统：campus.wynca.com.cn\n\n2．扫码投递：\n\n四、联系方式\n\n单 位：浙江新安化工集团股份有限公司\n\n地 址：浙江杭州建德市江滨中路新安大厦1号\n\n电 话：（0571）64787060\n\n公司网址：www.wynca.com\n\nE-mail：",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:7022a3e806554451adef43e1287f4b1c",
+      "kind": "talk",
+      "title": "福耀集团2027届秋季校园招聘宣讲会",
+      "company": "福耀玻璃工业集团股份有限公司",
+      "startAt": "2026-09-22T18:00:00+08:00",
+      "endAt": "2026-09-22T21:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼 A401",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=7022a3e806554451adef43e1287f4b1c",
+      "companyInfo": {
+        "nature": "外商投资企业",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "采购管理-2027届校招",
+          "education": "本科,硕士",
+          "majors": "工商管理",
+          "city": "福建省福州市",
+          "headcount": "12",
+          "description": "岗位职责：①参与供应商的评估、评价、索赔和管理等；②参与价格谈判，实施采购计划、合理控制采购成本。任职要求：①学历要求：本科/硕士;②专业要求：经管类相关专业、物流管理、物流工程、工业工程专业等;③语种要求：英语四级及以上;④性格外向活泼,擅长沟通表达、有一定的抗压能力;⑤技能要求：熟练掌握办公软件、有一定的数据分析能力。工作地点：福州、天津、苏州、上海、合肥、厦门、重庆"
+        },
+        {
+          "title": "环境安全-2027届校招",
+          "education": "本科,硕士",
+          "majors": "环境管理,环境管理(研究生）",
+          "city": "福建省福州市",
+          "headcount": "1",
+          "description": "岗位职责：①负责公司环安体系建设、环安标准化建设实施的维持、改进、管理；②制定安全生产规章制度，实施各单位环安绩效考核等。任职要求：①学历要求：本科/硕士;②专业要求：环安类等专业;③语种要求：英语四级及以上;④沟通表达良好,逻辑严谨,抗压能力强。工作地点：福州"
+        },
+        {
+          "title": "物流管理-2027届校招",
+          "education": "本科,硕士",
+          "majors": "物流工程(研究生）,物流管理(本科生）,电子商务与物流管理,物流工程,物流管理",
+          "city": "福建省福州市",
+          "headcount": "3",
+          "description": "岗位职责：负责材料、成品的仓储和运输管理。任职要求：①学历要求：本科/硕士;②专业要求：物流管理、交通运输、国际经济与贸易、统计学、应用统计学等专业;③语种要求：英语四级及以上;④沟通表达良好,抗压能力强,思路开阔。工作地点：福州、合肥"
+        },
+        {
+          "title": "生产管理-2027届校招",
+          "education": "本科,硕士",
+          "majors": "不限专业",
+          "city": "福建省福州市",
+          "headcount": "180",
+          "description": "岗位职责：对车间生产现场的安全、人员、设备、物料、质量以及生产过程进行管理，确保高质量、低成本的及时完成生产任务。任职要求：①学历要求：本科;②专业要求：理工科或管理类专业;③语种要求：英语四级及以上;④逻辑清晰、沟通能力强,吃苦耐劳、抗压能力强。工作地点：福州、合肥、长春、沈阳、天津、郑州、重庆、厦门、荆门、上海、苏州、成都、柳州"
+        },
+        {
+          "title": "设备技术-2027届校招",
+          "education": "本科,硕士",
+          "majors": "机械设计制造及其自动化（国际班）(本科生）,机械工程,机械设计制造及其自动化（创新班）,机械设计制造及其自动化,机械制造及其自动化,机械类,机械设计制造及其自动化(日语强化),机械制造及其自动化(研究生）,机械设计制造及其自动化（英语强化）(本科生）",
+          "city": "福建省福州市",
+          "headcount": "38",
+          "description": "岗位职责：①参与厂区设备的维护管理，包括厂区设备日常检修、维护、升级、改造等工作；②新设备安装及调试，保证能及时投入生产；③对设备和工装夹具进行设计与改造。岗位要求：①学历要求：本科/硕士;②专业要求：机械、电气、自动化等专业;③语种要求：英语四级及以上;④积极主动,实践能力强,沟通表达良好,接受福耀培养模式。地点：福州、合肥、沈阳、重庆、长春、天津、上海、通辽"
+        },
+        {
+          "title": "体系内审-2027届校招",
+          "education": "本科,硕士",
+          "majors": "不限专业",
+          "city": "福建省福州市",
+          "headcount": "1",
+          "description": "岗位职责：①负责收集并消化各类国际国家体系标准、顾客体系要求（如Formel Q、Q1、 BIQS等）、法律法规要求,及公司内部要求,建立并不断优化体系管理文件,明确职责分工,确保体系管理流程清晰、适用、有效。②负责对接二、三方体系年审,及潜在供应商评审工作,跟踪审核问题按期整改,确保问题闭环。③负责实施公司内部体系审核工作（含管审、内审、过程审核、D特性审核等）,评价管理过程的有效性,推动问题预防性整改,不断完善体系流程。任职要求：①学历要求：本科/硕士;②专业要求：专业不限;③语种要求：英语四级及以上;④沟通表达良好,逻辑严谨,抗压能力强。工作地点：荆门"
+        },
+        {
+          "title": "工艺技术-2027届校招",
+          "education": "本科,硕士,博士",
+          "majors": "应用化学,化学工程,物流工程(本科生）,材料科学与工程,机械工程,机械设计制造及其自动化（创新班）,机械设计制造及其自动化,机械制造及其自动化,材料成型及控制工程,机械类",
+          "city": "福建省福州市",
+          "headcount": "57",
+          "description": "岗位职责：①参与工艺技术、工装、材料的优化与提升；②支持难度产品的技术攻关及项目管理过程；③为生产过程提供技术保障。岗位要求：①学历要求：本科/硕士;②专业要求：机械、材料、化学、化工相关专业;③语种要求：英语四级及以上;④有较好的逻辑思维以及解决问题能力。地点：福州、合肥、上海、重庆、苏州、本溪、通辽、沈阳、荆门、广州、天津"
+        },
+        {
+          "title": "市场营销-2027届校招",
+          "education": "本科,硕士",
+          "majors": "工商管理,管理科学与工程,企业管理,金融管理",
+          "city": "福建省福州市",
+          "headcount": "1",
+          "description": "岗位职责：①通过内外部渠道，收集汇总各客户和各子公司的新技术新产品需求，对于需求进行全面管理和市场洞察；②整理新产品的特点，分析市场需求及竞争态势，根据营销4P原则，策划新产品营销推广方案，拟定年度新产品推广计划和实施方案；③总结新产品需求收集、营销推广方案、推介方式的问题点，制定优化和改进对策。任职要求：①学历要求：本科/硕士；②专业要求：工商管理、市场营销、国际商务等专业；③语种要求：英语六级及以上，同时具备第二外语（日语、韩语之一）视为加分条件；④逻辑清晰，表达能力强；⑤可接受经常性出差。工作地点：福州"
+        },
+        {
+          "title": "工业工程-2027届校招",
+          "education": "本科,硕士",
+          "majors": "机械设计制造及其自动化（国际班）(本科生）,机械工程,机械设计制造及其自动化（创新班）,机械设计制造及其自动化,机械制造及其自动化,机械类",
+          "city": "福建省厦门市",
+          "headcount": "1",
+          "description": "岗位职责：①负责各工厂规划：含产能规划、产能提升、主要设备和辅助设备平面规划，确保及时实现产能目标； ②负责生产线规划落实，特别是重点设备改造项目，含评审设备设计、layout布局、基建和设备施工质量把进度控制，设备、工装通用性提升，并建立标准化； ③通过自动化、技改等方法现实生产线效率提升； ④推动工艺流程优化，挖掘和推广行业内新设备、新工艺，组织调研和测试。岗位要求：①学历要求：本科/硕士；②专业要求：机械设计、机电一体化、自动化类专业；③语种要求：英语四级及以上；④性格开朗，具有良好的沟通、协调能力；⑤有责任心、做事严谨。地点：厦门"
+        },
+        {
+          "title": "商务销售-2027届校招",
+          "education": "本科,硕士",
+          "majors": "金融,国际贸易学,工业工程,机械电子工程(研究生）,测控技术与仪器(本科生）,智能制造技术,机械设计制造及其自动化(日语强化),机械制造及其自动化(研究生）,先进制造,测试计量技术及仪器(研究生）,工业工程(研究生）,精密仪器及机械,机械设计制造及其自动化（英语强化）(本科生）,机械设计制造及其自动化（日语强化）(本科生）,机械设计制造及其自动化（国际班）,机械工程(研究生）,车辆工程(英语强化),测试计量技术及仪器,机械电子工程,机械设计制造及其自动化（日语强化）,机械",
+          "city": "福建省福州市",
+          "headcount": "4",
+          "description": "岗位职责：①关注收集市场信息，为公司决策提供支持；②负责客户的商务管理，包括客户关系维护、新品竞标、重大商务事项处理等；③完成产品成本测算与报价。岗位要求：①学历要求：本科/硕士；②专业要求：理工科、国贸或金融专业；③语种要求：英语六级及以上，同时具备第二外语（日语、德语、法语、韩语之一）视为加分条件；④逻辑清晰，表达能力强。地点：福州、上海"
+        },
+        {
+          "title": "财务会计-2027届校招",
+          "education": "本科,硕士",
+          "majors": "工商管理,金融,会计学,金融学",
+          "city": "福建省福州市",
+          "headcount": "28",
+          "description": "岗位职责：①财务核算、账务处理、报表编制及财务分析等会计工作；②资金、税务、保险等财务管理工作。岗位要求：①学历要求：本科/硕士;②专业要求：财务管理、会计、金融、统计等相关专业;③语种要求：英语四级及以上;④擅长沟通表达、思维逻辑清晰、抗压力强、责任心强。地点：福州、长春、厦门、苏州、荆门、重庆、上海、天津、合肥"
+        },
+        {
+          "title": "产品开发-2027届校招",
+          "education": "本科,硕士,博士",
+          "majors": "应用化学,化学工程,机械工程,机械制造及其自动化,物理化学,机械制造及其自动化,机械设计制造及其自动化,材料成型及控制工程",
+          "city": "福建省福州市",
+          "headcount": "66",
+          "description": "岗位职责：负责与客户接口承担新产品开发，通过对新产品开发过程实施管理，确保新产品开发满足客户的技术要求、项目的进度要求和新产品低成本稳定量产要求。岗位要求：①学历要求：本科/硕士；②专业要求：机械、材料成型、电气类、电子信息类、力学类、物理学类相关专业；③语种要求：英语四级及以上；④逻辑清晰，表达能力强；⑤具备CAD画图能力，动手能力强；⑥能用英语进行口语交流优先。地点：福州、苏州、天津、郑州、合肥、荆门、广州、长春、重庆、上海、厦门、沈阳"
+        },
+        {
+          "title": "销售跟单-2027届校招",
+          "education": "本科,硕士",
+          "majors": "工商管理,管理科学与工程,企业管理,电子商务与物流管理,金融管理",
+          "city": "福建省福州市",
+          "headcount": "9",
+          "description": "岗位职责：①负责产品订单下达、跟踪、发运;②负责日常客户服务,负责已量产客户交付、回款、库存跟踪与分析,完成部门层级报表的统计汇总和分析。任职要求：①学历要求：本科/硕士;②专业要求：外语类、国贸类、机械类、材料类等专业;③语种要求：英语六级及以上;④组织协调能力强,沟通表达良好,逻辑思维开阔。工作地点：福州、厦门、郑州、上海、荆门、重庆"
+        },
+        {
+          "title": "质量管理-2027届校招",
+          "education": "本科,硕士,博士",
+          "majors": "应用物理学,应用化学,化学工程,机械工程,机械设计制造及其自动化（创新班）,机械设计制造及其自动化,机械制造及其自动化,材料成型及控制工程,机械类",
+          "city": "福建省福州市",
+          "headcount": "94",
+          "description": "岗位职责：①新产品设计开发过程中的质量方案的策划和管控；②供应商的质量能力辅导和管控；③生产全过程的质量监督与管理。岗位要求：①学历要求：本科/硕士；②专业要求：机械、材料、电气、化学化工类相关专业；③语种要求：英语四级及以上，能用英语进行口语交流优先；④逻辑清晰，表达能力强。地点：福州、苏州、合肥、 广州、长春、沈阳、天津、厦门、荆门、上海、重庆、柳州、成都"
+        },
+        {
+          "title": "研发技术-2027届校招",
+          "education": "本科,硕士,博士",
+          "majors": "物理化学,应用化学,化学工程,机械制造及其自动化,机械电子工程,材料科学与工程,电气工程,物理学类",
+          "city": "福建省福州市",
+          "headcount": "9",
+          "description": "岗位职责：为公司开发新的材料、研发新的产品、攻关新的技术，以满足市场和量产的要求。岗位要求：①学历要求：本科/硕士；②专业要求：材料类、化学类、化工类、电子信息类、物理学类、光学类、力学类、声学类相关专业；③语种要求：英语四级及以上；④热爱研发工作，优秀的逻辑思维能力、学习创新能力、沟通协调能力。地点：福州、苏州、广州"
+        },
+        {
+          "title": "计划管理-2027届校招",
+          "education": "本科,硕士",
+          "majors": "工商管理,管理科学与工程,电子商务与物流管理,物流管理,电子商务与物流管理(研究生）",
+          "city": "福建省福州市",
+          "headcount": "37",
+          "description": "岗位职责：计划管理包含三个岗位方向：①订单计划：负责订单预测、接收和下达，统筹安排交付顺序，并跟踪协调订单交付的全过程；②生产计划：也叫生产调度，主要依据订单计划进行生产安排和调度，并对产能、库存进行监控和平衡；③物料计划：依据生产计划制定物料采购与储备计划，并对物料供应商的交付和公司物料库存进行监测和管控。任职要求：①学历要求：本科/硕士;②专业要求：物流管理、交通运输、国际经济与贸易等专业;③语种要求：英语四级及以上;④沟通表达良好,抗压能力强,思路开阔。工作地点：福州、合肥、沈阳、郑州、天津、苏州、上海、荆门、广州、重庆、厦门"
+        },
+        {
+          "title": "信息技术-2027届校招",
+          "education": "本科,硕士",
+          "majors": "软件工程,网络工程,计算机科学与技术(本科生）,计算机系统结构(研究生）",
+          "city": "福建省福州市",
+          "headcount": "5",
+          "description": "岗位职责：集团：①负责集团自主软件开发平台的搭建；②成熟套装软件的二次开发工作；③进行日常信息安全体系和信息安全运维工作。子公司：负责对公司服务器、计算机及外设、网络设备、监控设备、子系统运行维护。岗位要求：①学历要求：本科/硕士;②专业要求：计算机科学与技术、软件工程、网络工程等专业;③语种要求：英语四级及以上;④在校成绩优异,积极主动,沟通表达良好。地点：福州"
+        },
+        {
+          "title": "人力资源-2027届校招",
+          "education": "本科,硕士",
+          "majors": "工商管理,会计学,金融学,金融学（英语）,人力资源管理,经济学",
+          "city": "福建省福州市",
+          "headcount": "8",
+          "description": "岗位职责：参与公司人力资源选、育、留、用等相关管理实务工作，确保人力资源最有效地支持公司目标实现。岗位要求：①学历要求：本科/硕士;②专业要求：人力资源、工商管理、行政管理、企业管理、公共事业管理、心理学等相关专业;③语种要求：英语四级及以上;④思路清晰开阔,沟通协调能力强,内驱力强,比较务实,学习能力以及抗压能力强。地点：福州、上海"
+        },
+        {
+          "title": "产品设计-2027届校招",
+          "education": "本科,硕士,博士",
+          "majors": "机械制造及其自动化,化学工程,应用化学,材料科学与工程",
+          "city": "福建省福州市",
+          "headcount": "31",
+          "description": "岗位职责：①建立与客户的技术关系，洞察市场技术信息和客户需求；②负责产品设计并组织评审验证，为客户提供最优产品解决方案；③提供产品报价技术方案，协助销售部门完成新品竞标。岗位要求：①学历要求：本科/硕士；②专业要求：机械、材料成型、车辆工程相关专业；③语种要求：英语四级或日语N1或德语B2或韩语TOPIK3及以上；④具备二维三维画图能力；⑤性格外向活泼；⑥逻辑清晰，表达能力强；⑦愿意吃苦耐劳，有奉献精神。地点：福州、广州、合肥、上海、苏州"
+        }
+      ],
+      "participants": [],
+      "description": "福耀集团2027届校园招聘简章\n\n一、公司介绍：\n\n福耀集团（全称福耀玻璃工业集团股份有限公司）是一家致力于全球汽车玻璃和汽车饰件设计、开发、制造、供应及服务一体化解决方案的大型跨国工业集团。公司于1987年在中国福州注册成立，1993年在上海证券交易所挂牌，成为首家在A股上市的民营企业，股票简称：福耀玻璃，股票代码600660。2015年，福耀玻璃在H股上市，股票代码3606，形成兼跨境内外两大资本平台的“A+H”模式。\n\n二、企业实力：\n\n福耀集团多年蝉联《财富》中国500强、中国民营企业500强，多次获得“中国最佳企业公民”“中国十佳上市公司”“CCTV最佳雇主”等社会殊荣。\n\n福耀改变了汽车玻璃行业的世界格局，代表中国制造走向全球；\n\n市场份额占全球超过30%，实现全球前十大汽车品牌覆盖的大满贯；\n\n福耀近10年业绩持续稳定增长，并致力拓展海外市场，未来发展前景广阔；\n\n福耀智能工厂建设项目入选工信部“智能制造示范项目”；\n\n福耀在全球将拥有福建、天津、西南、上海、美国、德国等设计中心，与全球汽车厂商在同一平台进行设计与智慧的碰撞；\n\n福耀玻璃工程研究院是国家发改委、科技部认定的企业技术中心，博士后科研工作站，国家智能制造试点示范单位，并拥有国际一流的磁控溅射镀膜实验室、亚洲最大的天线室内测试暗室；\n\n美国代顿工厂是全球最大的汽车玻璃单体工厂，生产的第一片汽车玻璃被当地博物馆收藏，工厂所在路段被命名为“福耀大道”。\n\n三、工作地点：\n\n福州、厦门、广州、重庆、成都、柳州、荆门、上海、苏州、合肥、郑州、天津、沈阳、本溪、长春、通辽，更有机会在两年后前往欧洲、北美工作。\n\n四、联系方式：\n\n官方网址：http://www.fuyaogroup.com\n\n地址：福建省福清市福耀工业区Ⅱ 邮编：350301\n\n电话：86- 邮箱：\n\nPC端网申： http://job.fuyaogroup.com\n\n手机端网申：关注“福耀集团招聘”微信公众号投递简历\n\n福耀集团官方微信 福耀集团招聘官方微信\n\n五、大学生培养体系\n\n成长在福耀：新进大学生可以选择不同的职业通道高速发展\n\n管理序列：新进大学生→科长/车间主任→经理/厂长/所长→高级经理/高级厂长/高级所长→总经理/总监/总工\n\n技术序列：新进大学生→助理工程师/研究员→工程师/研究员→资深工程师/资深研究员→副高级工程师/副高级研究员→正高级工程师/正高级研究员→首席科学家\n\n职能/销售序列：新进大学生→助理专员→专员→专业经理→专业总监\n\n学习在福耀：\n\n完善的课程体系：管理类课程、技术类课程、职能类课程、操作类课程、综合类课程，以技术/职能/销售序列的乘风计划、破浪计划、沧海计划和管理序列的飞浆计划、扬帆计划、掌舵计划、领航计划来推动人才发展\n\n多样化学习方式：拓展训练、干部培训、晋级培训、行动学习、技术研讨、OJT训练等\n\n六、福利待遇\n\n提供有竞争力的薪酬（详情请到宣讲会现场了解）\n\n福利保险：五险一金（医疗、养老、失业、工伤、生育、住房公积金）\n\n生活设施：员工宿舍、员工餐厅、图书馆、篮球场、网球场、羽毛球馆、健身房等\n\n业余活动：迎新晚会、端午游园、迎春晚宴等\n\n各类补贴：伙食补贴、住房补贴、高温补贴等\n\n带薪假期：年休假、婚假、产假、病假、丧假等\n\n法定假期：元旦、春节、清明、五一、端午、国庆节、中秋等\n\n七、招聘岗位及要求：\n\n1. 招聘岗位及学历要求\n\n序号\n\n岗位方向\n\n需求人数\n\n岗位职责\n\n专业要求\n\n学历要求\n\n工作地点\n\n1\n\n研发技术\n\n13\n\n为公司开发新的材料、研发新的产品、攻关新的技术，以满足市场和量产的要求。\n\n材料类、化学类、化工类、电子信息类、物理学类、光学类、力学类、声学类相关专业；\n\n本科及以上\n\n福州、苏州\n\n2\n\n产品设计\n\n37\n\n①建立与客户的技术关系，洞察市场技术信息和客户需求；\n\n②负责产品设计并组织评审验证，为客户提供最优产品解决方案；③提供产品报价技术方案，协助销售部门完成新品竞标。\n\n机械、材料成型、车辆工程相关专业；\n\n本科及以上\n\n福清、福州、广州、合肥、厦门、上海、苏州、天津、长春、重庆\n\n3\n\n产品开发\n\n83\n\n负责与客户接口承担新产品开发，通过对新产品开发过程实施管理，确保新产品开发满足客户的技术要求、项目的进度要求和新产品低成本稳定量产要求。\n\n机械、材料成型、电气类、电子信息类、力学类、物理学类相关专业；\n\n本科及以上\n\n福清、合肥、荆门、厦门、上海、苏州、重庆、郑州、天津\n\n4\n\n质量管理\n\n119\n\n①新产品设计开发过程中的质量方案的策划和管控；\n\n②供应商的质量能力辅导和管控；\n\n③生产全过程的质量监督与管理。\n\n机械、材料、电气、化学化工类相关专业；\n\n本科及以上\n\n福清、苏州、合肥、 广州、长春、沈阳、天津、成都、厦门、通辽、上海\n\n5\n\n工艺技术\n\n79\n\n①参与工艺技术、工装、材料的优化与提升；\n\n②支持难度产品的技术攻关及项目管理过程；\n\n③为生产过程提供技术保障。\n\n机械、材料、化学、化工相关专业;\n\n本科及以上\n\n福清、合肥、长春、上海、重庆、苏州、本溪、通辽、沈阳、荆门、广州、天津、厦门\n\n6\n\n设备技术\n\n66\n\n①参与厂区设备的维护管理，包括厂区设备日常检修、维护、升级、改造等工作；\n\n②新设备安装及调试，保证能及时投入生产；\n\n③对设备和工装夹具进行设计与改造。\n\n机械、电气、自动化等专业；\n\n本科及以上\n\n福清、合肥、沈阳、苏州、重庆、荆门、长春、本溪、天津、上海\n\n7\n\n检测技术\n\n2\n\n①参与制定本所新检测技术自主研发项目的规划及落实，确保研发项目保质保量按时完成；\n\n②承担下达的新检测技术的研发、策划，确保满足新技术/新产品检测能力需求；\n\n③承担分配的常规检测实验任务，依据标准、要求，按时、保质、保量完成任务，并出具检测报告，确保客户满意；\n\n④根据新技术保护和知识产权等要求，承担/参与申请检测新技术专利，支持相关专利无效批驳，确保技术自主知识产权；参与起草/制修定国家/行业/企业标准；\n\n⑤根据集团和子公司需求，负责/参与新检测试验技术向各子公司技术服务与推广。\n\n理工类专业，光学及无机非金属专业优先\n\n本科及以上\n\n福清\n\n8\n\n工业工程\n\n1\n\n①负责各工厂规划：含产能规划、产能提升、主要设备和辅助设备平面规划，确保及时实现产能目标；\n\n②负责生产线规划落实，特别是重点设备改造项目，含评审设备设计、layout布局、基建和设备施工质量把进度控制，设备、工装通用性提升，并建立标准化；\n\n③通过自动化、技改等方法现实生产线效率提升；\n\n④推动工艺流程优化，挖掘和推广行业内新设备、新工艺，组织调研和测试。\n\n机械设计、机电一体化、自动化类专业\n\n本科及以上\n\n福清\n\n9\n\n信息技术\n\n14\n\n集团：\n\n①负责集团自主软件开发平台的搭建；\n\n②成熟套装软件的二次开发工作；\n\n③进行日常信息安全体系和信息安全运维工作。\n\n子公司：\n\n负责对公司服务器、计算机及外设、网络设备、监控设备、子系统运行维护。\n\n计算机科学与技术、软件工程、网络工程等专业；\n\n本科及以上\n\n福清、沈阳、天津、合肥、上海、荆门\n\n10\n\n财务会计\n\n19\n\n①财务核算、账务处理、报表编制及财务分析等会计工作；\n\n②资金、税务、保险等财务管理工作。\n\n财务管理、会计、金融、统计等相关专业;\n\n本科及以上\n\n福清、长春、郑州、 苏州、荆门、重庆、上海、广州、合肥、厦门\n\n11\n\n人力资源\n\n17\n\n参与公司人力资源选、育、留、用等相关管理实务工作，确保人力资源最有效地支持公司目标实现。\n\n人力资源、工商管理、行政管理、企业管理、公共事业管理、心理学等相关专业;\n\n本科及以上\n\n福清、长春、郑州、苏州、荆门、重庆、上海、广州、合肥、厦门\n\n12\n\n商务销售\n\n4\n\n①关注收集市场信息，为公司决策提供支持；\n\n②负责客户的商务管理，包括客户关系维护、新品竞标、重大商务事项处理等；\n\n③完成产品成本测算与报价。\n\n理工科、国贸或金融专业\n\n本科及以上\n\n福清\n\n13\n\n市场营销\n\n3\n\n①通过内外部渠道，收集汇总各客户和各子公司的新技术新产品需求，对于需求进行全面管理和市场洞察；\n\n②整理新产品的特点，分析市场需求及竞争态势，根据营销4P原则，策划新产品营销推广方案，拟定年度新产品推广计划和实施方案；\n\n③总结新产品需求收集、营销推广方案、推介方式的问题点，制定优化和改进对策。\n\n工商管理、市场营销、国际商务等专业\n\n本科及以上\n\n福清\n\n14\n\n物流管理\n\n7\n\n负责材料、成品的仓储和运输管理。\n\n物流管理、交通运输、国际经济与贸易、统计学、应用统计学等专业;\n\n本科及以上\n\n福清、合肥\n\n15\n\n采购管理\n\n11\n\n①参与供应商的评估、评价、索赔和管理等；\n\n②参与价格谈判，实施采购计划、合理控制采购成本。\n\n经管类相关专业、物流管理、物流工程、工业工程专业等\n\n本科及以上\n\n福清、天津、苏州、上海、合肥\n\n16\n\n销售跟单\n\n11\n\n①负责产品订单下达、跟踪、发运;\n\n②负责日常客户服务,负责已量产客户交付、回款、库存跟踪与分析,完成部门层级报表的统计汇总和分析。\n\n外语类、国贸类、机械类、材料类等专业；\n\n本科及以上\n\n福清、合肥\n\n17\n\n计划管理\n\n49\n\n计划管理包含三个岗位方向：\n\n①订单计划：负责订单预测、接收和下达，统筹安排交付顺序，并跟踪协调订单交付的全过程；\n\n②生产计划：也叫生产调度，主要依据订单计划进行生产安排和调度，并对产能、库存进行监控和平衡；\n\n③物料计划：依据生产计划制定物料采购与储备计划，并对物料供应商的交付和公司物料库存进行监测和管控。\n\n物流管理、交通运输、国际经济与贸易等专业；\n\n本科及以上\n\n福清、合肥、沈阳、成都、郑州、天津、苏州、上海、荆门、长春\n\n18\n\n环境安全\n\n3\n\n①负责公司环安体系建设、环安标准化建设实施的维持、改进、管理；\n\n②制定安全生产规章制度，实施各单位环安绩效考核等。\n\n环安类相关专业\n\n本科及以上\n\n福清、上海\n\n19\n\n体系内审\n\n2\n\n①负责收集并消化各类国际国家体系标准、顾客体系要求（如Formel Q、Q1、 BIQS等）、法律法规要求,及公司内部要求,建立并不断优化体系管理文件,明确职责分工,确保体系管理流程清晰、适用、有效。\n\n②负责对接二、三方体系年审,及潜在供应商评审工作,跟踪审核问题按期整改,确保问题闭环。\n\n③负责实施公司内部体系审核工作（含管审、内审、过程审核、D特性审核等）,评价管理过程的有效性,推动问题预防性整改,不断完善体系流程。\n\n专业不限\n\n本科及以上\n\n福清、上海\n\n20\n\n精益推进\n\n1\n\n①推动生产过程的改善优化，实现精益生产；\n\n②推动生产班组管理标准化，打造优秀基层组织。\n\n理工科类专业\n\n本科及以上\n\n福清\n\n21\n\n生产管理\n\n201\n\n对车间生产现场的安全、人员、设备、物料、质量以及生产过程进行管理，确保高质量、低成本的及时完成生产任务。\n\n理工科或管理类专业\n\n本科及以上\n\n福淸、合肥、长春、沈阳、天津、郑州、重庆、厦门、荆门、上海、苏州\n\n基本素质要求\n\n愿一起做强做大民族企业\n\n志存高远，吃苦耐劳\n\n品学兼优，具备较强的自我学习能力\n\n团队意识强，有管理技术潜力\n\n具备良好的沟通、协调、实操能力\n\nCET4以上，英语能力优秀或有其他语言优势者优先录用\n\n应聘流程\n\n关注福耀集团招聘公众号→网上投递简历 →面试 → offer签约 → 录用报到\n\n应聘说明：\n\n宣讲未覆盖到的高校同学也可以参加网申，就近选择参加面试城市或参与视频面试。\n\n本次校招仅接受网申简历。",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:76f5199397454c568c81f2c86b2cbc3d",
+      "kind": "talk",
+      "title": "赛轮集团(青岛) ·2027全球校园招聘",
+      "company": "赛轮集团股份有限公司青岛分公司",
+      "startAt": "2026-09-22T18:00:00+08:00",
+      "endAt": "2026-09-22T21:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼 A408",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=76f5199397454c568c81f2c86b2cbc3d",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "赛轮集团（青岛）2027校招--市场营销岗",
+          "education": "本科,硕士",
+          "majors": "不限专业",
+          "city": "山东省青岛市",
+          "headcount": "50",
+          "description": "赛轮集团（青岛）2027校招--市场营销岗岗位职责：1、负责新客户开发、来访接待、客情关系维护；2、负责获取客户订单，收集上报客户需求预测，制定返利政策，跟踪和协调排产、交付过程，确保按时、按量交付产品给客户；3、负责跟进客户回款情况，对于逾期货款，进行清欠追缴；4、负责客户投诉问题收集、处理、后续进展跟进、反馈；5、统计分析相关销售数据，并出具相关报告；任职资格：1、本科及以上学历，专业不限，缅甸语、葡萄牙语、西语、法语、德语、英语或理工类相关、国贸类专业优先；具备良好的口语沟通能力者优先；2、思维逻辑清晰、分析能力强，良好的沟通表达，应变能力强，能较好地处理突发情况；3、工作认真负责，积极性高，吃苦耐劳，责任心强，具备一定的问题解决能力与抗压能力；4、有较高的团队意识，服从公司管理，接受长期驻外工作。*关注赛轮集团招聘公众号，可了解投递更多职位。"
+        },
+        {
+          "title": "赛轮集团（青岛）2027校招--研究开发岗",
+          "education": "硕士,博士",
+          "majors": "不限专业",
+          "city": "山东省青岛市",
+          "headcount": "30",
+          "description": "赛轮集团（青岛）2027校招--研究开发岗岗位职责：负责结构设计、配方开发、性能仿真、花纹设计、材料开发、测试研究、材料物理开发等某一项工作任职资格：1、机械、车辆、力学、高分子材料与工程、化学、材料、工业设计学相关专业，具备较好的英语能力；2、具有较强的学习能力，能够独立查阅文献和总结；3、具有独立的实验能力，自主思考和创新；4、对工作保持积极认真的态度，责任心强，良好的团队精神。*关注赛轮集团招聘公众号，可了解投递更多职位。"
+        },
+        {
+          "title": "赛轮集团（青岛）2027校招--职能管理岗",
+          "education": "本科,硕士",
+          "majors": "不限专业",
+          "city": "山东省青岛市",
+          "headcount": "50",
+          "description": "赛轮集团（青岛）2027校招--职能管理岗岗位职责：负责人力资源管理、财务管理、资本管理、IT开发、高管助理、行政管理、国际订单管理、需求计划管理、品牌管理、物流管理、采购管理、可持续发展等某一项工作任职资格：1、人力资源管理、会计学、统计学、项目管理、数学、物流管理、计算机、国际经济与贸易、中文、视觉传达等相关专业，英语过四级；2、优秀的沟通表达能力，能清晰的表述自己的观点；3、优秀的逻辑思维、分析能力，能够快速迅速抓住问题重点；4、具备一定的项目计划、控制与流程管理能力；5、具备较强的执行力和抗压能力。*关注赛轮集团招聘公众号，可了解投递更多职位。"
+        }
+      ],
+      "participants": [],
+      "description": "赛轮集团(青岛) ·2027全球校园招聘\n\n一、集团介绍\n\n赛轮集团成立于 2002 年，总部位于青岛，是集轮胎研发、生产、销售和服务为一体的全球化集团公司。2025年营收367.92亿元，全球轮胎行业排名前十。\n\n作为国家橡胶与轮胎工程技术研究中心科研示范基地，掌握全球最大规格巨型工程子午胎核心技术、以及全球首个投入使用的橡胶工业互联网平台 —“橡链云”，采用世界首创液体黄金新材料技术制备的轮胎，覆盖乘用车胎、卡客车胎、特种车胎等全产品系列。作为从高校走出来的企业，赛轮以“做一条好轮胎”为使命，坚持“信任、尊重”的核心价值观，以优秀的导师带教青年人，始终把人的培养发展与企业可持续发展有机结合，2019-2027年连续7年被评为“中国最佳雇主”、“中国最受大学生喜爱雇主”、“中国典范雇主”等雇主称号。\n\n二、招聘对象\n\n1.面向人群：2027届海内外本硕博毕业生\n\n2.人才需求：\n\n序号\n\n岗位类别\n\n岗位名称\n\n需求专业\n\n1\n\n研究开发类\n\n性能仿真岗\n\n车辆工程、机械工程、力学、材料等相关专业\n\n2\n\n花纹设计岗\n\n产品设计、工业设计等相关专业\n\n3\n\n结构设计岗\n\n机械、车辆、力学等相关专业\n\n4\n\n配方开发岗\n\n高分子、材料、化学等相关专业\n\n5\n\n前沿材料开发岗\n\n材料学、化学、化工等无机、有机材料等相关专业\n\n6\n\n室内测试研究岗\n\n机械、力学、车辆工程、高分子材料等相关专业\n\n7\n\n道路测试研究岗\n\n机械、力学、车辆工程、高分子材料等相关专业\n\n8\n\n材料物理分析岗\n\n化学、材料、高分子、物理等相关专业\n\n9\n\n生产技术类\n\n设备管理岗\n\n电气、自动化、机械等相关专业\n\n10\n\n工艺管理岗\n\n高分子材料、化学、机械、车辆工程等相关专业\n\n11\n\n安全管理岗\n\n消防工程、环境工程等相关专业\n\n12\n\n仓储管理岗\n\n仓储管理、供应链管理、物流管理等相关专业\n\n13\n\n能源管理岗\n\n能源与动力工程专业、热工等相关专业\n\n14\n\n质量管理岗\n\n质量管理、高分子、化学、标准化工程、工业工程等相关专业\n\n15\n\n生产计划管理岗\n\n工业工程、物流管理、供应链管理、精益管理等相关专业\n\n16\n\n生产管理岗\n\n工业工程、物流管理、理工类等相关专业\n\n17\n\n市场营销类\n\n客户经理岗\n\n专业不限，市场营销、工商管理、语言类、理工类专业优先\n\n18\n\n市场服务岗位\n\n材料、机械等理工类、英语、蒙古语等语言类及管理类相关专业\n\n19\n\n海外客户经理\n\n缅甸语、葡萄牙语、西班牙语、法语、英语等专业或具备相关语言能力\n\n20\n\n职能支持类\n\nIT算法开发岗\n\n软件工程、计算机、大数据、数学等相关专业\n\n21\n\n资本管理岗\n\n财经类、法律类（经济法）等相关专业\n\n22\n\n财务管理岗\n\n财务管理、会计、金融等相关专业\n\n23\n\n人力资源管理岗\n\n人力资源、工商管理、社会学、心理学、统计学、数学等相关专业\n\n24\n\n需求计划管理岗\n\n统计学、计算机、工业工程、供应链管理等相关专业\n\n25\n\n订单管理岗\n\n国际经济与贸易、英语等相关专业\n\n26\n\n采购管理岗\n\n自动化、电气、机械等相关专业\n\n27\n\n物流管理岗\n\n物流管理、统计学、国际经济与贸易、英语等相关专业\n\n28\n\n高管助理岗\n\n英语、行政管理、企业管理、理工大类等相关专业\n\n29\n\n行政管理岗\n\n行政、英语、旅游、酒店、工商管理、物流、国际商务等相关专业\n\n30\n\n品牌传播岗\n\n新闻传播类、市场营销、汉语言文学、视觉传媒、数字媒体、视觉传达设计等相关专业\n\n31\n\n创新管理岗\n\n机械、电气、高分子材料等相关专业优先\n\n32\n\n可持续发展管理岗\n\n专业不限，环境、能源、化工、可持续发展等相关专业优先\n\n33\n\n小语种管培生\n\n德语、法语、俄西班牙语、葡萄牙语、越南语、印尼语、缅甸语、阿拉伯语等专业或具备相关语言能力\n\n更多岗位请关注公众号【赛轮集团招聘】，点击“校招岗位”进行查看\n\n3.工作地点：\n\n青岛、东营、潍坊、沈阳、海外\n\n4.薪资待遇（依据面试表现综合定薪）\n\n本科同学：综合年薪12W起\n\n硕士同学：综合年薪15W起\n\n5.福利待遇（青岛市为例）：\n\n福利：青岛户口、五险一金、免费班车、员工宿舍、过节福利、年度体检、出国游学等；\n\n培训：大学生训练营、实习培训、岗前培训、在岗培训、轮岗培训、外部培训、学历深造等；\n\n住房补助（青岛市人才引进现行政策）：博士生 1200/月，硕士生 800/月，本科生 500/月；\n\n一次性安家费（青岛市人才引进现行政策）：博士每人 15 万元，硕士每人 10 万元。\n\n三、招聘流程\n\n1.应聘环节：\n\n投递简历—测评—面试沟通—发放offer—录用签约\n\n2. 投递通道：\n\nPC端： 点击 https://sailuntire.zhiye.com/campus/jobs ，选择意向岗位投递\n\n移动端：关注“赛轮集团招聘”公众号，点击“校园招聘”-“校招岗位”，选择适合岗位投递。\n\n一起只管向前！",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:f2c5df918e1e48d59611be976a2952c3",
+      "kind": "talk",
+      "title": "锦Show长安丨新央企 新主场 长安汽车2027全球校园招聘简章",
+      "company": "重庆长安汽车股份有限公司",
+      "startAt": "2026-09-22T18:00:00+08:00",
+      "endAt": "2026-09-22T21:30:00+08:00",
+      "date": "2026-09-22",
+      "venue": "综合教学2号楼 B406",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=f2c5df918e1e48d59611be976a2952c3",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "锦Show长安丨新央企 新主场 长安汽车2027全球校园招聘",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "重庆市",
+          "headcount": "100",
+          "description": "详见招聘简章"
+        }
+      ],
+      "participants": [],
+      "description": "锦Show长安丨所向，皆有星光\n\n长安汽车2027全球校园招聘简章\n\n所向皆有星光，热爱自有回响\n\n更大平台已然启幕\n\n前沿赛道加速启航\n\n人工智能、新能源三电、全球化岗位全面招新\n\n这里，有面向未来的舞台\n\n更有走向全球的机会\n\n30+所高校宣讲即将启程\n\n属于你更广阔的主场，正式开启\n\n招募对象\n\n全球高校2027届毕业生\n\n本科及以上学历\n\n专业基础扎实，综合素质高\n\n具备良好的英语沟通能力者优先\n\n招聘岗位\n\n岗位类别\n\n岗位方向\n\n专业需求\n\n智能网联研发类\n\nAI算法、算法模型开发、智驾软件开发、智驾模型部署与性能优化、系统设计、智能化汽车软件测试、智能网联系统仿真测试开发、智能化系统开发、智能网联汽车测试开发、智能化系统及软件测试应用集成开发、应用软件研发、嵌入式系统设计/架构、嵌入式平台软件开发、嵌入式平台软件集成测试开发\n\n计算机类、机械类、人工智能类、自动化类、车辆工程类、电子信息类、电气工程类、控制工程类、测控技术与仪器类、机器人工程类、统计类、数学类、大数据类、人机交互设计类等\n\n新能源三电研发类\n\n总体系统集成、热管理产品开发、整车及机车集成产品设计、电驱总成开发、热管理性能开发、控制部件集成设计、模通化产品设计\n\n机械类、车辆类、材料类、热能动力类、电气控制类、计算机类、电子信息类、统计学类、力学类等\n\n整车及动力开发类\n\n总体设计、部件设计、内外饰设计、海外技术策略、线束集成设计、闭合件设计、灯具系统设计、车体设计、行驶性能开发、碰撞安全开发、NVH性能开发、新能源标定及动力性能开发、仿真分析、试验试制、整车集成开发、标准法规\n\n车辆工程类、电气工程类、自动化类、计算机类、电子信息类、能源动力类、电子电气类、机械类、材料类、振动与噪声类、声学类、测控类、电化学类、流体力学类、工业设计类、标准化类等\n\n机器人研发类\n\n结构与传动设计、嵌入式软件架构、视觉感知技术、自主导航技术、人机交互技术、工业设计、机器人系统控制、任务决策系统设计、电子设计\n\n电子信息类、自动化类、测控技术与仪器类、机械类、机器人类、计算机类、人工智能类、测绘类、心理学类、工业设计类、人机交互类、控制工程类、电气工程类、数学类等\n\n数字化技术类\n\n算法实现、数据运营、应用软件开发、云平台运维、信息安全、软件项目管理\n\n计算机类、电子信息类、数学类、统计学类、软件工程类、自动化类等\n\n造型设计类\n\n模型设计、曲面设计、创意设计\n\n雕塑类、工业设计（艺术类）、产品设计类、车辆工程类、美术学类、影视动画学类、视觉传达类、设计学类等\n\n品牌与市场营销类\n\n客户调研、人群研究、大数据分析、服务运营、客户体验研究、客户运营、销售运营、渠道发展、区域推广、新营销策划、品牌推广、流程体系、大客户销售\n\n工商管理类、广告学类、电子商务类、市场营销类、设计学类、传播学类、编导类、社会学类、心理学类、哲学类、经济学类、历史学类、统计学类、机械类、计算机类、电子信息类等\n\n智能制造类\n\n现场工艺技术、质量管理、物流技术、安全环保、生产管理、数字化建设、成本体系、采购管理、供应链管理、动力PD、新能源工艺、数字化设备、PVT、工装研发、工装编程、整车工艺设计、智能制造技术、包装技术\n\n物流类、供应链类、车辆工程类、机械类、包装工程类、计算机类、自动化类、材料类、安全工程类、环境工程类等\n\n职能管理类\n\n战略及产业规划、核算管理、资金计划、审计、知识产权维权法务、销售业务法务、海外法务、合规、人力资源\n\n工商管理类、会计学类、审计学类、财务管理类、计算机类、法学类、知识产权类、新闻学类、传播学类、人力资源类、公共关系学类等\n\n海外业务类\n\n区域销售、销售管理、品牌推广、业务规划、产品策划、客户运营、财务管理、综合管理、本地化开发、本地化策略\n\n英语、西班牙语、土耳其语、波兰语、意大利语、阿拉伯语、法语、波斯语、葡萄牙语、俄语、国际贸易（俄语）\n\n招聘流程\n\n网申——简历筛选——AI测评——英语测评（海外储备岗）——面试——Offer\n\n网申通道\n\nPC端：http://changan.zhiye.com/Campus\n\n移动端：关注“长安汽车招聘”微信公众号→网申通道→校园招聘\n\n网申完成后，系统将以邮件的形式给您发送线上测评地址及用户口令，请收到测评通知后及时完成，否则将影响后续的面试流程。\n\n即刻扫码，一键投递简历\n\n最新招聘动态，实时同步\n\n校园宣讲\n\n9-10月，校园宣讲会将陆续走进全国高校​\n\n详细日程安排，请持续关注“长安汽车招聘”微信公众号​\n\n期待与大家在线下相聚交流\n\n所向，皆有星河\n\n期待与你共赴下一程浩瀚星河",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-09-15T10:38:53.306Z",
+      "lastSeenAt": "2026-09-15T10:38:53.306Z",
       "changes": [
         "new"
       ]
