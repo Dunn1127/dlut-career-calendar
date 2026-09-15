@@ -101,7 +101,10 @@ public class MainActivity extends Activity {
             toast("请更新 Android System WebView，或在浏览器中导出日历");
             openExternal(Uri.parse(HOME));
         });
-        if (saved != null) pendingCalendar = saved.getString("pendingCalendar");
+        if (saved != null && saved.getBoolean("savingCalendar")) {
+            try { pendingCalendar = new String(java.nio.file.Files.readAllBytes(new java.io.File(getCacheDir(), "pending.ics").toPath()), StandardCharsets.UTF_8); }
+            catch (Exception missing) { pendingCalendar = null; }
+        }
         loadHome();
     }
 
@@ -124,6 +127,8 @@ public class MainActivity extends Activity {
             toast("日历内容无效"); return;
         }
         pendingCalendar = contents;
+        try { java.nio.file.Files.write(new java.io.File(getCacheDir(), "pending.ics").toPath(), contents.getBytes(StandardCharsets.UTF_8)); }
+        catch (Exception failure) { pendingCalendar = null; toast("暂时无法保存，请重试"); return; }
         Intent intent = new Intent(Intent.ACTION_CREATE_DOCUMENT).addCategory(Intent.CATEGORY_OPENABLE)
             .setType("text/calendar").putExtra(Intent.EXTRA_TITLE, filename.replaceAll("[^a-zA-Z0-9._-]", "_") + (filename.endsWith(".ics") ? "" : ".ics"));
         try { startActivityForResult(intent, SAVE_CALENDAR); }
@@ -134,6 +139,7 @@ public class MainActivity extends Activity {
         if (request != SAVE_CALENDAR) return;
         String contents = pendingCalendar;
         pendingCalendar = null;
+        new java.io.File(getCacheDir(), "pending.ics").delete();
         if (result != RESULT_OK || data == null || data.getData() == null || contents == null) return;
         Uri target = data.getData();
         new Thread(() -> {
@@ -144,7 +150,7 @@ public class MainActivity extends Activity {
             } catch (Exception failure) { runOnUiThread(() -> toast("保存失败，请重新导出")); }
         }).start();
     }
-    @Override protected void onSaveInstanceState(Bundle state) { super.onSaveInstanceState(state); state.putString("pendingCalendar", pendingCalendar); }
+    @Override protected void onSaveInstanceState(Bundle state) { super.onSaveInstanceState(state); state.putBoolean("savingCalendar", pendingCalendar != null); }
     @Override public void onBackPressed() {
         web.evaluateJavascript("(()=>{const d=document.querySelector('.detail-panel');const f=document.querySelector('#filter-dialog[open]');if(d||f){document.dispatchEvent(new KeyboardEvent('keydown',{key:'Escape',bubbles:true}));if(f)f.close();return true;}return false;})()", handled -> {
             if (!"true".equals(handled)) { if (web.canGoBack()) web.goBack(); else finish(); }
