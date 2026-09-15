@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
     private static final int SAVE_CALENDAR = 10;
     WebView web;
     String pendingCalendar;
+    volatile Uri savedCalendar;
     private LinearLayout error;
     private ProgressBar progress;
 
@@ -143,9 +144,12 @@ public class MainActivity extends Activity {
         if (result != RESULT_OK || data == null || data.getData() == null || contents == null) return;
         Uri target = data.getData();
         new Thread(() -> {
-            try (OutputStream output = getContentResolver().openOutputStream(target, "wt")) {
-                if (output == null) throw new java.io.IOException();
-                output.write(contents.getBytes(StandardCharsets.UTF_8));
+            try {
+                try (OutputStream output = getContentResolver().openOutputStream(target, "wt")) {
+                    if (output == null) throw new java.io.IOException();
+                    output.write(contents.getBytes(StandardCharsets.UTF_8));
+                }
+                savedCalendar = target;
                 runOnUiThread(() -> toast("日历已保存，可用日历应用打开导入"));
             } catch (Exception failure) { runOnUiThread(() -> toast("保存失败，请重新导出")); }
         }).start();
