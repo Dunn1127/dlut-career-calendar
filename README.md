@@ -2,6 +2,8 @@
 
 **在线访问：[大工宣讲日历](https://dunn1127.github.io/dlut-career-calendar/)** · [源码仓库](https://github.com/Dunn1127/dlut-career-calendar)
 
+**安卓安装：[下载 APK 1.0.0](https://github.com/Dunn1127/dlut-career-calendar/releases/download/android-v1.0.0/dlut-calendar-1.0.0.apk)**（Android 8.0及以上，联网使用）。收藏在应用内独立保存；导出ICS使用系统文件保存窗口。已通过[Android 15模拟器验证及签名检查](https://github.com/Dunn1127/dlut-career-calendar/actions/runs/34973549455)。使用和构建说明见 [android/README.md](android/README.md)。
+
 2026-09-15 已完成公开发布。北京时间每周一 07:15 计划自动更新，实际启动时间可能延迟；以页面显示的最近成功同步时间为准。
 
 发布验收：[首轮采集与部署](https://github.com/Dunn1127/dlut-career-calendar/actions/runs/34959037659)、[第二轮更新与部署](https://github.com/Dunn1127/dlut-career-calendar/actions/runs/34959288136)均成功；公开网址通过375、768、1280宽度的浏览、搜索、详情、收藏和ICS下载验证，以及跨日、读取失败和存储禁止场景验证。手机系统日历的实际导入尚未人工验收。
