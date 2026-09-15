@@ -1,0 +1,25 @@
+{
+  "name": "dlut-career-calendar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "大连理工大学宣讲日历静态站点与数据采集器",
+  "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "test": "node --test",
+    "test:browser": "node browser-tests/clock-check.mjs && node browser-tests/check.mjs",
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs site",
+    "preview": "node scripts/serve.mjs dist"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "ical.js": "^2.2.1"
+  }
+}

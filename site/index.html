@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="大连理工大学宣讲会、组团招聘与双选会日历。按日期、地点和岗位查找，并将活动保存到本机日历。">
+    <meta name="theme-color" content="#213183">
+    <title>大工宣讲日历</title>
+    <link rel="stylesheet" href="./styles/tokens.css">
+    <link rel="stylesheet" href="./styles/app.css">
+    <script type="module" src="./app.mjs"></script>
+  </head>
+  <body>
+    <div id="app-shell">
+      <header class="masthead">
+        <div class="shell masthead__inner">
+          <div class="brand" aria-label="大工宣讲日历">
+            <span class="brand__mark" aria-hidden="true">大</span>
+            <span>大工宣讲日历</span>
+          </div>
+          <label class="field header-search"><span class="sr-only">搜索企业、岗位、专业或城市</span>
+            <input id="search-filter" type="search" placeholder="搜索企业、岗位、专业或城市" autocomplete="off">
+          </label>
+          <a class="source-link" href="https://job.dlut.edu.cn" target="_blank" rel="noopener noreferrer">数据来自大连理工大学就业网 <span aria-hidden="true">↗</span></a>
+        </div>
+      </header>
+
+      <main class="shell main-content" id="main-content">
+        <section class="intro" aria-labelledby="page-title">
+          <div>
+            <h1 id="page-title">宣讲会安排</h1>
+            <p class="intro__copy">过去5天 · 未来15天 · 北京时间</p>
+          </div>
+          <div class="intro__meta" id="sync-meta" aria-live="polite">正在读取最新日程…</div>
+        </section>
+
+        <div id="status-banner" class="notice-region" aria-live="polite"></div>
+
+        <section class="workspace" id="workspace" aria-label="招聘日历">
+          <div class="workspace__header">
+            <div class="segmented" role="group" aria-label="内容">
+              <button class="segment is-active" type="button" id="tab-all" aria-pressed="true">全部活动</button>
+              <button class="segment" type="button" id="tab-favorites" aria-pressed="false">我的收藏 <span id="favorite-total" class="tab-count">0</span></button>
+            </div>
+            <button class="button button--secondary" id="export-favorites" type="button">导出未来收藏日历</button>
+          </div>
+
+          <div id="browse-controls">
+            <div class="calendar-bar">
+              <div class="calendar-bar__date">
+                <p class="eyebrow">选择日期</p>
+                <h2 id="range-title">近期日程</h2>
+              </div>
+              <div class="calendar-bar__actions">
+                <button class="icon-button" id="previous-week" type="button" aria-label="上一周">‹</button>
+                <button class="button button--soft" id="today-button" type="button">今天</button>
+                <button class="icon-button" id="next-week" type="button" aria-label="下一周">›</button>
+              </div>
+            </div>
+            <nav id="date-strip" class="date-strip" aria-label="七日日期"></nav>
+
+            <form class="filters" id="filters" role="search">
+              <h2 class="filters__heading">筛选活动</h2>
+              <label class="field">活动类型
+                <select id="kind-filter">
+                  <option value="talk">宣讲会</option>
+                  <option value="all">全部类型</option>
+                  <option value="group">组团招聘</option>
+                  <option value="fair">双选会</option>
+                  <option value="other">其他</option>
+                </select>
+              </label>
+              <label class="field">校区
+                <select id="campus-filter"><option value="">全部校区</option></select>
+              </label>
+              <label class="field">楼宇 / 地点
+                <select id="building-filter"><option value="">全部地点</option></select>
+              </label>
+              <button class="button button--secondary" id="clear-filters" type="button">重置筛选</button>
+              <p class="filters__note">校区与场地以学校原文为准。可查看过去5天及未来15天的安排。</p>
+            </form>
+
+            <div class="results-bar" id="results-bar">
+              <button class="button button--secondary mobile-filter-toggle" id="open-filters" type="button">筛选条件</button>
+              <p id="results-info" role="status"></p>
+              <div class="segmented segmented--small" role="group" aria-label="日历视图">
+                <button class="segment is-active" id="view-timeline" type="button" aria-pressed="true">时间轴</button>
+                <button class="segment" id="view-week" type="button" aria-pressed="false">七列周历</button>
+              </div>
+              <div class="active-filters" id="active-filters" aria-label="当前筛选条件"></div>
+            </div>
+          </div>
+
+          <div id="content" class="content-region" aria-live="polite"></div>
+        </section>
+        <p class="service-note">日程以学校就业网公开信息为准。收藏仅保存在当前浏览器；导入日历后，活动变更不会自动同步。</p>
+      </main>
+    </div>
+    <div id="detail-root"></div>
+    <dialog id="filter-dialog" class="filter-dialog" aria-labelledby="filter-dialog-title">
+      <div class="detail-panel__header"><h2 id="filter-dialog-title">筛选活动</h2>
+        <button class="button button--primary" id="close-filters" type="button">完成</button>
+      </div>
+    </dialog>
+  </body>
+</html>

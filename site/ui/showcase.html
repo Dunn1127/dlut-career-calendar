@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>组件状态 · 大工宣讲日历</title>
+    <link rel="stylesheet" href="../styles/tokens.css">
+    <link rel="stylesheet" href="../styles/app.css">
+  </head>
+  <body class="showcase-body">
+    <main class="shell showcase">
+      <h1>组件状态</h1>
+      <p>以下状态用于在手机、平板与桌面宽度检查交互对比和排版。</p>
+      <section class="showcase__section" aria-label="操作">
+        <h2>操作</h2>
+        <div class="showcase__row">
+          <button class="button button--primary" type="button">主要操作</button>
+          <button class="button button--secondary" type="button">次要操作</button>
+          <button class="button button--soft" type="button">回到今天</button>
+          <button class="button button--primary" type="button" disabled>不可操作</button>
+        </div>
+      </section>
+      <section class="showcase__section" aria-label="日期和状态">
+        <h2>日期与状态</h2>
+        <div class="date-strip showcase__dates">
+          <button class="date-cell is-selected" type="button"><span>周一</span><strong>14</strong><small>3 场</small></button>
+          <button class="date-cell is-today" type="button"><span>周二 · 今日</span><strong>15</strong><small>0 场</small></button>
+          <button class="date-cell" type="button"><span>周三</span><strong>16</strong><small>1 场</small></button>
+          <button class="date-cell" type="button" disabled><span>周四</span><strong>17</strong><small>窗外</small></button>
+        </div>
+      </section>
+      <section class="showcase__section" aria-label="表单和提示">
+        <h2>表单与提示</h2>
+        <div class="showcase__row">
+          <label class="field">活动类型<select><option>宣讲会</option></select></label>
+          <label class="field">搜索<input placeholder="企业、岗位、城市"></label>
+        </div>
+        <div class="notice notice--warning"><strong>日程可能过期</strong><span>请核对学校就业网的最新信息。</span></div>
+        <div class="notice notice--error"><strong>暂时无法读取日程</strong><span>稍后重试，已有收藏仍可查看。</span></div>
+      </section>
+      <section class="showcase__section" aria-label="活动卡片">
+        <h2>活动卡片</h2>
+        <div class="time-group"><span class="time-group__label">14:00</span><div class="time-group__events"><article class="event-card"><button class="event-card__open" type="button"><span class="event-card__top"><span class="pill">宣讲会</span><span class="pill pill--warning">时间有变更</span></span><strong>活动标题来自公开数据</strong><span class="event-card__company">企业名称由数据源提供</span><span class="event-card__meta">地点由数据源提供</span></button><button class="favorite-button" type="button">收藏</button></article></div></div>
+      </section>
+    </main>
+  </body>
+</html>

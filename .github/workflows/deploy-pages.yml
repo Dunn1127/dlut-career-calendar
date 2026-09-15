@@ -1,0 +1,91 @@
+name: Build and deploy calendar
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '15 23 * * *'
+    - cron: '15 4 * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: dlut-calendar-pages
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out project
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm test
+
+      - name: Collect latest public data
+        run: npm run collect
+
+      - name: Build public site
+        run: npm run build
+
+      - name: Persist successful data snapshot
+        if: success()
+        shell: bash
+        run: |
+          if [ ! -f site/data/events.json ]; then
+            echo 'site/data/events.json is missing after collection.' >&2
+            exit 1
+          fi
+          if git diff --quiet -- site/data/events.json && git ls-files --error-unmatch site/data/events.json >/dev/null 2>&1; then
+            echo 'Snapshot unchanged.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/data/events.json
+          git commit -m 'chore(data): update calendar snapshot'
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Upload data snapshot
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: dlut-data-snapshot-${{ github.run_id }}
+          path: site/data/events.json
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Configure Pages
+        if: success()
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        if: success()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        if: success()
+        uses: actions/deploy-pages@v4

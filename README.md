@@ -1,0 +1,47 @@
+# 大工宣讲日历
+
+大工宣讲日历是一个由大连理工大学就业网公开信息驱动的静态日历。它按日期、活动类型、校区、楼宇、企业、岗位、专业和城市筛选近期宣讲会、组团招聘与双选会，并支持在当前浏览器收藏和导出 ICS 日历。
+
+## 本地运行
+
+项目要求 Node.js 24 或更高版本。首次安装和日常验证可以使用：
+
+```sh
+npm ci
+npm test
+npm run build
+npm run dev
+```
+
+`npm run dev` 在 `http://127.0.0.1:4173/` 提供 `site`；`npm run preview` 提供上一次构建的 `dist`。两个服务都只监听本机地址。`npm run collect` 会访问学校公开接口并在完整采集成功后更新 `site/data/events.json`，本地运行不会自动定时更新数据。
+
+固定脚本如下：
+
+| 命令 | 用途 |
+| --- | --- |
+| `npm run collect` | 读取学校就业网完整分页和活动详情，更新公开数据快照 |
+| `npm test` | 运行 Node 原生测试 |
+| `npm run test:browser` | 在已启动本地站点上用独立 Chrome 验证375/768/1280布局、交互和日历下载 |
+| `npm run build` | 将公开的 `site` 资源复制到 `dist` |
+| `npm run dev` | 在 `127.0.0.1:4173` 运行开发站点 |
+| `npm run preview` | 在 `127.0.0.1:4173` 运行构建产物 |
+
+## 数据和可靠更新
+
+数据源是 [大连理工大学就业网](https://job.dlut.edu.cn) 的公开招聘接口：时间线为 `POST /f/recruitmentFair/ajax_timeline`，详情按活动类型使用招聘会、组团招聘或双选会详情路由。采集器会读取完整分页，再按 Asia/Shanghai 的过去 5 天至未来 15 天窗口整理数据；详情失败会保留已有详情并标记状态。
+
+网站只发布 `site` 下的公开资源。构建过程会清空并重新生成 `dist`，过滤测试、证据、QA 和依赖目录，并为入口页补充相对基路径，因此项目仓库部署到 GitHub Pages 子路径时仍能加载样式、脚本和数据。
+
+云端工作流位于 `.github/workflows/deploy-pages.yml`，按 UTC 23:15 和 04:15（北京时间次日 07:15 和 12:15）运行，也支持 `workflow_dispatch` 和 `main` 分支 push。它在同一个工作流中执行 `npm ci`、测试、采集、构建、快照归档和 Pages 部署。成功采集后的 `site/data/events.json` 会提交回项目仓库；该提交使用 `GITHUB_TOKEN`，而部署已经在当前运行中完成，不依赖这个提交再次触发构建。采集失败时不会部署新产物，最近一次已发布的数据继续可用，同时保留本次快照 artifact 供排查。
+
+## 收藏与日历导出
+
+收藏完整保存在当前浏览器的 `localStorage`，按活动 ID 合并最新数据，跨设备不会同步。单场活动或未来收藏可导出为带 Asia/Shanghai 时区、稳定 UID 和提前 30 分钟提醒的 ICS 文件。导入其他日历后，学校活动的时间和地点变更不会自动同步，请以网站和学校就业网为准。
+
+## 维护
+
+浏览器验收需本机安装 Chrome，并先在另一个终端运行 `npm run dev` 或 `npm run preview`。验收会建立独立临时浏览器上下文，不读取个人浏览记录或登录态。`CALENDAR_TEST_URL` 可指定验收网址；输出截图、日历文件和报告保存于上级工作区的 `.omo/evidence/dlut/browser`。页面每15秒检查活动状态及日期变化，浏览器禁止存储时会明确提示收藏仅在本次会话保留。
+
+日常维护顺序是 `npm ci`、`npm test`、`npm run collect`、`npm run build`。采集异常时先查看 `site/data/events.json` 的 `sync.status` 和 `lastSuccessAt`，确认旧快照仍在，再检查学校接口响应或手动重新运行工作流。只有完整成功的列表采集才会比较消失项；不要把接口暂时查不到的活动标称为取消。
+
+修改依赖时同步提交 `package.json` 和 `package-lock.json`。修改更新时间或 Pages 行为时更新 `.github/workflows/deploy-pages.yml`，并在本地用 `npm run build` 检查 `dist` 只包含网页公开资源。启用 GitHub Pages 时选择 GitHub Actions 作为构建来源；工作流需要仓库的 Pages 写入权限和 Actions 的写入权限。
