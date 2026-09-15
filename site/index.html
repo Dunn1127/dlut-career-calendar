@@ -5,10 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="大连理工大学宣讲会、组团招聘与双选会日历。按日期、地点和岗位查找，并将活动保存到本机日历。">
     <meta name="theme-color" content="#213183">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="大工宣讲日历">
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
     <title>大工宣讲日历</title>
     <link rel="stylesheet" href="./styles/tokens.css">
     <link rel="stylesheet" href="./styles/app.css">
     <script type="module" src="./app.mjs"></script>
+    <script type="module" src="./pwa.mjs"></script>
   </head>
   <body>
     <div id="app-shell">
@@ -94,6 +100,11 @@
           <div id="content" class="content-region" aria-live="polite"></div>
         </section>
         <p class="service-note">日程以学校就业网公开信息为准。收藏仅保存在当前浏览器；导入日历后，活动变更不会自动同步。</p>
+        <p id="offline-status" class="service-note" role="status" hidden></p>
+        <details class="service-note"><summary>安装到手机主屏幕</summary>
+          <p>iPhone：用 Safari 打开本页，点击分享 → 添加到主屏幕；如有“作为网页 App 打开”，请开启。</p>
+          <p>安卓：在浏览器菜单中选择“安装应用”或“添加到主屏幕”。首次联网加载完成后，可以离线查看已缓存的日程；学校原文需要联网。收藏保存在当前应用中。</p>
+        </details>
       </main>
     </div>
     <div id="detail-root"></div>

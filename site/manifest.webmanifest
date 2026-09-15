@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "大工宣讲日历",
+  "short_name": "大工宣讲",
+  "description": "大连理工大学宣讲会与招聘日历，每周一更新。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F5F4",
+  "theme_color": "#213183",
+  "icons": [
+    {"src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

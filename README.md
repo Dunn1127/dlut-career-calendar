@@ -2,6 +2,8 @@
 
 **在线访问：[大工宣讲日历](https://dunn1127.github.io/dlut-career-calendar/)** · [源码仓库](https://github.com/Dunn1127/dlut-career-calendar)
 
+**iPhone / PWA：** 用 Safari 打开网址 → 分享 → 添加到主屏幕；如有“作为网页 App 打开”，请开启。已配置独立窗口、应用图标和离线缓存。首次联网加载并完成缓存后，可离线查看日程与收藏；缓存可能被系统清理，学校原文需要联网。恢复网络后会重新读取数据，离线数据保留原同步时间并提示。应用新版本会在旧窗口全部关闭后再次打开时启用；数据每次打开联网获取，不必重装。苹果实体设备安装及系统日历导入仍需真机确认。
+
 **安卓安装：[下载 APK 1.0.0](https://github.com/Dunn1127/dlut-career-calendar/releases/download/android-v1.0.0/dlut-calendar-1.0.0.apk)**（Android 8.0及以上，联网使用）。收藏在应用内独立保存；导出ICS使用系统文件保存窗口。已通过[Android 15模拟器验证及签名检查](https://github.com/Dunn1127/dlut-career-calendar/actions/runs/34973549455)。使用和构建说明见 [android/README.md](android/README.md)。
 
 2026-09-15 已完成公开发布。北京时间每周一 07:15 计划自动更新，实际启动时间可能延迟；以页面显示的最近成功同步时间为准。

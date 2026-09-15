@@ -381,6 +381,7 @@ async function refreshData() {
       throw new Error('数据格式无效');
     }
     if (request !== state.request) return;
+    window.dispatchEvent(new CustomEvent('calendar-data-source', {detail: {cached: response.headers.get('X-Calendar-Cached') === '1'}}));
     const freshToday = shanghaiDate();
     if (state.followToday && freshToday !== state.today) {
       state.selectedDate = freshToday;
@@ -440,5 +441,6 @@ refs['filter-dialog'].addEventListener('click', event => {
   if (event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom) event.target.close();
 });
 window.setInterval(tickClock, 15_000);
+window.addEventListener('calendar-reconnect', refreshData);
 render();
 refreshData();

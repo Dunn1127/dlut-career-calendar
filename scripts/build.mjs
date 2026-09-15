@@ -1,4 +1,5 @@
-import {cp, mkdir, readFile, rm, stat, writeFile} from 'node:fs/promises';
+import {cp, mkdir, readFile, readdir, rm, stat, writeFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
 import {relative, resolve, sep} from 'node:path';
 
 const projectRoot = resolve(import.meta.dirname, '..');
@@ -60,4 +61,14 @@ try {
 }
 
 await writeFile(resolve(distRoot, '.nojekyll'), '', 'utf8');
+const assets = (await readdir(distRoot, {recursive: true, withFileTypes: true}))
+  .filter(entry => entry.isFile())
+  .map(entry => relative(distRoot, resolve(entry.parentPath, entry.name)).split(sep).join('/'))
+  .filter(path => path !== 'sw.js' && path !== 'data/events.json' && !path.startsWith('.')).sort();
+const digest = createHash('sha256');
+for (const path of assets) { digest.update(path); digest.update(await readFile(resolve(distRoot, path))); }
+const worker = await readFile(resolve(distRoot, 'sw.js'), 'utf8');
+digest.update(worker);
+await writeFile(resolve(distRoot, 'sw.js'), worker.replace("const VERSION = 'dev';", `const VERSION = '${digest.digest('hex').slice(0, 16)}';`)
+  .replace('const FILES = [];', `const FILES = ${JSON.stringify(assets)};`));
 console.log(`Built public site: ${relative(projectRoot, distRoot)} (source: ${relative(projectRoot, siteRoot)})`);
