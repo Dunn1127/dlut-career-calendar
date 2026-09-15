@@ -6,8 +6,8 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '15 23 * * *'
-    - cron: '15 4 * * *'
+    # Monday 07:15 Asia/Shanghai = Sunday 23:15 UTC.
+    - cron: '15 23 * * 0'
 
 permissions:
   contents: write

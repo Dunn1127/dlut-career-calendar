@@ -1,0 +1,61 @@
+name: Build Android APK
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: android-actions/setup-android@v3
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.13'
+      - name: Build and lint
+        working-directory: android
+        run: gradle assembleDebug assembleAndroidTest lintRelease --no-daemon
+      - name: Enable emulator acceleration
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+      - name: Test on Android 15
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 35
+          target: google_apis
+          arch: x86_64
+          profile: pixel_6
+          disable-animations: true
+          script: |
+            gradle -p android connectedDebugAndroidTest --no-daemon
+            adb pull /sdcard/Android/data/io.github.dunn1127.dlutcalendar/files android/app/build/reports/screenshots
+      - name: Sign release APK
+        env:
+          KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+        run: |
+          export ANDROID_KEYSTORE_PATH="$RUNNER_TEMP/calendar-release.jks"
+          printf '%s' "$KEYSTORE_BASE64" | base64 --decode > "$ANDROID_KEYSTORE_PATH"
+          gradle -p android assembleRelease --no-daemon
+          "$ANDROID_HOME/build-tools/35.0.0/apksigner" verify --verbose android/app/build/outputs/apk/release/app-release.apk
+          mkdir -p apk-output
+          cp android/app/build/outputs/apk/release/app-release.apk apk-output/dlut-calendar-1.0.0.apk
+          sha256sum apk-output/dlut-calendar-1.0.0.apk > apk-output/SHA256SUMS.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dlut-calendar-apk
+          path: apk-output/
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: android-test-reports
+          path: |
+            android/app/build/reports/
+            android/app/build/outputs/androidTest-results/

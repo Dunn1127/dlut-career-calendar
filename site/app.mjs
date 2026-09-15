@@ -108,8 +108,8 @@ function renderStatus() {
   if (!storage.persistent) refs['status-banner'].append(notice('收藏暂不能长期保存',
     '当前浏览器无法保存数据，收藏仅在本次页面会话有效。', 'warning'));
   const age = Date.now() - Date.parse(data?.lastSuccessAt ?? '');
-  if (data && (!Number.isFinite(age) || age > 26 * 60 * 60_000)) {
-    refs['status-banner'].append(notice('日程可能过期', '超过 26 小时没有成功同步，请以学校就业网为准。', 'warning'));
+  if (data && (!Number.isFinite(age) || age > 8 * 24 * 60 * 60_000)) {
+    refs['status-banner'].append(notice('日程可能过期', '超过 8 天没有成功同步，请以学校就业网为准。', 'warning'));
   }
   if (state.feedback) refs['status-banner'].append(notice('操作提示', state.feedback, 'warning'));
 }
@@ -257,7 +257,7 @@ function renderFilterChips() {
 
 function clockSignature() {
   const events = state.section === 'favorites' ? state.favorites.map(item => item.event) : state.snapshot?.events ?? [];
-  const old = Date.now() - Date.parse(state.snapshot?.lastSuccessAt ?? '') > 26 * 60 * 60_000;
+  const old = Date.now() - Date.parse(state.snapshot?.lastSuccessAt ?? '') > 8 * 24 * 60 * 60_000;
   return `${shanghaiDate()}|${old}|${events.map(event => eventStatus(event)).join(',')}`;
 }
 
@@ -306,6 +306,10 @@ function toggleSaved(event) {
 function downloadCalendar(events, filename) {
   try {
     const contents = createIcs(events);
+    if (window.AndroidCalendar?.postMessage) {
+      window.AndroidCalendar.postMessage(JSON.stringify({filename, contents}));
+      return;
+    }
     const href = URL.createObjectURL(new Blob([contents], {type: 'text/calendar;charset=utf-8'}));
     const link = node('a');
     link.href = href;
