@@ -36,9 +36,7 @@ jobs:
           arch: x86_64
           profile: pixel_6
           disable-animations: true
-          script: |
-            gradle -p android connectedDebugAndroidTest --no-daemon
-            adb pull /sdcard/Android/data/io.github.dunn1127.dlutcalendar/files android/app/build/reports/screenshots
+          script: bash android/emulator-check.sh
       - name: Sign release APK
         env:
           KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}

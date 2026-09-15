@@ -43,8 +43,8 @@ public class CalendarTest {
         assertEquals("true", js("document.documentElement.scrollWidth <= innerWidth"));
         File folder = rule.getActivity().getExternalFilesDir(null);
         device.takeScreenshot(new File(folder, "android-home.png"));
-        js("localStorage.clear(); location.reload()");
-        awaitJs("!!document.querySelector('#favorite-total') && document.querySelector('#favorite-total').textContent === '0' && document.querySelector('#sync-meta').textContent.includes('最近成功同步')");
+        js("window.__oldDocument=true; localStorage.clear(); location.reload()");
+        awaitJs("!window.__oldDocument && !!document.querySelector('#favorite-total') && document.querySelector('#favorite-total').textContent === '0' && document.querySelector('#sync-meta').textContent.includes('最近成功同步')");
         js("(()=>{const s=document.querySelector('#search-filter');s.value='ZZZ-no-match-XYZ';s.dispatchEvent(new Event('input',{bubbles:true}));})()");
         awaitJs("!!document.querySelector('.empty-reset')");
         js("document.querySelector('.empty-reset').click();document.querySelectorAll('[data-date]')[2].click()");
@@ -65,8 +65,8 @@ public class CalendarTest {
         assertTrue("Export file missing: " + saved, saved.contains("BEGIN:VCALENDAR"));
         assertTrue(saved.contains("BEGIN:VEVENT"));
         assertTrue(saved.contains("TZID:Asia/Shanghai"));
-        js("location.reload()");
-        awaitJs("!!document.querySelector('#favorite-total') && document.querySelector('#favorite-total').textContent==='1'");
+        js("window.__oldDocument=true; location.reload()");
+        awaitJs("!window.__oldDocument && !!document.querySelector('#favorite-total') && document.querySelector('#favorite-total').textContent==='1' && document.querySelector('#sync-meta').textContent.includes('最近成功同步')");
     }
     @Test public void restrictNavigationToCalendar() {
         assertTrue(MainActivity.isCalendarUrl(Uri.parse(MainActivity.HOME)));
