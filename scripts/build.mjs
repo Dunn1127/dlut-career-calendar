@@ -1,6 +1,7 @@
 import {cp, mkdir, readFile, readdir, rm, stat, writeFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {relative, resolve, sep} from 'node:path';
+import {addAnalytics} from './lib/analytics.mjs';
 
 const projectRoot = resolve(import.meta.dirname, '..');
 const siteRoot = resolve(projectRoot, 'site');
@@ -61,6 +62,8 @@ try {
 }
 
 await writeFile(resolve(distRoot, '.nojekyll'), '', 'utf8');
+const analytics = JSON.parse(await readFile(resolve(projectRoot, 'analytics.config.json'), 'utf8'));
+await writeFile(indexPath, addAnalytics(await readFile(indexPath, 'utf8'), analytics.cloudflareWebAnalyticsToken));
 const snapshotBytes = await readFile(resolve(distRoot, 'data/events.json'));
 await writeFile(resolve(distRoot, 'data/version.json'), JSON.stringify({
   version: createHash('sha256').update(snapshotBytes).digest('hex'),
