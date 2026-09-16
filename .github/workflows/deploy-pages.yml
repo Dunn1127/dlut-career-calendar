@@ -43,7 +43,14 @@ jobs:
         run: npm test
 
       - name: Collect latest public data
-        run: npm run collect
+        shell: bash
+        run: |
+          for attempt in 1 2 3; do
+            if npm run collect; then exit 0; fi
+            if [ "$attempt" -lt 3 ]; then sleep "$((attempt * 10))"; fi
+          done
+          echo 'Collection failed after three attempts; keeping the published snapshot.' >&2
+          exit 1
 
       - name: Build public site
         run: npm run build
