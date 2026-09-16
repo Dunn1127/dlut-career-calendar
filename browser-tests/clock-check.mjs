@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import {createHash} from 'node:crypto';
 import {readFile} from 'node:fs/promises';
 import {chromium} from 'playwright';
 
@@ -13,6 +14,7 @@ try {
   const page = await browser.newPage();
   await page.clock.install({time: new Date('2026-09-15T09:29:50+08:00')});
   await page.route('**/data/events.json?*', route => route.fulfill({json: snapshot}));
+  await page.route('**/data/version.json', route => route.fulfill({json:{version:createHash('sha256').update(JSON.stringify(snapshot)).digest('hex')}}));
   await page.goto('http://127.0.0.1:4173/');
   await page.locator('.event-card').waitFor();
   assert.match(await page.locator('.event-card').innerText(), /即将开始/);

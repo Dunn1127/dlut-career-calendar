@@ -61,10 +61,15 @@ try {
 }
 
 await writeFile(resolve(distRoot, '.nojekyll'), '', 'utf8');
+const snapshotBytes = await readFile(resolve(distRoot, 'data/events.json'));
+await writeFile(resolve(distRoot, 'data/version.json'), JSON.stringify({
+  version: createHash('sha256').update(snapshotBytes).digest('hex'),
+  lastSuccessAt: JSON.parse(snapshotBytes).lastSuccessAt,
+}));
 const assets = (await readdir(distRoot, {recursive: true, withFileTypes: true}))
   .filter(entry => entry.isFile())
   .map(entry => relative(distRoot, resolve(entry.parentPath, entry.name)).split(sep).join('/'))
-  .filter(path => path !== 'sw.js' && path !== 'data/events.json' && !path.startsWith('.')).sort();
+  .filter(path => path !== 'sw.js' && !path.startsWith('data/') && !path.startsWith('.')).sort();
 const digest = createHash('sha256');
 for (const path of assets) { digest.update(path); digest.update(await readFile(resolve(distRoot, path))); }
 const worker = await readFile(resolve(distRoot, 'sw.js'), 'utf8');

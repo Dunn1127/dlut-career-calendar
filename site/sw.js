@@ -8,19 +8,10 @@ const base = new URL('./', self.location.href);
 const dataUrl = new URL('data/events.json', base).href;
 const urls = new Set(FILES.map(path => new URL(path, base).href));
 
-async function saveData(response) {
-  if (!response.ok) throw new Error('Data unavailable');
-  const snapshot = await response.clone().json();
-  if (snapshot.schemaVersion !== 1 || !Array.isArray(snapshot.events) || !Number.isFinite(Date.parse(snapshot.lastSuccessAt))) {
-    throw new Error('Invalid data snapshot');
-  }
-  try { await (await caches.open(DATA)).put(dataUrl, response.clone()); } catch { /* Online reading still works when storage is full. */ }
-  return response;
-}
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
     await (await caches.open(SHELL)).addAll(FILES.map(path => new Request(new URL(path, base), {cache: 'reload'})));
-    try { await saveData(await fetch(dataUrl, {cache: 'no-store'})); } catch { /* A previous valid snapshot may still exist. */ }
+    // The page validates and stores data, avoiding a duplicate multi-MB download during install.
   })());
 });
 self.addEventListener('activate', event => {
@@ -33,7 +24,9 @@ async function getData(request) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 8000);
   try {
-    return await saveData(await fetch(request, {signal: controller.signal, cache: 'no-store'}));
+    const response = await fetch(request, {signal: controller.signal, cache: 'no-store'});
+    if (!response.ok) throw new Error('Data unavailable');
+    return response;
   } catch {
     const cached = await (await caches.open(DATA)).match(dataUrl);
     if (!cached) return new Response('No cached calendar available', {status: 503});

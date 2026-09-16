@@ -2,7 +2,7 @@
   "id": "./",
   "name": "大工宣讲日历",
   "short_name": "大工宣讲",
-  "description": "大连理工大学宣讲会与招聘日历，每周一更新。",
+  "description": "大连理工大学宣讲会与招聘日历，每天更新。",
   "lang": "zh-CN",
   "start_url": "./",
   "scope": "./",

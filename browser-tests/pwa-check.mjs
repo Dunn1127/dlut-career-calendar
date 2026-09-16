@@ -7,6 +7,8 @@ const base = process.env.CALENDAR_TEST_URL || 'http://127.0.0.1:4173/';
 const browser = await chromium.launch({channel:'chrome',headless:true});
 const context = await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});
 const page = await context.newPage();
+let downloads = 0;
+context.on('request', request => { if (new URL(request.url()).pathname.endsWith('/data/events.json')) downloads++; });
 try {
   await page.goto(base);
   await expect(page.locator('#sync-meta')).toContainText('最近成功同步');
@@ -16,6 +18,11 @@ try {
   assert.equal(manifest.display,'standalone');
   assert.equal(manifest.icons.length,3);
   const original = await page.evaluate(async()=> (await (await caches.open('dlut-calendar-data-v1')).match(new URL('./data/events.json',location.href))).json());
+  const firstDownloads = downloads;
+  for (let i = 0; i < 5; i++) await page.evaluate(()=>document.dispatchEvent(new Event('visibilitychange')));
+  await page.reload();
+  await expect(page.locator('#sync-meta')).toContainText('最近成功同步');
+  assert.equal(downloads,firstDownloads,'foreground changes and reload should reuse the snapshot');
   const tomorrow = addDays(shanghaiDate(),1);
   if (!await page.locator(`[data-date="${tomorrow}"]`).count()) await page.locator('#next-week').click();
   await page.locator(`[data-date="${tomorrow}"]`).click();
@@ -39,5 +46,5 @@ try {
   await expect(page.locator('#sync-meta')).toContainText('最近成功同步');
   await expect(page.locator('#offline-status')).toBeHidden();
   await writeFile(new URL('report.json',evidence),JSON.stringify({base,testedAt:new Date().toISOString(),result:'PASS',checks:['manifest and icons','offline reload','cached snapshot preserves timestamp','favorites survive offline restart','network restores fresh data']},null,2));
-  console.log('PASS PWA: manifest, offline restart, cached timestamp, favorites, reconnect');
+  console.log('PASS PWA: manifest, no duplicate full downloads, offline restart, cached timestamp, favorites, reconnect');
 } finally {await browser.close();}

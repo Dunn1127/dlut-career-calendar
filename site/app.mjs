@@ -2,6 +2,7 @@ import {addDays, formatDate, shanghaiDate, eventStatus} from './lib/domain.mjs';
 import {resilientStorage} from './lib/storage.mjs';
 import {readFavorites, writeFavorites, toggleFavorite, mergeFavorites, conflictIds, futureFavoriteEvents} from './lib/favorites.mjs';
 import {createIcs} from './lib/calendar.mjs';
+import {createDataLoader} from './lib/data-loader.mjs';
 import {node, clear} from './ui/dom.mjs';
 import {filterEvents, locationOptions, countByDate, mondayOf, weekDates, weekday, insideWindow, KIND_LABEL} from './ui/model.mjs';
 import {renderTimeline, renderWeek, renderFavorites, emptyState} from './ui/views.mjs';
@@ -108,8 +109,8 @@ function renderStatus() {
   if (!storage.persistent) refs['status-banner'].append(notice('收藏暂不能长期保存',
     '当前浏览器无法保存数据，收藏仅在本次页面会话有效。', 'warning'));
   const age = Date.now() - Date.parse(data?.lastSuccessAt ?? '');
-  if (data && (!Number.isFinite(age) || age > 8 * 24 * 60 * 60_000)) {
-    refs['status-banner'].append(notice('日程可能过期', '超过 8 天没有成功同步，请以学校就业网为准。', 'warning'));
+  if (data && (!Number.isFinite(age) || age > 26 * 60 * 60_000)) {
+    refs['status-banner'].append(notice('日程可能过期', '超过 26 小时没有成功同步，请以学校就业网为准。', 'warning'));
   }
   if (state.feedback) refs['status-banner'].append(notice('操作提示', state.feedback, 'warning'));
 }
@@ -257,7 +258,7 @@ function renderFilterChips() {
 
 function clockSignature() {
   const events = state.section === 'favorites' ? state.favorites.map(item => item.event) : state.snapshot?.events ?? [];
-  const old = Date.now() - Date.parse(state.snapshot?.lastSuccessAt ?? '') > 8 * 24 * 60 * 60_000;
+  const old = Date.now() - Date.parse(state.snapshot?.lastSuccessAt ?? '') > 26 * 60 * 60_000;
   return `${shanghaiDate()}|${old}|${events.map(event => eventStatus(event)).join(',')}`;
 }
 
@@ -371,17 +372,13 @@ function closeDetail() {
   (replacement ?? refs['tab-all']).focus({preventScroll: true});
 }
 
-async function refreshData() {
+const dataLoader = createDataLoader();
+async function refreshData(force = false) {
   const request = ++state.request;
   try {
-    const response = await fetch(`./data/events.json?view=${Date.now()}`, {cache: 'no-store'});
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const data = await response.json();
-    if (data.schemaVersion !== 1 || !Array.isArray(data.events) || !data.window?.start || !data.window?.end) {
-      throw new Error('数据格式无效');
-    }
+    const {data, cached} = await dataLoader.load({force});
     if (request !== state.request) return;
-    window.dispatchEvent(new CustomEvent('calendar-data-source', {detail: {cached: response.headers.get('X-Calendar-Cached') === '1'}}));
+    window.dispatchEvent(new CustomEvent('calendar-data-source', {detail: {cached}}));
     const freshToday = shanghaiDate();
     if (state.followToday && freshToday !== state.today) {
       state.selectedDate = freshToday;
@@ -441,6 +438,6 @@ refs['filter-dialog'].addEventListener('click', event => {
   if (event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom) event.target.close();
 });
 window.setInterval(tickClock, 15_000);
-window.addEventListener('calendar-reconnect', refreshData);
+window.addEventListener('calendar-reconnect', () => refreshData(true));
 render();
 refreshData();

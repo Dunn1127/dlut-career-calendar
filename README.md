@@ -6,7 +6,7 @@
 
 **安卓安装：[下载 APK 1.0.0](https://github.com/Dunn1127/dlut-career-calendar/releases/download/android-v1.0.0/dlut-calendar-1.0.0.apk)**（Android 8.0及以上，联网使用）。收藏在应用内独立保存；导出ICS使用系统文件保存窗口。已通过[Android 15模拟器验证及签名检查](https://github.com/Dunn1127/dlut-career-calendar/actions/runs/34973549455)。使用和构建说明见 [android/README.md](android/README.md)。
 
-2026-09-15 已完成公开发布。北京时间每周一 07:15 计划自动更新，实际启动时间可能延迟；以页面显示的最近成功同步时间为准。
+2026-09-15 已完成公开发布。北京时间每天 07:15 计划自动更新，实际启动时间可能延迟；以页面显示的最近成功同步时间为准。
 
 发布验收：[首轮采集与部署](https://github.com/Dunn1127/dlut-career-calendar/actions/runs/34959037659)、[第二轮更新与部署](https://github.com/Dunn1127/dlut-career-calendar/actions/runs/34959288136)均成功；公开网址通过375、768、1280宽度的浏览、搜索、详情、收藏和ICS下载验证，以及跨日、读取失败和存储禁止场景验证。手机系统日历的实际导入尚未人工验收。
 
@@ -38,11 +38,13 @@ npm run dev
 
 ## 数据和可靠更新
 
+客户端每次打开先读取约百余字节的 `data/version.json`。SHA256版本未变时复用 Cache Storage 中的有效日程；只有新版本才下载完整JSON，并校验内容哈希。页面内的前后台切换最多每10分钟检查一次，恢复联网时立即重试；并发检查合并为一次请求。存储不可用时退回内存缓存，网络或校验失败时保留旧数据。版本清单在构建时与数据一同生成、发布；超过26小时未成功采集时页面提示过期。
+
 数据源是 [大连理工大学就业网](https://job.dlut.edu.cn) 的公开招聘接口：时间线为 `POST /f/recruitmentFair/ajax_timeline`，详情按活动类型使用招聘会、组团招聘或双选会详情路由。采集器会读取完整分页，再按 Asia/Shanghai 的过去 5 天至未来 15 天窗口整理数据；详情失败会保留已有详情并标记状态。
 
 网站只发布 `site` 下的公开资源。构建过程会清空并重新生成 `dist`，过滤测试、证据、QA 和依赖目录，并为入口页补充相对基路径，因此项目仓库部署到 GitHub Pages 子路径时仍能加载样式、脚本和数据。
 
-云端工作流位于 `.github/workflows/deploy-pages.yml`，按 UTC 每周日 23:15（北京时间每周一 07:15）运行，也支持 `workflow_dispatch` 和 `main` 分支 push。它在同一个工作流中执行 `npm ci`、测试、采集、构建、快照归档和 Pages 部署。成功采集后的 `site/data/events.json` 会提交回项目仓库；该提交使用 `GITHUB_TOKEN`，而部署已经在当前运行中完成，不依赖这个提交再次触发构建。采集失败时不会部署新产物，最近一次已发布的数据继续可用，同时保留本次快照 artifact 供排查。
+云端工作流位于 `.github/workflows/deploy-pages.yml`，按 UTC 每天 23:15（北京时间每天 07:15）运行，也支持 `workflow_dispatch` 和 `main` 分支 push。它在同一个工作流中执行 `npm ci`、测试、采集、构建、快照归档和 Pages 部署。成功采集后的 `site/data/events.json` 会提交回项目仓库；该提交使用 `GITHUB_TOKEN`，而部署已经在当前运行中完成，不依赖这个提交再次触发构建。采集失败时不会部署新产物，最近一次已发布的数据继续可用，同时保留本次快照 artifact 供排查。
 
 ## 收藏与日历导出
 
