@@ -6,10 +6,8 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Daily 07:15 Asia/Shanghai = previous day 23:15 UTC.
-    - cron: '15 23 * * *'
-    # Backup attempts at 10:15 and 13:15 Beijing time, only if today's data is not public.
-    - cron: '15 2,5 * * *'
+    # Daily 04:00 Asia/Shanghai = previous day 20:00 UTC.
+    - cron: '0 20 * * *'
 
 permissions:
   contents: write
