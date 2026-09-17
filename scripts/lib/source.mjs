@@ -8,15 +8,31 @@ const DETAIL_ROUTES = {
   双选会: ['bilateralchosefair', 'bilateralchosefairId'],
 };
 
-export async function postJson(path, body, {fetchImpl = fetch} = {}) {
-  const response = await fetchImpl(new URL(path, BASE_URL), {
-    method: 'POST',
-    headers: {'content-type': 'application/x-www-form-urlencoded; charset=UTF-8'},
-    body: new URLSearchParams(body),
-    signal: AbortSignal.timeout(25_000),
-  });
-  if (!response.ok) throw new Error(`Source HTTP ${response.status} at ${path}`);
-  return response.json();
+export async function postJson(path, body, {fetchImpl = fetch, sleep = ms => new Promise(resolve => setTimeout(resolve, ms))} = {}) {
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const response = await fetchImpl(new URL(path, BASE_URL), {
+        method: 'POST',
+        headers: {'content-type': 'application/x-www-form-urlencoded; charset=UTF-8'},
+        body: new URLSearchParams(body),
+        signal: AbortSignal.timeout(25_000),
+      });
+      if (!response.ok) {
+        const error = new Error(`Source HTTP ${response.status} at ${path}`);
+        error.retryable = response.status >= 500;
+        throw error;
+      }
+      return await response.json();
+    } catch (error) {
+      const retryable = error.retryable || ['TypeError', 'AbortError', 'TimeoutError'].includes(error.name);
+      if (!retryable || attempt === 2) {
+        const causes = [error.cause, ...(error.cause?.errors ?? [])].filter(Boolean)
+          .map(cause => [cause.code, cause.message].filter(Boolean).join(': '));
+        throw new Error(`${path}: ${error.message}${causes.length ? ` (${causes.join('; ')})` : ''}`, {cause: error});
+      }
+      await sleep(1000 * (attempt + 1));
+    }
+  }
 }
 
 export async function fetchAllListings({post = postJson, start, pageSize = 100}) {

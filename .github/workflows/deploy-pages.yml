@@ -8,6 +8,8 @@ on:
   schedule:
     # Daily 07:15 Asia/Shanghai = previous day 23:15 UTC.
     - cron: '15 23 * * *'
+    # Backup attempts at 10:15 and 13:15 Beijing time, only if today's data is not public.
+    - cron: '15 2,5 * * *'
 
 permissions:
   contents: write
@@ -19,7 +21,20 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check-update:
+    runs-on: ubuntu-latest
+    outputs:
+      needed: ${{ steps.check.outputs.needed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - id: check
+        run: node scripts/check-daily-update.mjs
   build-deploy:
+    needs: check-update
+    if: needs.check-update.outputs.needed == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
