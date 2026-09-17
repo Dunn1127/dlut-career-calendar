@@ -6,8 +6,8 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Daily 04:00 Asia/Shanghai = previous day 20:00 UTC.
-    - cron: '0 20 * * *'
+    # Daily 16:00 Asia/Shanghai = 08:00 UTC.
+    - cron: '0 8 * * *'
 
 permissions:
   contents: write
