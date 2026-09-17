@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T12:37:59.582Z",
-  "lastSuccessAt": "2026-09-17T12:37:59.582Z",
+  "generatedAt": "2026-09-17T12:52:17.107Z",
+  "lastSuccessAt": "2026-09-17T12:52:17.107Z",
   "window": {
     "start": "2026-09-12",
     "end": "2026-10-02"
@@ -40,7 +40,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -78,7 +78,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -107,7 +107,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -145,7 +145,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -199,7 +199,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -237,7 +237,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -275,7 +275,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -304,7 +304,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -333,7 +333,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -371,7 +371,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -409,7 +409,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -447,7 +447,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -493,7 +493,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -522,7 +522,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -551,7 +551,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -589,7 +589,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -683,7 +683,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -721,7 +721,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -759,7 +759,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -821,7 +821,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -859,7 +859,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -953,7 +953,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -991,7 +991,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1053,7 +1053,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1091,7 +1091,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1161,7 +1161,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1199,7 +1199,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1245,7 +1245,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1283,7 +1283,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1321,7 +1321,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1359,7 +1359,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1405,7 +1405,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1531,7 +1531,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1569,7 +1569,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1647,7 +1647,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1685,7 +1685,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1723,7 +1723,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1849,7 +1849,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1895,7 +1895,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1949,7 +1949,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -1987,7 +1987,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2041,7 +2041,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2127,7 +2127,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2165,7 +2165,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2211,7 +2211,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2249,7 +2249,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2311,7 +2311,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2340,7 +2340,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2378,7 +2378,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2448,7 +2448,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2526,7 +2526,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2652,7 +2652,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2690,7 +2690,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2728,7 +2728,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2790,7 +2790,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2828,7 +2828,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -2874,7 +2874,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3000,7 +3000,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3086,7 +3086,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3124,7 +3124,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3162,7 +3162,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3248,7 +3248,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3286,7 +3286,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3356,7 +3356,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3410,7 +3410,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3448,7 +3448,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3486,7 +3486,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3524,7 +3524,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3562,7 +3562,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3616,7 +3616,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3694,7 +3694,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3764,7 +3764,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3810,7 +3810,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3888,7 +3888,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3926,7 +3926,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -3980,7 +3980,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4026,7 +4026,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4064,7 +4064,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4150,7 +4150,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4188,7 +4188,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4226,7 +4226,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4296,7 +4296,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4325,7 +4325,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4392,7 +4392,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4430,7 +4430,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4500,7 +4500,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4538,7 +4538,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4576,7 +4576,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4622,7 +4622,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4660,7 +4660,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4786,7 +4786,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4815,7 +4815,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4853,7 +4853,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4899,7 +4899,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4937,7 +4937,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -4983,7 +4983,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5021,7 +5021,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5075,7 +5075,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5209,7 +5209,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5279,7 +5279,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5333,7 +5333,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5419,7 +5419,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5448,7 +5448,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5518,7 +5518,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5564,7 +5564,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5602,7 +5602,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5680,7 +5680,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5718,7 +5718,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new",
         "time"
@@ -5762,7 +5762,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5848,7 +5848,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5934,7 +5934,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -5980,7 +5980,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6050,7 +6050,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6096,7 +6096,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6134,7 +6134,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6172,7 +6172,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6250,7 +6250,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6304,7 +6304,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6358,7 +6358,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6428,7 +6428,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6490,7 +6490,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6528,7 +6528,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6566,7 +6566,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6604,7 +6604,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6633,7 +6633,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6711,7 +6711,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6781,7 +6781,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6819,7 +6819,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6911,7 +6911,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6949,7 +6949,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -6995,7 +6995,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7137,7 +7137,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7183,7 +7183,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7221,7 +7221,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7291,7 +7291,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7329,7 +7329,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7383,7 +7383,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7453,7 +7453,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7499,7 +7499,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7537,7 +7537,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7703,7 +7703,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7741,7 +7741,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7779,7 +7779,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7841,7 +7841,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7919,7 +7919,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -7965,7 +7965,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8043,7 +8043,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8081,7 +8081,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8151,7 +8151,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8221,7 +8221,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8259,7 +8259,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8305,7 +8305,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8391,7 +8391,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8477,7 +8477,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8515,7 +8515,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8553,7 +8553,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8591,7 +8591,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8629,7 +8629,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8658,7 +8658,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8696,7 +8696,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8734,7 +8734,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8796,7 +8796,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8850,7 +8850,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8888,7 +8888,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8950,7 +8950,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -8988,7 +8988,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9017,7 +9017,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9055,7 +9055,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9093,7 +9093,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9155,7 +9155,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9193,7 +9193,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9295,7 +9295,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9357,7 +9357,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9386,7 +9386,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9424,7 +9424,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9478,7 +9478,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9580,7 +9580,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9618,7 +9618,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9656,7 +9656,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9718,7 +9718,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9796,7 +9796,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9914,7 +9914,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9952,7 +9952,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -9990,7 +9990,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10052,7 +10052,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10090,7 +10090,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10144,7 +10144,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10190,7 +10190,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10276,7 +10276,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10305,7 +10305,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10343,7 +10343,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10397,7 +10397,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10459,7 +10459,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10497,7 +10497,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10575,7 +10575,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10701,7 +10701,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10739,7 +10739,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10777,7 +10777,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10815,7 +10815,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10853,7 +10853,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10931,7 +10931,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -10969,7 +10969,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11007,7 +11007,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11053,7 +11053,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11091,7 +11091,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new",
         "venue"
@@ -11135,7 +11135,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11189,7 +11189,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11227,7 +11227,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11265,7 +11265,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11327,7 +11327,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11413,7 +11413,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11451,7 +11451,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11489,7 +11489,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11527,7 +11527,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11565,7 +11565,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11683,7 +11683,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11729,7 +11729,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11767,7 +11767,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11837,7 +11837,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11875,7 +11875,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11921,7 +11921,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11959,7 +11959,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -11997,7 +11997,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12171,7 +12171,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12209,7 +12209,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12263,7 +12263,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T03:44:16.557Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12309,7 +12309,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12387,7 +12387,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12425,7 +12425,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12479,7 +12479,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12517,7 +12517,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12595,7 +12595,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12729,7 +12729,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12767,7 +12767,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-13T09:29:21.361Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12805,7 +12805,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12843,7 +12843,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12872,7 +12872,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12910,7 +12910,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -12956,7 +12956,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13170,7 +13170,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13199,7 +13199,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:41:39.538Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13237,7 +13237,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13275,7 +13275,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13321,7 +13321,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13359,7 +13359,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13397,7 +13397,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13499,7 +13499,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13537,7 +13537,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13575,7 +13575,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13637,7 +13637,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13675,7 +13675,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13721,7 +13721,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13759,7 +13759,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13805,7 +13805,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13843,7 +13843,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -13897,7 +13897,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14079,7 +14079,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14133,7 +14133,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14187,7 +14187,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14225,7 +14225,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:38:53.306Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new",
         "time"
@@ -14260,7 +14260,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-15T10:41:39.538Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14298,7 +14298,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14384,7 +14384,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14422,7 +14422,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14524,7 +14524,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new",
         "venue"
@@ -14792,7 +14792,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14830,7 +14830,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -14908,7 +14908,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15010,7 +15010,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15048,7 +15048,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new",
         "venue"
@@ -15092,7 +15092,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15138,7 +15138,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15192,7 +15192,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15230,7 +15230,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15284,7 +15284,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15402,7 +15402,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15440,7 +15440,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15478,7 +15478,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15596,7 +15596,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new",
         "venue"
@@ -15696,7 +15696,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15782,7 +15782,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15820,7 +15820,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15858,7 +15858,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15896,7 +15896,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15934,7 +15934,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -15988,7 +15988,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16122,7 +16122,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16184,7 +16184,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16270,7 +16270,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new",
         "venue"
@@ -16338,7 +16338,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16376,7 +16376,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16414,7 +16414,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16476,7 +16476,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-16T07:55:32.003Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16514,7 +16514,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16552,7 +16552,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16670,7 +16670,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16708,7 +16708,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16746,7 +16746,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16832,7 +16832,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16886,7 +16886,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -16948,7 +16948,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -17002,7 +17002,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -17056,7 +17056,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -17094,7 +17094,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -17123,7 +17123,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -17161,7 +17161,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -17207,7 +17207,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -17301,7 +17301,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
@@ -17347,7 +17347,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-17T11:56:26.070Z",
-      "lastSeenAt": "2026-09-17T12:37:59.582Z",
+      "lastSeenAt": "2026-09-17T12:52:17.107Z",
       "changes": [
         "new"
       ]
