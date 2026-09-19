@@ -28,7 +28,7 @@ async function atomicWrite(path, snapshot) {
   }
 }
 
-export async function collectToFile({snapshotPath, now = new Date().toISOString(), post = postJson}) {
+export async function collectToFile({snapshotPath, now = new Date().toISOString(), post = postJson, maxDetailFailures = 12}) {
   const instant = new Date(now).toISOString();
   const window = dateWindow(shanghaiDate(instant));
   const previous = await readPrevious(snapshotPath);
@@ -37,16 +37,22 @@ export async function collectToFile({snapshotPath, now = new Date().toISOString(
   const oldById = new Map(previous?.events.map(event => [event.id, event]) ?? []);
   const events = new Array(inWindow.length);
   let detailFailures = 0;
+  let detailSkipped = 0;
   let cursor = 0;
   await Promise.all(Array.from({length: Math.min(6, inWindow.length)}, async () => {
     while (cursor < inWindow.length) {
       const index = cursor++;
       const item = inWindow[index];
       let detail;
+      if (detailFailures >= maxDetailFailures) {
+        detailFailures += 1;
+        detailSkipped += 1;
+      } else {
       try {
         detail = await fetchDetail(item, {post});
       } catch {
         detailFailures += 1;
+      }
       }
       const id = `${kindOf(item.type)}:${item.id}`;
       events[index] = normalizeEvent(item, detail, oldById.get(id), instant);
@@ -63,7 +69,7 @@ export async function collectToFile({snapshotPath, now = new Date().toISOString(
   const snapshot = {
     schemaVersion: 1, generatedAt: instant, lastSuccessAt: instant,
     window, source: SOURCE,
-    sync: {status: detailFailures ? 'partial' : 'ok', fetchedCount: count, detailFailures},
+    sync: {status: detailFailures ? 'partial' : 'ok', fetchedCount: count, detailFailures, detailSkipped},
     events,
   };
   await atomicWrite(snapshotPath, snapshot);
