@@ -48,11 +48,11 @@ export async function collectToFile({snapshotPath, now = new Date().toISOString(
         detailFailures += 1;
         detailSkipped += 1;
       } else {
-      try {
-        detail = await fetchDetail(item, {post});
-      } catch {
-        detailFailures += 1;
-      }
+        try {
+          detail = await fetchDetail(item, {post});
+        } catch {
+          detailFailures += 1;
+        }
       }
       const id = `${kindOf(item.type)}:${item.id}`;
       events[index] = normalizeEvent(item, detail, oldById.get(id), instant);

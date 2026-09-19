@@ -17,6 +17,25 @@ const listing = (id, type, date, hour = 10) => ({
 });
 const page = (number, list, count, totalPage) => ({state: 1, data: {pageNo: number, totalPage, count, list}});
 
+test('detail outage stops new requests after the failure limit but preserves the full listing', async t => {
+  const directory = await mkdtemp(join(tmpdir(), 'dlut-collector-test-'));
+  t.after(() => rm(directory, {recursive: true, force: true}));
+  const items = Array.from({length: 40}, (_, i) => listing(`event-${i}`, '宣讲会', '2026-09-14'));
+  let attempts = 0;
+  const post = async route => {
+    if (route.endsWith('ajax_timeline')) return page(1, items, items.length, 1);
+    attempts += 1;
+    throw new Error('detail unavailable');
+  };
+  const result = await collectToFile({snapshotPath: join(directory, 'events.json'), now, post, maxDetailFailures: 2});
+  assert.ok(attempts >= 2 && attempts <= 7, `unexpected request count: ${attempts}`);
+  assert.equal(result.events.length, 40);
+  assert.equal(result.sync.status, 'partial');
+  assert.equal(result.sync.detailFailures, 40);
+  assert.equal(result.sync.detailSkipped, 40 - attempts);
+  assert.equal(new Set(result.events.map(event => event.id)).size, 40);
+});
+
 test('full pagination reads tail history, rejects incomplete or duplicated pages', async () => {
   const calls = [];
   const post = async (_, body) => {
