@@ -1,5 +1,10 @@
 import {fileURLToPath} from 'node:url';
+import {setDefaultAutoSelectFamilyAttemptTimeout} from 'node:net';
 import {collectToFile} from './lib/collect.mjs';
+
+// Overseas runners may need longer than Node's 250ms default to connect to the campus IPv4 host.
+// Keep TLS verification and the existing per-request timeout enabled.
+setDefaultAutoSelectFamilyAttemptTimeout(3000);
 
 const path = fileURLToPath(new URL('../site/data/events.json', import.meta.url));
 if (process.argv.includes('--help')) {
