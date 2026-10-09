@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T15:04:08.661Z",
-  "lastSuccessAt": "2026-10-08T15:04:08.661Z",
+  "generatedAt": "2026-10-09T14:47:35.803Z",
+  "lastSuccessAt": "2026-10-09T14:47:35.803Z",
   "window": {
-    "start": "2026-10-03",
-    "end": "2026-10-23"
+    "start": "2026-10-04",
+    "end": "2026-10-24"
   },
   "source": {
     "url": "https://job.dlut.edu.cn/",
@@ -12,7 +12,7 @@
   },
   "sync": {
     "status": "partial",
-    "fetchedCount": 109,
+    "fetchedCount": 120,
     "detailFailures": 6,
     "detailSkipped": 0
   },
@@ -41,7 +41,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -70,7 +70,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-10-07T14:55:19.714Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -108,7 +108,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-23T13:07:46.193Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -137,7 +137,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -199,7 +199,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -237,7 +237,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -245,7 +245,7 @@
     {
       "id": "talk:f9932985758649d39e4ecb0b113666a6",
       "kind": "talk",
-      "title": "中国能建天津电建2027春季校园招聘",
+      "title": "中国能建天津电建2027秋季校园招聘",
       "company": "中国能源建设集团天津电力建设有限公司",
       "startAt": "2026-10-09T10:00:00+08:00",
       "endAt": "2026-10-09T12:00:00+08:00",
@@ -355,7 +355,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -393,7 +393,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -431,7 +431,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -460,7 +460,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-10-07T14:55:19.714Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -498,7 +498,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -552,7 +552,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -581,7 +581,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -627,7 +627,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -640,9 +640,9 @@
       "startAt": "2026-10-09T15:30:00+08:00",
       "endAt": "2026-10-09T17:30:00+08:00",
       "date": "2026-10-09",
-      "venue": "综合教学2号楼A406",
+      "venue": "伯川图书馆二楼报告厅",
       "campus": "大连凌水主校区",
-      "building": "综合教学2号楼",
+      "building": "伯川图书馆",
       "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=d18c85be4eb740fd9489b4ecd5cb35bf",
       "companyInfo": {
         "nature": "国有企业",
@@ -673,10 +673,16 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
-        "new"
-      ]
+        "new",
+        "venue"
+      ],
+      "previous": {
+        "startAt": "2026-10-09T15:30:00+08:00",
+        "endAt": "2026-10-09T17:30:00+08:00",
+        "venue": "综合教学2号楼A406"
+      }
     },
     {
       "id": "talk:e715cb0ee0884246a37d61232bb9f2c1",
@@ -711,7 +717,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -749,7 +755,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -795,7 +801,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -833,7 +839,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -943,7 +949,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1021,7 +1027,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-24T13:01:48.307Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1050,7 +1056,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-10-07T14:55:19.714Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1088,7 +1094,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1126,7 +1132,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:06:44.917Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1164,7 +1170,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:06:44.917Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1202,7 +1208,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1256,7 +1262,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1326,7 +1332,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:06:44.917Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1364,7 +1370,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:06:44.917Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1482,7 +1488,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-25T13:06:44.917Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1552,7 +1558,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-26T12:34:20.496Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1630,7 +1636,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1659,7 +1665,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1697,7 +1703,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:24:51.559Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1726,7 +1732,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1764,7 +1770,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:24:51.559Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1802,7 +1808,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1840,7 +1846,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1878,7 +1884,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1916,7 +1922,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-27T13:24:51.559Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1954,7 +1960,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -1992,7 +1998,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2021,7 +2027,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2075,7 +2081,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2137,7 +2143,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2166,7 +2172,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2236,7 +2242,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2274,7 +2280,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2400,7 +2406,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "group:3397c43d842845e2943dacc335ffeabe",
+      "kind": "group",
+      "title": "中交集团2027届全球校园招聘-大连理工大学站",
+      "company": "中交四航局第二工程有限公司",
+      "startAt": "2026-10-13T15:00:00+08:00",
+      "endAt": "2026-10-13T17:30:00+08:00",
+      "date": "2026-10-13",
+      "venue": "学生文化中心A座312报告厅",
+      "campus": "",
+      "building": "学生文化中心A座",
+      "sourceUrl": "https://job.dlut.edu.cn/f/bilateralchosefairGroup/show?bilateralchosefairGroupId=3397c43d842845e2943dacc335ffeabe",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "中交集团2027届全球校园招聘-大连理工大学站\n\n一、企业简介\n\n中国交通建设集团有限公司（以下简称“中交集团”）是全球领先的特大型基础设施和城市建设领域综合服务商，主要从事交通基础设施的投资建设运营、装备制造、城市综合开发等，为客户提供投资融资、咨询规划、设计建造、管理运营一揽子解决方案和综合一体化服务。\n\n中交集团所属中国交建在香港、上海两地上市，公司盈利能力和价值创造能力在全球同行中处于领先地位。截至目前，中国交建位居《财富》世界500强第66位。\n\n中交集团是全球领先的港口设计建设公司、公路与桥梁设计建设公司、疏浚公司、集装箱起重机制造公司；是亚洲最大的国际工程承包公司。\n\n中交集团有60多家全资、控股子公司，有作为中国诸多行业先行者的百年老店；有与共和国一同成长壮大的国企骨干；有在改革开放大潮中涌现的现代企业；有推动公司结构调整而成立的后起之秀；有并购而来的国内外先进企业。\n\n中交集团从事相关业务已有一百多年历史，产品和服务遍及全球150多个国家，通过几代员工的持续努力，建设了一大批代表世界、代表时代最高水平的交通基础设施，为客户提供了成熟完备的服务，形成了全球领先的技术体系。\n\n中交集团始终坚持\"让世界更畅通、让城市更宜居、让生活更美好\"的企业愿景，秉承\"固基修道、履方致远\"的企业使命，坚守\"交融天下、建者无疆\"的企业精神，积极发挥在全交通、全城市、全水域、全绿色、全数字，大海外、大装备、大产业、大融合，科技创新型、综合交通型、新质基建型、全球领先型、融合发展型“五全四大五型”领域的一体化、综合化、融合化系统集成优势，争当高质量发展的践行者、先行者、贡献者，书写新时期高质量发展的崭新篇章。\n\n二、招聘会时间\n\n宣讲会：2026年10月13日15:00-16:00 大连理工大学学生文化中心A座312报告厅\n\n双选会：2026年10月13日16:00-18:00 学生文化中心A座一楼展厅\n\n三、参加招聘活动单位\n\n1、中国港湾工程有限责任公司\n\n2、中国路桥工程有限责任公司\n\n3、中交一航局第三工程有限公司\n\n4、中交天津港湾工程研究院有限公司\n\n5、中交第二航务工程局有限公司\n\n6、中交第二航务工程局有限公司技术中心\n\n7、中交三航第一工程（上海）有限公司\n\n8、中交三航局第二工程有限公司\n\n9、中交三航局第三工程有限公司\n\n10、中交三航局第四工程（宁波）有限公司\n\n11、中交三航局第五工程（江苏）有限公司\n\n12、中交三航（上海）新能源工程有限公司\n\n13、中交四航局第一工程有限公司\n\n14、中交四航局第二工程有限公司\n\n15、中交四航局第三工程有限公司\n\n16、中交四航局第六工程有限公司\n\n17、中交四航局总承包工程有限公司\n\n18、中交四航局江门航通船业有限公司\n\n19、中交四航工程研究院有限公司\n\n20、中交疏浚（集团）股份有限公司\n\n21、中交海洋建设开发有限公司\n\n22、中交疏浚技术装备国家工程研究中心有限公司\n\n23、中交宏禹（湖南）水利工程有限公司\n\n24、中交天津航道局有限公司\n\n25、中交一公局集团有限公司海外分公司\n\n26、中交第二公路工程局有限公司\n\n27、中交路桥建设有限公司\n\n28、中交路建北京分公司\n\n29、中交路桥华南工程有限公司\n\n30、中交路桥建设有限公司上海分公司\n\n31、中交机电工程局有限公司\n\n32、中交水运规划设计院有限公司\n\n33、中交第一航务工程勘察设计院有限公司\n\n34、中交第二航务工程勘察设计院有限公司\n\n35、中交第三航务工程勘察设计院有限公司\n\n36、中交公路长大桥建设国家工程研究中心有限公司\n\n37、中交第二公路勘察设计研究院有限公司\n\n38、中交天和机械设备制造有限公司\n\n39、中交基础设施养护集团有限公司总承包分公司\n\n四、招聘官网\n\nhttps：//zhaopin.ccccltd.cn",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2438,7 +2473,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2492,7 +2527,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2530,7 +2565,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2576,7 +2611,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2614,7 +2649,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2692,7 +2727,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2730,7 +2765,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new",
         "time",
@@ -2775,7 +2810,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2829,7 +2864,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2867,7 +2902,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2905,7 +2940,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2943,7 +2978,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -2981,7 +3016,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3019,7 +3054,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "group:862c570b72f2413b8b33442220c64329",
+      "kind": "group",
+      "title": "才无限 衢州见 “南孔精英”2026大连·衢州人才周 ——大连理工大学站",
+      "company": "高博人才科技（湖北）有限公司",
+      "startAt": "2026-10-14T09:30:00+08:00",
+      "endAt": "2026-10-14T12:00:00+08:00",
+      "date": "2026-10-14",
+      "venue": "学生文化中心A座312报告厅",
+      "campus": "",
+      "building": "学生文化中心A座",
+      "sourceUrl": "https://job.dlut.edu.cn/f/bilateralchosefairGroup/show?bilateralchosefairGroupId=862c570b72f2413b8b33442220c64329",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "才无限 衢州见\n\n“南孔精英”2026大连·衢州人才周\n\n——大连理工大学站\n\n衢州，为浙江省地级市。是一座具有1800多年历史的江南文化名城，一直是浙、闽、赣、皖四省边际交通枢纽和物资集散地，素有“四省通衢、五路总头”之称。当地旅游资源丰富，有“神奇山水，名城衢州”之称。境内有江郎山、烂柯山、龙游石窟等150多处景点。1994年被国务院命名为国家级历史文化名城。\n\n为深入实施人才强市战略，深化人才发展体制机制改革，加大人才引进力度，我市决定面向大连理工大学引进一批优秀人才，具体招聘情况如下：\n\n一、活动组织：\n\n主办单位：中共浙江省衢州市委组织部\n\n浙江省衢州市人力资源和社会保障局\n\n承办单位：浙江省衢州智慧新城管理委员会\n\n浙江省衢州市人才科创集团有限公司\n\n二、时间地点：\n\n宣讲会：10月14日（周三）9：30-10：30 大连理工大学凌水校区学生文化中心312大型多功能厅\n\n双选会：10月14日（周三）10：30-11：30 大连理工大学凌水校区学生文化中心312大型多功能厅\n\n三、招录专业和学历\n\n招聘专业：专业不限\n\n参会学历：27-28年及往届毕业的本硕博人才\n\n四、招聘单位名单（请扫码查看）\n\n五、报名方式：请同学们提前扫码报名本次活动，报名成功后加入活动人才交流群，关注详细信息",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3073,7 +3137,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3111,7 +3175,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3229,7 +3293,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3267,7 +3331,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3305,7 +3369,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3359,7 +3423,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3453,7 +3517,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3482,7 +3546,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "group:ce1cd9ee59d04941995b0361ffc89978",
+      "kind": "group",
+      "title": "上汽集团2027届全球校园招聘——大连理工大学专场招聘会",
+      "company": "上海汽车集团股份有限公司",
+      "startAt": "2026-10-14T14:00:00+08:00",
+      "endAt": "2026-10-14T17:00:00+08:00",
+      "date": "2026-10-14",
+      "venue": "学生文化中心A座212报告厅",
+      "campus": "",
+      "building": "学生文化中心A座",
+      "sourceUrl": "https://job.dlut.edu.cn/f/bilateralchosefairGroup/show?bilateralchosefairGroupId=ce1cd9ee59d04941995b0361ffc89978",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "上汽集团2027届全球校园招聘——大连理工大学专场招聘会来了！\n\n时间：2026年10月14日（星期三）14:00\n\n宣讲+双选地点：凌水主校区 学生文化中心A座212报告厅\n\n神秘大咖和学长学姐现场宣讲\n\n惊喜互动环节，小礼品等你拿\n\n多家上汽所属企业，现场就位\n\n当场收简历，欢迎你前来畅聊\n\n1、关于我们\n\n上汽的向上轨迹，镌刻在一组组刻度之中\n\n22次跻身世界500强是时间的刻度\n\n170+国家1亿+用户是空间的刻度\n\n700+子公司8个国家级企业技术中心是产业的刻度\n\n200,000+名员工57,000+青年伙伴是人才的刻度\n\n2、招聘企业\n\n集结来自整车、零部件、移动出行与服务、国际经营、创新科技等业务板块的30+上汽所属企业\n\n3、招聘岗位\n\n研发、海外、新能源、AI及软件、营销及品牌、规划及项目管理、采购及供应链管理、制造及质量、财务/审计及金融、信息系统、综合管理、其他专业技术岗等\n\n4、招聘专业\n\n专业不限，主要面向软件/AI、计算机、信息技术、电气、汽车、机械、材料、设计、经管、语言、法学、文学等大类专业\n\n5、工作地点\n\n上海、江苏、广西、河北、湖南、浙江、重庆、安徽及海外（墨西哥、乌兹别克、越南、泰国、马来西亚、菲律宾、巴西等）\n\n6、期待你加入我们\n\n够大，够多元：多个业务板块30余家企业同步开招，多元赛道，由你选择\n\n够深，够宽广：8个国家级51个省市级技术中心，从研发图纸到量产落地，立足国内，奔赴海外，成长不设限\n\n够稳，够温度：集团赋能+公司实训+部门带教，跨领域学习、前辈引路，57000+青年同仁一起向上\n\n够快，够未来：电动化、智能化、全球化，最好的时代，广阔天地，大有可为\n\n7、招聘流程\n\n简历投递→简历评估→测评/面试→发放offer/签约\n\n8、投递方式\n\nPC端：saic-recruit.saicmotor.com\n\n手机端：关注“上汽集团招聘”公众号，点击菜单栏“校园招聘”-“2027校招”\n\n一键直达心仪岗位\n\n相信自己，你本身就是向上的力量\n\n上汽集团，期待与你同行！",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3520,7 +3613,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3558,7 +3651,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3620,7 +3713,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3666,7 +3759,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3728,7 +3821,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3766,7 +3859,99 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-28T16:15:47.713Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:bfecebbf447745c089a5761c0a9aea2b",
+      "kind": "talk",
+      "title": "亚信科技2026秋季校园招聘",
+      "company": "亚信科技（中国）有限公司",
+      "startAt": "2026-10-14T18:30:00+08:00",
+      "endAt": "2026-10-14T20:30:00+08:00",
+      "date": "2026-10-14",
+      "venue": "综合教学2号楼A408",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=bfecebbf447745c089a5761c0a9aea2b",
+      "companyInfo": {
+        "nature": "外商投资企业",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": "亚信科技（股票代码:01675.HK）始于1993年，是先进的信息技术产品与服务提供商，港交所上市企业，是ITU、3GPP、GSMA、TMF、中国互联网协会、中国工业互联网产业联盟等国际国内组织机构的成员单位。亚信科技技术实力雄厚，已形成较完备的，覆盖5G/6G、人工智能、云计算、大数据、数智运营等领域的“数智”“云网”“IT”三大软硬件产品体系。依托先进的“产品+服务”优势积极开拓通信、政务..."
+      },
+      "jobs": [
+        {
+          "title": "亚信科技2027校园招聘",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "北京市,江苏省南京市,四川省成都市",
+          "headcount": "100",
+          "description": "众多岗位详见招聘简章"
+        }
+      ],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:7766dbfdab6f40abbdd8b50ef2019b38",
+      "kind": "talk",
+      "title": "中国核工业二三建设有限公司2027届应届毕业生校园招聘",
+      "company": "中国核工业二三建设有限公司",
+      "startAt": "2026-10-15T10:00:00+08:00",
+      "endAt": "2026-10-15T12:00:00+08:00",
+      "date": "2026-10-15",
+      "venue": "综合教学二号楼A503",
+      "campus": "大连凌水主校区",
+      "building": "综合教学二号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=7766dbfdab6f40abbdd8b50ef2019b38",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "管道技术",
+          "education": "本科,硕士",
+          "majors": "过程装备与控制工程",
+          "city": "全国",
+          "headcount": "10",
+          "description": "全国沿海城市，主要从事管道技术工作。"
+        },
+        {
+          "title": "电气技术",
+          "education": "本科,硕士",
+          "majors": "电气工程及其自动化(本科生）,电气工程及其自动化",
+          "city": "全国",
+          "headcount": "10",
+          "description": "全国沿海城市，主要从事电气技术工作。"
+        },
+        {
+          "title": "焊接技术员",
+          "education": "本科,硕士",
+          "majors": "材料成型及控制工程",
+          "city": "全国",
+          "headcount": "10",
+          "description": "全国沿海城市，主要从事焊接工艺工作。"
+        }
+      ],
+      "participants": [],
+      "description": "中国核工业二三建设有限公司2027届校园招聘简章\n\n——核聚二三，共创未来\n\n公司简介\n\n中国核工业二三建设有限公司（简称“中核二三”），创立于1958年，隶属于中国核工业集团有限公司，是中国核工业建设股份有限公司的重要成员单位，是中国规模最大的核工程综合安装企业，是国际上唯一一家连续40年不间断从事核电站核岛安装的大型企业，是全国唯一一家持有民用核安全设备设计、制造、安装和无损检验许可证的企业。作为国家高新技术企业，中核二三还设有北京市博士后（青年英才）创新实践基地工作站。\n\n68年来，中核二三参与了“两弹一艇”任务，以及中国大陆绝大部分核电站核岛、核科研安装工程的建设任务，具备同时建设不同核电堆型的能力，在系统工程、核工程、石油化工、航空航天、环保、建材、汽车、火电、轻工纺织、电子、新能源等领域中创造了多项优良纪录，先后7次荣获中国建筑行业工程质量最高奖——鲁班奖，是重点工程建设的“国家队”“铁军”。公司拥有联合国国际原子能机构（IAEA）授权的“核电建设国际培训中心”，参与法国国际热核聚变实验堆项目安装，为国际核电事业贡献中国智慧和中国力量。\n\n资质与业务领域方面，中核二三具有各类一级资质、二级资质以及营业许可资格证书60余项，业务涵盖投资开发、工程设计、生产加工、工程建设、在建核电站调试服务、技术服务、项目建设管理、工程检修等领域，形成了投资建设运营一体化服务价值链。中核二三业务遍及全国30多个省份（包括自治区和直辖市），以及法国、格鲁吉亚、纳米比亚、伊拉克等多个国家和地区。\n\n二、 招聘需求\n\n2027届毕业生本科及以上学历，2026届未就业本科及以上学历毕业生\n\n需求专业：\n\n序号\n\n招聘岗位\n\n目标专业\n\n工作地点\n\n1\n\n工程技术\n\n给排水工程/过程装备与控制工程\n\n甘肃、山东、北京、江西、广东、辽宁、福建、广西、陕西、河北、四川、新疆、江苏、浙江\n\n2\n\n工程技术\n\n电气工程及其自动化专业/通信工程\n\n甘肃、山东、北京、江西、广东、辽宁、福建、广西、陕西、河北、四川、新疆、江苏、浙江\n\n3\n\n工程技术\n\n测控技术与仪器仪表\n\n甘肃、北京、广东、辽宁、福建、广西、四川、陕西、江苏、浙江\n\n4\n\n工程技术\n\n机械设计制造及自动化/化工机械\n\n甘肃、山东、北京、江西、广东、辽宁、福建、广西、陕西、河北、四川、新疆、江苏、浙江\n\n5\n\n工程技术\n\n建筑环境与设备工程/暖通\n\n甘肃、山东、北京、江西、广东、辽宁、福建、广西、江苏、浙江\n\n6\n\n工程技术\n\n焊接技术与工程\n\n甘肃、山东、北京、江西、广东、辽宁、福建、广西、陕西、河北、四川、新疆、江苏、浙江\n\n7\n\n工程技术\n\n森林工程等起重运输方向/起重工程\n\n甘肃、山东、江西、广东、辽宁、福建、广西、四川、陕西、江苏、浙江\n\n8\n\n工程技术\n\n土木工程/结构工程/建筑学/流体力学\n\n甘肃、山东、北京、广东、四川、陕西\n\n9\n\n工程技术\n\n金属材料/材料科学工程\n\n甘肃、山东、广东、辽宁、福建、广西、浙江\n\n10\n\n工程技术\n\n工程力学/过程装备与控制/化工过程机械\n\n北京\n\n11\n\n工程技术\n\n化学工程与工艺/工业工程\n\n甘肃、北京\n\n12\n\n工程技术\n\n能源动力与工程/核工程与核技术\n\n甘肃、北京\n\n13\n\n工程技术\n\n人工智能\n\n甘肃\n\n14\n\n信息技术\n\n计算机技术及应用/网络工程/大数据\n\n甘肃、广东、辽宁、广西、江苏、浙江\n\n15\n\n工程管理\n\n工程管理（含计划统计）\n\n甘肃、山东、广东、辽宁、福建、广西、四川、江苏、浙江\n\n16\n\n生产安全\n\n安全管理/环境工程\n\n甘肃、山东、广东、辽宁、福建、广西、四川、浙江\n\n17\n\n商务成本\n\n工程造价/工程预算\n\n甘肃、山东、广东、辽宁、福建、广西、四川、江苏、浙江\n\n18\n\n人力资源\n\n人力资源管理\n\n甘肃、山东、广东、江苏、浙江\n\n19\n\n物项管理\n\n物流管理/国际贸易\n\n山东、广东、江苏\n\n20\n\n行政管理\n\n汉语言文学/哲学/思想政治教育/行政管理\n\n甘肃、山东、广东、陕西\n\n21\n\n法务管理\n\n法律/法学\n\n北京、广东、福建、辽宁\n\n22\n\n财务资金\n\n财务/会计\n\n北京、广东、福建、辽宁\n\n23\n\n新闻宣传\n\n新闻学/广播电视编导/广告学/网络与新媒体\n\n广东\n\n“青苗高潜人才”引进\n\n“985”院校本科及以上学历择优入选\n\n专项培养方案\n\n专业导师辅导\n\n重点项目锻炼\n\n特殊人才激励\n\n优先落户北京\n\n专业方向及学历：\n\n给排水科学与工程、能源动力与工程、核工程与核技术、过程装备与控制工程、焊接技术与工程、材料科学与工程（焊接工艺/焊接设备方向）、测控技术与仪器仪表（无损检测方向）、机械设计制造及自动化、工程管理、电气工程及其自动化、金属材料、工程造价等相关专业本科及以上\n\n三、福利保障：\n\n六险二金：养老保险、医疗保险、失业保险、工伤保险、生育保险、补充医疗保险；住房公积金、企业年金\n\n各类津补贴：现场施工补贴、就餐补贴、高温津贴、执业资格津贴\n\n生活保障：免费住宿、免费班车、职工餐厅、劳保用品、文体活动场所\n\n员工关爱：免费体检、团体意外伤害保险、过节费、节日工会福利、生日慰问、文体娱乐活动、困难帮扶、婚育福利、住院慰问、子女高等教育奖励\n\n工资奖金：岗位工资、绩效工资、加班工资、工龄工资、专项激励、加班延点工资、里程碑节点奖、评先评优奖金\n\n假期丰富：法定节假日、带薪年假、探亲假、探父母假、婚假、产假、陪产假等多种假期。\n\n四、招聘条件\n\n1.统招***2027届应届高校毕业生、2026届未就业高校毕业生（本科及以上学历）；\n\n“985”优秀应届毕业生“青苗高潜人才”专项引进；\n\n2.专业基础知识扎实，主修专业成绩均在良好及以上；\n\n3.在校期间表现良好，无违法犯罪记录；\n\n4.身心健康，无传染性及其他重大隐形疾病，体检结果符合公司员工体检录用标准；\n\n5.吃苦耐劳、能适应建筑安装施工企业艰苦的工作环境，愿意接受挑战且服从工作安排；\n\n6.品行端正、责任心强、积极乐观，具有良好的团队合作精神及沟通能力；\n\n7.英语CET四级、计算机二级以上、中共党员、学生干部、获奖学金者、体育文艺特长者优先考虑。\n\n五、联系方式\n\n公司地址: 北京市顺义区顺康路58号院\n\n公司网址：www.cni23.com\n\n简历投递方式一：校园招聘宣讲会现场投递\n\n简历投递方式二：邮箱\n\n邮件标题注明“专业—学校—学历—姓名”。\n\n投递简历包含：个人简历、就业推荐表、学习成绩单、获奖证书等。",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3844,7 +4029,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3882,7 +4067,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -3920,7 +4105,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4070,7 +4255,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4106,9 +4291,101 @@
       "participants": [],
       "description": "",
       "detailStatus": "ok",
-      "availability": "listed",
+      "availability": "missing",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
       "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:7848800c278e405c9041b666ea1d4769",
+      "kind": "talk",
+      "title": "长江设计集团2027大连理工大学招聘宣讲会",
+      "company": "长江设计集团有限公司",
+      "startAt": "2026-10-15T10:00:00+08:00",
+      "endAt": "2026-10-15T12:00:00+08:00",
+      "date": "2026-10-15",
+      "venue": "综合教学2号楼A403",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=7848800c278e405c9041b666ea1d4769",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "1000以上",
+        "website": "http://www.cjwsjy.com.cn/",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "水利水电类岗",
+          "education": "硕士,博士",
+          "majors": "港口航道与海岸工程,水利水电工程(研究生）,土木工程(本科生）,地理科学类,市政工程(研究生）,防灾减灾工程及防护工程(研究生）,建筑环境与能源应用工程,港口、海岸及近海工程(研究生）,水文学及水资源(研究生）,土木类,道路与铁道工程,水文学及水资源,工程管理(研究生),土木工程管理,水利水电工程(本科生）,交通工程(本科生）,水利工程(研究生）,海洋资源开发技术(本科生),市政工程,水利工程,控制理论与控制工程,能源与环保,建筑环境与设备工程,土木工程（国际班）(本科生),资源循环科学与工程,建筑环境与设备工程(本科生）,水利水电工程,遥感科学与技术,防灾减灾工程及防护工程,土木工程管理(研究生）,供热、供燃气、通风及空调工程,结构工程,桥梁与隧道工程(研究生）,交通运输规划与管理,材料学(研究生）,工程力学(研究生）,工程管理(本科生）,结构工程(研究生）,工程管理,海洋资源开发技术（海洋空间资源）,岩土工程,港口、海岸及近海工程,岩土工程(研究生）,水力学及河流动力学(研究生）,土木工程,运筹学与控制论(研究生）,海洋资源开发技术,软件工程（金融方向）,土木水利,材料学,电力系统及其自动化(研究生）,交通工程,水力学及河流动力学,建筑与土木工程,海洋工程类,水工结构工程(研究生）,建筑环境与能源应用工程(本科生),管理科学与工程(研究生）,控制理论与控制工程(研究生）,交通信息工程及控制(研究生）,土木工程（国际班）,水工结构工程,港口航道与海岸工程(本科生）,自动化,桥梁与隧道工程,交通运输工程(研究生),交通系统工程（研究生）,水利类,建筑与土木工程(研究生）",
+          "city": "湖北省武汉市",
+          "headcount": "54",
+          "description": "从事水利水电业务的设计咨询工作"
+        },
+        {
+          "title": "智慧工程类岗",
+          "education": "硕士,博士",
+          "majors": "软件工程,电子与信息,软件工程,人工智能,电子与信息,计算机科学与技术（拔尖班）,计算机软件与理论,计算机应用技术,电子信息,计算机科学与技术（日语强化）,计算机技术,计算机科学与技术",
+          "city": "湖北省武汉市",
+          "headcount": "11",
+          "description": "从事智慧工程相关信息化工作"
+        },
+        {
+          "title": "博士后岗",
+          "education": "博士",
+          "majors": "水利工程,港口航道与海岸工程,水利水电工程(研究生）,港口、海岸及近海工程(研究生）,水文学及水资源(研究生）,水文学及水资源,水利工程,能源与环保,水利水电工程,港口、海岸及近海工程,水力学及河流动力学(研究生）,土木工程,土木水利,水力学及河流动力学,建筑与土木工程,水工结构工程(研究生）,水工结构工程,水利类,地理科学类,水利工程(研究生）,建筑与土木工程(研究生）",
+          "city": "湖北省武汉市",
+          "headcount": "11",
+          "description": "从事博士后研究工作"
+        }
+      ],
+      "participants": [],
+      "description": "长江设计集团有限公司2027年度秋季招聘公告\n\n根据工作需要，长江设计集团有限公司2027年度招聘88名工作人员、招收12名博士后。现将有关事项公告如下：\n\n一、企业简介\n\n长江设计集团有限公司（简称长江设计集团）是由水利部长江水利委员会出资设立的国有独资企业，是以水利水电勘察设计为主业，为工程建设全行业全过程提供技术服务的国有科技型企业和国际工程咨询公司。综合实力长期位居全国水利水电勘察设计单位前列、全国工程勘察设计企业百强、ENR全国工程设计企业20强。持有国家工程设计综合甲级、工程勘察综合甲级、工程咨询综合资信甲级、水利工程监理综合甲级、城乡规划编制甲级、对外承包工程资格等一批高等级资质证书，拥有国家大坝安全工程技术研究中心、水资源工程与调度全国重点实验室、博士后科研工作站、水利部水网工程与调度重点实验室等近二十个高端研发平台。\n\n长江设计集团总部位于武汉，下设职能部门12个、区域发展中心8个、子公司11个，所属单位分布在湖北、重庆、上海、北京、广东、西藏、福建、海南、云南、湖南、四川、浙江等省、自治区、直辖市以及厄瓜多尔、秘鲁、巴基斯坦等国家和地区。现有员工3100余人，拥有中国工程院院士1人，全国工程勘察设计大师6人，享受国务院政府特殊津贴专家10人，百千万人才国家级人选2人，各类国家级、省部级专家上百人；拥有正高级及高级工程师近1600人，博士、硕士1900余人，各类注册工程师1200余人。\n\n二、招聘岗位及人员数量\n\n招聘的岗位、人数及任职资格条件见附件《长江设计集团有限公司2027年度公开招聘计划表》《长江设计集团有限公司2027年度博士后招聘计划表》。\n\n三、应聘人员条件\n\n（一）基本条件\n\n1.具有中华人民共和国国籍。\n\n2.遵守中华人民共和国宪法和法律，拥护中国共产党领导和社会主义制度。\n\n3.具有良好的政治素质和道德品行，政治立场坚定，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，在思想上政治上行动上同以习近平同志为核心的党中央保持高度一致。\n\n4.具备胜任岗位的身体条件、心理素质及工作能力。\n\n5.符合回避有关规定。\n\n6.报到时应取得相应学历学位证书。留学回国人员应取得学位证，并提交教育部留学服务中心出具的学历认证等相关证明材料。\n\n（二）资格条件\n\n1.招聘对象：招聘对象包括应届毕业生、社会人员。其中，“应届毕业生”岗位限应届毕业生申报，“社会人员”岗位限社会人员申报，“不限”岗位两类人员均可申报。应届毕业生指2027年高校和科研院所应届毕业生，含两年择业期内未落实工作单位的毕业生。两年择业期内有单位社保缴存记录的，不属于应届毕业生招聘范围。在站博士后属于社会人员，不受任职资格中的注册执业资格和工作经验条件限制。\n\n2.学历与专业：应届毕业生以即将获得的最高学历及对应专业报考；社会人员以已获得的最高学历及对应专业报考。最高学历对应专业原则上应与岗位要求的专业一致。留学归国等应聘人员最高学历对应专业与岗位要求专业类同的，综合参考所学课程、研究方向等因素进行认定。\n\n3.年龄要求：应届毕业生年龄为38周岁以内（计算截止时间为2027年8月31日，即1988年9月1日后出生）；社会人员年龄根据岗位要求设置，具体见招聘计划表。\n\n（三）不予报名情形\n\n有下列情形之一的不得报名：\n\n1.应届毕业生中凡在入学前签订了定向培养和委托培养协议的定向生、委培生，现役军人，在读的非应届毕业生；\n\n2.受过刑事处罚、开除党籍或者学籍，及其他党纪政务处分的；\n\n3.正在接受纪律审查或者涉嫌违法犯罪正在接受调查的；\n\n4.被依法列入失信联合惩戒对象名单的；\n\n5.在国家法定考试、各级公务员及事业单位招考中被认定为有舞弊等严重违反考试录用纪律行为还在禁考期的；\n\n6.曾有严重学术不端等不良行为的；\n\n7.存在严重多头借贷、信贷欺诈等不良信用行为，不符合岗位履职诚信要求的；\n\n8.聘用后构成回避关系的；\n\n9.法律、法规等规定不能招聘的其他情形。\n\n四、报名方式和程序\n\n（一）报名方法\n\nPC端：登录集团招聘网站http://campus.51job.com/cjwsjy\n\n手机端：搜索“长江设计集团”微信公众号，关注集团官微，点击右下角“业务板块”→“人才招聘”，进入集团招聘网站。\n\n通过其他途径投递的简历视为无效。\n\n（二）报名时间\n\n自公告发布之日起至2026年10月20日17时，逾期不再接受简历投递。\n\n（三）投递岗位\n\n每名应聘人员可同时填报第一志愿岗和第二志愿岗，博士研究生可另行再申请两个博士后岗位。同一岗位首先对第一志愿申报人员开展资格审查、初面、能力素质测评、终面、体检等；第一志愿未招满的岗位，从第二志愿投递该岗位且未被第一志愿录用的人选中按相同程序开展招聘。\n\n五、招聘程序\n\n（一）资格审查\n\n按照岗位对应的资格条件进行审查，通过资格审查者进入初面。资格审查工作贯穿招聘全过程。在招聘各环节发现应聘人员不符合岗位资格条件的，取消应聘资格或聘用资格。\n\n（二）初面\n\n初面时间预计安排在10月下旬，面试方式采取答辩/科研汇报方式，一般采用线上面试。初面评分80分（百分制）为合格分数线，80分及以上者方可进入下一环节。各岗位根据初面评分从高到低排序，按拟聘人数1:5的比例确定进入终面人员。初面评分80分及以上者不足拟聘人数5倍的，80分及以上人员全部进入终面。\n\n（三）能力素质测评\n\n进入终面的应聘人员须参加能力素质测评，结果供终面参考。\n\n（四）终面\n\n在集团网站、长江水利网发布终面公告，面试时间以公告时间为准。面试方式采取答辩/科研汇报方式，一般采用线下面试。终面评分85分（百分制）为合格分数线。\n\n（五）体检\n\n按照终面评分从高到低，按计划聘用人数1:1比例确定体检人员，体检标准参照公务员录用体检通用标准，体检不合格的不得确定为拟聘人员。\n\n（六）公示和聘用\n\n根据终面评分、体检等结果研究确定拟聘人员。拟聘人员信息在集团官网、长江水利网公示，公示期不少于7天。公示内容包括用人单位、岗位、姓名、性别、学历及毕业院校或工作单位等，并公布监督电话与通信地址。公示无异议，或反映问题不影响聘用的，按规定报上级主管部门备案后办理聘用手续。\n\n（七）递补\n\n公示前因拟聘人员体检不合格或放弃拟聘资格等原因出现空缺，经各用人单位领导班子集体研究，可在该岗位终面合格人选中，根据终面评分由高到低依次递补。\n\n六、监督与咨询\n\n咨询方式。进入集团招聘网站，在“联系我们”页面留存各单位。如有疑问，可联系相应单位。\n\n通讯地址：武汉市汉口解放大道1863号\n\n欢迎社会和考生监督，根据信访监督等有关规定，应聘人员反映情况应当客观真实，一般应当采用书信、传真等书面形式，若提出投诉请求，还应载明姓名、联系方式和请求、事实、理由，以便调查核实反馈。",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:ed227aeb78ae44169f5c842c9d666d09",
+      "kind": "talk",
+      "title": "【青春有志当执审 山海有情赴征程】审计署沈阳特派办2027年国考招录校园宣讲会",
+      "company": "中华人民共和国审计署驻沈阳特派员办事处",
+      "startAt": "2026-10-15T13:00:00+08:00",
+      "endAt": "2026-10-15T15:00:00+08:00",
+      "date": "2026-10-15",
+      "venue": "综合教学2号楼A202",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=ed227aeb78ae44169f5c842c9d666d09",
+      "companyInfo": {
+        "nature": "机关",
+        "scale": "100到200人",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "审计业务处",
+          "education": "本科,硕士,博士",
+          "majors": "金融,会计学,金融学（英语强化）(本科生）,金融学（英语强化）,金融学,金融(研究生）,金融管理(研究生）,金融学(研究生）,会计学(研究生）,金融管理",
+          "city": "辽宁省沈阳市",
+          "headcount": "3",
+          "description": "从事国家审计"
+        }
+      ],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4162,7 +4439,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4200,7 +4477,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-09-30T14:25:12.474Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4238,7 +4515,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4396,7 +4673,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4434,7 +4711,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4472,7 +4749,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4534,7 +4811,77 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:7689a71f46f04a788f6776560d2f001b",
+      "kind": "talk",
+      "title": "盛虹石化2027届虹途人才专场宣讲会",
+      "company": "江苏盛虹石化产业集团有限公司",
+      "startAt": "2026-10-15T15:30:00+08:00",
+      "endAt": "2026-10-15T17:30:00+08:00",
+      "date": "2026-10-15",
+      "venue": "综合教学2号楼A205",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=7689a71f46f04a788f6776560d2f001b",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "设备/电气/仪表管理",
+          "education": "硕士,博士",
+          "majors": "机械设计制造及其自动化(日语强化),机械设计制造及其自动化（卓越国合班）,仪器仪表工程(研究生）,电气工程(研究生）",
+          "city": "江苏省连云港市",
+          "headcount": "5",
+          "description": "薪资范围20-30 万元/年工作职责1、参与设备/电气/仪表管理相关工作，负责编制维护、润滑、防腐、检修规程。2、参与设备/电气/仪表检查和隐患排查工作，及时组织缺陷和隐患消除。任职资格1、27届应届毕业生，硕士及以上学历；2、机械设备/电气/仪表相关专业，化工行业认知优先；3、能接受1年的生产一线倒班工作；"
+        },
+        {
+          "title": "产品研发",
+          "education": "硕士,博士",
+          "majors": "化学工程与技术(研究生）,高分子材料与工程,高分子材料",
+          "city": "上海市奉贤区,江苏省连云港市",
+          "headcount": "15",
+          "description": "薪资范围20-60 万元/年工作职责1、客户投诉问题的分析解决。走访客户，制定解决方案。2、与高等院校合作开发新产品，及时掌握行业新动态，及时抢占市场。3、编制产品技术台账、客户台账，及时发现公司产品性能缺陷。进行产品多方位性能的应用验证，评价产品的竞争优势，并编制性能测试总结报告，提供给相关部门。4、研发试验材料、仪器的提报工作。任职资格1、27届应届毕业生，硕士及以上学历；2、高分子材料相关专业，研究课题方向材料加工、材料合成相关；3、能接受1年的生产一线倒班工作；4、横向课题经验优先。"
+        },
+        {
+          "title": "工业智能",
+          "education": "硕士,博士",
+          "majors": "人工智能,精细化工（人工智能未来技术班）,人工智能,软件工程",
+          "city": "上海市奉贤区,江苏省连云港市",
+          "headcount": "5",
+          "description": "薪资范围20-30 万元/年工作职责1、负责石油化工行业的数字化转型，利用大数据、云计算、人工智能等技术，提高业务流程效率和智能化水平；2、负责数智化AI项目的实施和管理，包括需求分析、方案设计、开发测试、部署上线等全过程。任职资格具有良好的职业素质和职业道德，坚持原则、秉公办事、工作勤奋、工作主动，责任心与抗压能力强，具有团队合作精神人工智能、软件工程、电子通信工程等计算机相关专业，有人工智能研究项目/横向课题参与经验"
+        },
+        {
+          "title": "工艺管理",
+          "education": "硕士,博士",
+          "majors": "化学工程,材料与化工",
+          "city": "江苏省连云港市",
+          "headcount": "15",
+          "description": "薪资范围20-30 万元/年工作职责1、负责编制分管装置的开车试运方案、操作规程、工艺卡片、停工方案、专项方案、事故处理方案各种技术文件。2、根据部门培训需求及培训计划，具体开展分管装置工艺技术培训工作。3、参与DCS、SIS等中央集中控制系统的组态和调试工作、定期检查并协调整改系统中的问题。负责分管装置建设及试生产阶段的三查四定工作，跟踪整改进度和质量。4、负责开停工期间指挥工作，装置正常生产期间，负责分管装置工艺操作、产品质量的日常检查，并对运行班组下达生产指令，进行工艺考核，分管装置操作平稳率、工艺防腐、工艺纪律等工作。5、根据调度指令编制部门日生产计划，分管装置标准作业卡、日常作业指导书并督促班组落实。6、负责分管装置生产异常情况和生产事故的调查、分析，提出整改和预防建议措施。7、配合完成各项工艺技术管理：包括工艺管理、资料管理、质量管理、技改技措管理工作。8、配合完成各项生产管理：包括运行管理、开停工管理、生产优化管理、生产变动管理、计量统计管理、联锁管理、盲板管理工作。任职资格1、27届应届毕业生，硕士及以上学历；2、化学工程与工艺相关专业，研究课"
+        },
+        {
+          "title": "营销贸易",
+          "education": "硕士,博士",
+          "majors": "材料与化工,国际经济与贸易（白中）,金融(研究生）,应用统计(研究生）",
+          "city": "上海市奉贤区,江苏省连云港市",
+          "headcount": "5",
+          "description": "学历要求硕士研究生工作经验--薪资范围20-28 万元/年工作职责1、负责所辖产品销售策略、销售计划的制定和实施，完成公司产品销售及贸易目标；2、收集区域内产品市场行情变化及重点竞争对手的销售策略、市场策略等信息，并对市场信息进行分析、预测并制定对策。任职资格化工、贸易、金融、统计等相关专业具有良好的职业素质和职业道德，坚持原则、秉公办事、工作勤奋、工作主动，责任心与抗压能力强，具有团队合作精神"
+        }
+      ],
+      "participants": [],
+      "description": "盛虹控股集团创立于1992年，是石化炼化、新能源、新材料、高端纺织全产业链一体发展的国际化高新技术产业集团。自创立以来，始终与国家战略同频，专注实体经济发展，现拥有上市公司1家（东方盛虹，000301），在上海、香港、新加坡设立分支机构，业务遍及全球。2023年，盛虹控股集团位列“世界500强”第158位、“中国企业500强”第40位、“中国民营企业500强”第11位。\n\n盛虹控股集团把创新作为立身之本，搭建了国家先进功能纤维创新中心、先进材料研究院、石化创新中心等创新平台，汇聚5000多名科研人才，与知名高校和科研院所开展产学研合作，以科技创新引领产业创新。先后获得“国家科技进步奖”“中国工业大奖”“中国纺织之光科技进步奖”“国家技术创新示范企业”“全国循环经济先进单位”“袁宝华企业管理金奖”等荣誉。\n\n盛虹石化产业集团是盛虹控股集团倾力打造的创新型、生态型产业集群，位于国家东中西区域合作示范区（连云港徐圩新区），规划面积约16平方公里，集生产研发、物流配套等功能于一身，坚持炼化一体、高端新材料全产业链均衡发展。目前，盛虹石化已投资约2000亿元，布局建设了1600万吨/年炼化一体化、240万吨/年醇基多联产、70万吨/年丙烷产业链、390万吨/年PTA等重大项目，并完整配套了超500万立方米仓储罐区、江苏首个30万吨级原油泊位、多个10万吨级至5万吨级液体化工泊位，以及热电联产等项目，逐步构建了“油、煤、气”三头并举、“芳烃”“烯烃”双链并进的发展模式，是国家七大世界级石化产业基地中极具影响力的支柱品牌。\n\n在新时代新发展理念引领下，盛虹石化正依托世界领先的核心原料大平台，聚焦战略性新兴产业转型，全面深入推进核心原料平台+新能源、新材料等多元化产业链条的“1+N”战略布局，围绕“绿色、低碳、循环”，全力打造具有“强大基础原材料保障能力、世界一流的新能源新材料研发与供应能力”的高新技术产业集团，全面建设具有全球竞争力的世界一流企业。\n\n一、关于虹途计划\n\n“虹途”计划是盛虹石化打造的高潜人才培养项目，通过“定向培养机制”“导师培养机制”“项目历练”等方式，为公司培养领导型与专家型人才。\n\n二、员工发展与培养\n\n盛虹秉承人尽其才、惟贤惟德的人才发展理念，践行“识人、用人、育人、留人”多方位一体的人才发展战略，坚信“才到盛虹必有为”。公司高度重视员工的可持续发展和多元化培养，致力于为员工提供广阔的发展空间和丰富的成长机会，帮助每位员工在职业生涯中不断进步。\n\n1、全面的培训体系\n\n我们为员工设计了系统化的培训计划，涵盖入职培训、岗位技能培训、领导力培养以及专业认证支持。我们还定期邀请专业导师进行座谈分享，确保员工掌握最新的行业动态和技术趋势。\n\n2、职业发展路径\n\n在盛虹，员工的职业发展得到高度重视。我们为每位员工量身定制职业发展路径，明确发展目标与晋升机会。通过定期的绩效评估、人才测评和职业规划讨论，我们帮助员工识别发展方向并提供相应的支持及专有的职业发展通道，使大家能够在公司内部不断攀升。\n\n3、个人成长支持\n\n我们提供多种个人成长支持措施，包括轮岗学习、专业导师、职业咨询等。我们鼓励员工挑战自我，深入探索工作专业深度，并在工作中不断积累经验和提升能力。\n\n三、企业福利与待遇\n\n【竞争力薪酬】每年对同行业薪酬调研，通过年度调薪确保本公司薪酬具备良好的市场竞争力。\n\n薪资构成：全面薪酬＝固定工资＋绩效奖金＋福利保障（高温津贴、夜班津贴、值班津贴、工龄工资）＋综合补贴＋年度奖金＋长期股权激励。\n\n硕士生综合年薪：20-28万 博士生综合年薪：40-60万\n\n【福利待遇】\n\n1、【六险一金】入职日起，公司为其缴纳办理六险一金。\n\n2、【衣】公司定期为员工发放职业工装和个人劳保防护用品。\n\n3、【食】公司拥有宽敞明亮的食堂，提供工作餐补贴。\n\n4、【住】公司免费提供宿舍及床上用品，宿舍配有空调、洗衣机、电热水器、独立卫生间和阳台，实现拎包即住。同时为满足条件员工提供（10-15万）无息购房借款，提供购房补贴政策。\n\n5、【行】公司提供全天候多线班车接送服务，保障出行；每年两次往返探亲路费报销。\n\n6、【娱乐】公司拥有篮球场、乒乓球室、台球室、健身房、电影院等设施和场地，定期组织节日游园会、体验竞赛、兴趣小组等丰富多彩的员工活动。\n\n7、【身心健康】定期组织员工免费健康体检，筑牢“健康保护伞”；定期组织丰富多彩的职工活动，开展EAP心理关怀活动，团结职工群众，汇聚企业向心力。\n\n8、【带薪假期】年休假（入职当年即可享受5天/年带薪年假，每满一年增加一天，封顶15天）、探亲假（5天/年），依法享受国家法定假期、婚假、丧假、产假、护理假、育儿假、独生子女父母护理假等各类福利假。\n\n9、【职工关爱基金】针对公司内部职工因重大疾病造成的生活困难，提供资助金额5000-50000元。\n\n四、招聘专业\n\n本次校园招聘面向硕士、博士毕业生，具体招聘专业及要求如下表所示。\n\n岗位类别\n\n专业要求\n\n学历要求\n\n技术研发\n\n高分子材料相关专业，研究课题方向材料加工、材料合成相关\n\n硕士/博士\n\n工艺生产\n\n化学工程与工艺相关专业，研究课题方向与炼油、化工工艺相关\n\n硕士/博士\n\n设备/电气/仪表管理\n\n机械设备/电气/仪表相关专业，有化工行业认知优先\n\n硕士/博士\n\n工业智能\n\n人工智能、软件工程、电子通信工程等计算机相关专业，有人工智能研究项目/横向课题参与经验\n\n硕士/博士\n\n营销贸易\n\n化工、贸易、金融、统计等相关专业\n\n硕士/博士\n\n五、招聘流程\n\n参加空中宣讲及投递简历 / 参加现场招聘会\n\n在线网申 → AI能力测评 → 线上专业复试 → 现场高管终试 → Offer发放\n\n六、简历投递\n\n1、移动端：关注微信公众号“盛虹石化招聘”—2027校园招聘（扫码投递）。\n\n2、更多校招宣传请关注抖音“盛虹石化集团官方招聘”、视频号“盛虹石化雇主”。\n\n七、联系方式\n\n公司地址：江苏省连云港市徐圩新区岗前大道399号\n\n联系方式：李老师",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4588,7 +4935,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4626,7 +4973,53 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:24d4e2c26b094028a5205ccea0184527",
+      "kind": "talk",
+      "title": "超聚变x2027届校园招聘大连理工大学专场宣讲会",
+      "company": "超聚变数字技术有限公司",
+      "startAt": "2026-10-15T18:00:00+08:00",
+      "endAt": "2026-10-15T21:30:00+08:00",
+      "date": "2026-10-15",
+      "venue": "综合教学2号楼B303",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=24d4e2c26b094028a5205ccea0184527",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "销售经理",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "全国",
+          "headcount": "56",
+          "description": "工作职责：1、洞悉市场趋势： 从理解行业客户的商业需求到洞察行业整体发展趋势，逐步洞悉组织、社会的运行机制；2、建立合作关系： 公司客户界面第一负责人，以领先的产品与服务、专业的技术能力与客户建立良好的合作关系，为客户创造价值；3、赢得项目机会：理解客户业务需求和采购流程，挖掘市场机会，带领团队赢得项目机会；4、发展合作伙伴：理解合作伙伴相关政策，构建生态共赢的伙伴关系，与伙伴一同拓展市场、服务客户；5、促成双赢交易：不断学习和了解商务交易相关知识，在各专业领域支撑下，平衡风险与收益，与客户、伙伴达成交易，使双赢的合作目标通过高质量的合同落地；6、做好团队领袖：销售是团队天然的领导者，带领团队共同前进，对目标和结果负责。任职要求1、专业不限，计算机、通信、电子、人工智能、自动化、软件工程、信息安全、数学、物理等理工科专业优先，具备大学英语四级及以上英语证书；2、学习能力强，成就导向强，富有创新精神；3、良好的沟通理解和人际交往能力；拥有丰富的学生会、社团组织、社会实践经验将更有优势。如果你志存高远、乐于挑战、渴望成功，想体验不同国家风土人情，我们可以提供全球化工作"
+        },
+        {
+          "title": "AI软件工程师（AI应用）",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "河南省郑州市",
+          "headcount": "100",
+          "description": "工作职责1、参与企业级 AI 应用、智能体平台、MCP 工具和自动化工作流开发。2、支持模型接入、AI 网关、鉴权、Token 计量、日志监控等基础能力建设。3、参与需求分析、编码开发、测试验证和上线发布，推动 AI 应用场景落地。4、沉淀开发规范、提示词模板、测试用例和工程实践经验。任职要求1、计算机、软件工程、人工智能等相关专业优先。2、掌握至少一门编程语言，具备基础编码和调试能力。3、了解 Web、服务端、数据库或移动端开发基础。4、关注大模型、Agent、RAG、AI 编程工具，学习能力和协作意识强。"
+        }
+      ],
+      "participants": [],
+      "description": "",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4664,7 +5057,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4742,7 +5135,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4780,7 +5173,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4818,7 +5211,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4856,7 +5249,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4894,7 +5287,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "group:9872228f16b14b07ab4aaf039042f833",
+      "kind": "group",
+      "title": "通用技术集团机床产业2027年校园招聘",
+      "company": "中国通用技术（集团）控股有限责任公司",
+      "startAt": "2026-10-16T10:00:00+08:00",
+      "endAt": "2026-10-16T12:00:00+08:00",
+      "date": "2026-10-16",
+      "venue": "学生文化中心A座一楼中厅",
+      "campus": "",
+      "building": "学生文化中心A座",
+      "sourceUrl": "https://job.dlut.edu.cn/f/bilateralchosefairGroup/show?bilateralchosefairGroupId=9872228f16b14b07ab4aaf039042f833",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "通用技术集团机床产业2027年校园招聘简章\n\n一、单位简介\n\n通用技术集团——\n\n中国通用技术（集团）控股有限责任公司（简称通用技术集团）成立于1998年，是中央直接管理的国有重要骨干企业，2018年12月获批成为国有资本投资公司试点企业。\n\n集团聚焦先进制造与技术服务、医药医疗健康、贸易与工程服务三大主业，持续优化布局结构，不断强化创新驱动，着力推动高质量发展，在中央企业经营业绩考核中13次获得A级，9次入围《财富》世界500强。面向未来，集团将践行“以科技进步和品质服务引领美好生活”的企业使命，秉承“诚信、包容、创新、实干、卓越、共赢”的企业核心价值观，努力打造成为具有全球竞争力的世界一流企业。\n\n通用技术集团机床产业子集团——\n\n集团积极践行制造强国战略，把发展高端数控机床作为集团的第一核心主业。新中国成立以来，集团在机床装备领域创造了数十个全国第一，涌现出开国劳模、全国劳模40余人，不断传承发扬马恒昌小组精神。目前，集团拥有1家机床工程研究院和9家机床生产制造单位，是国内机床行业中产品种类最多、服务领域最广、综合技术能力最强、为重点行业和关键领域提供高端核心装备最多的龙头企业。\n\n机床产业重要成员企业——\n\n通用技术集团机床有限公司（机床公司）\n\n通用技术集团机床工程研究院有限公司（机床研究院）\n\n沈阳机床股份有限公司（沈阳机床）\n\n通用技术集团大连机床有限责任公司（大连机床）\n\n通用技术齐齐哈尔二机床有限责任公司（齐二机床）\n\n通用技术集团哈尔滨量具刃具有限责任公司（哈量公司）\n\n通用技术集团昆明机床股份有限公司（昆明机床）\n\n天津市天锻压力机有限公司（天锻公司）\n\n通用技术集团天津第一机床有限公司（天津一机）\n\n通用技术集团国测时栅科技有限公司（国测时栅）\n\n南京二机齿轮机床有限公司（南京二机）\n\n辽宁镱镨精密机床部件有限公司（辽宁镱镨）\n\n通技（大连）国际贸易有限公司（通技国际）\n\n北京机床研究所有限公司国际贸易部（国际贸易部）\n\n二、招聘需求及专业\n\n50+岗位 200+人数\n\n机械类、电气类、电子类、自动化类、材料类、仪器类、控制科学类、航空航天类、数控系统类、计算机技术类、经管文法类等。\n\n三、工作地点\n\n北京、天津、南京、沈阳、大连、哈尔滨、齐齐哈尔、重庆、西安、昆明等\n\n四、简历投递\n\n输入下方链接或扫码登录“通用技术集团官方招聘网站”线上投递简历，或宣讲会当天现场投递。\n\n校招二维码\n\n招聘门户网站\n\nhttp://genertec.zhiye.com/",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -4972,7 +5394,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -5010,7 +5432,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -5048,7 +5470,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -5110,7 +5532,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "group:db30ded07b1f4d4ea27a570031c4460a",
+      "kind": "group",
+      "title": "中国能建2027届全球校园招聘—大连理工大学专场",
+      "company": "中国能源建设股份有限公司",
+      "startAt": "2026-10-16T14:00:00+08:00",
+      "endAt": "2026-10-16T17:00:00+08:00",
+      "date": "2026-10-16",
+      "venue": "学生文化中心A座312报告厅",
+      "campus": "",
+      "building": "学生文化中心A座",
+      "sourceUrl": "https://job.dlut.edu.cn/f/bilateralchosefairGroup/show?bilateralchosefairGroupId=db30ded07b1f4d4ea27a570031c4460a",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "“聚能成势，共建美好”\n\n中国能建2027届全球校园招聘正式启动\n\n一、山河绘卷 能建强国\n\n中国能源建设集团有限公司（以下简称公司）是由国务院国资委直接管理的特大型能源建设集团公司，是我国能源水利等基础设施领域建设的国家队、排头兵，以领先的技术水平和卓越的创新能力，服务国家战略、引领行业发展。\n\n公司业务涵盖能源电力、水利2个主业，以及绿色交通、绿色建筑和市政、数字基建（人工智能）、新型材料、民爆、生态环保、高端装备、城市开发运营（房地产）、产业金融等9大相关多元领域，具有集科技研发、规划咨询、勘察设计、工程建设、投资运营、工业制造、调试运维为一体的完整产业链。\n\n公司连续13年进入世界500强，在ENR全球工程设计公司150强、国际工程设计公司225强、全球承包商250强和国际承包商250强排名中位居前列，在90多个国家和地区设立了200多个境外分支机构，业务遍布世界140多个国家和地区。\n\n公司拥有3个院士专家工作站，16个博士后科研工作站，9个国家级研究机构，82个省级研究机构，144家高新技术企业。先后承建了三峡工程、南水北调、西气东输、西电东送、三代核电等一系列关系国计民生的重大工程，铸造了如乌东德、白鹤滩、华龙一号等一批享誉全球的大国重器，在大规模风光储输工程、特高压多端混合直流工程、高海拔输变电工程、1240兆瓦高效超超临界燃煤发电工程、压缩空气储能等领域创造了卓著业绩，并在海外打造了一批具有能建特色的中国电、中国网、中国坝、中国城、中国路、中国桥，将先进成熟的中国技术、中国装备、中国质量、中国管理、中国运营服务源源不断地呈现给世界人民。\n\n二、扶毓良才 光耀新程\n\n（一）扶光计划：青年高潜人才成长快车道\n\n三级联动：公司总部战略统筹并调配资源；所属企业负责精准落地和个性培养；基层项目提供实战练兵机会，三级联动给予成长护航。\n\n五阶发展：科学构建6至10年、5个阶段的职业发展模型和成长路径图，加速打造高素质、专业化、创新型优秀年轻人才队伍。\n\n六维培育：打造政治素养提升，岗位分层实践，精准培训体系，“师带徒”机制，职业发展通道，企业文化浸润六维培养模式。\n\n（二）成长通道：四通道四层次成才立交桥\n\n建立纵向贯通、横向融通的“四通道四层次”岗位体系，统一岗位序列、统一通道序列，激励各类人才在经营管理、项目管理、专业技术、专业技能四条通道上各展其能。\n\n（三）薪酬福利：全方位多层次暖心保障网\n\n薪酬待遇：岗位工资、绩效工资、年终奖励、津贴补贴、中长期激励、社会保险、住房公积金、企业年金、补充医疗等。\n\n员工福利：住房、落户、医疗、体检、教育、培训、休息休假等各项福利。\n\n三、招聘需求\n\n招聘对象：国内外高校2027届应届毕业生，具有参军入伍经历，或西藏、青海、新疆三地生源高校毕业生，同等条件优先录用。\n\n岗位大类：规划资讯类、勘测设计类、工程建设类、装备制造类、资本金融类、国际业务类、人工智能类、数字信息类、市场运营类、通用职能类。\n\n工作地点：北京、上海、广州、深圳、杭州、成都、武汉、西安、哈尔滨、昆明、长沙、大连等全国100+城市，及国（境）外地区。\n\n三、投递渠道\n\n网申渠道：ceec.iguopin.com\n\n五、宣讲行程\n\n清华大学、华北电力大学（北京）、天津大学、哈尔滨工业大学、东北电力大学、武汉大学、华中科技大学、武汉理工大学、三峡大学、西安交通大学、重庆大学、浙江大学、上海交通大学、同济大学、华南理工大学、河海大学、合肥工业大学、大连理工大学、新疆大学、西藏大学。具体宣讲时间请关注招聘网站（ceec.iguopin.com）或中国能建微信公众号。",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -5164,7 +5615,45 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:aec0f56c63d94d2cb3be85fddfa0a8d4",
+      "kind": "talk",
+      "title": "河南心连心化学工业集团股份有限公司招聘",
+      "company": "河南心连心化学工业集团股份有限公司",
+      "startAt": "2026-10-16T15:30:00+08:00",
+      "endAt": "2026-10-16T17:30:00+08:00",
+      "date": "2026-10-16",
+      "venue": "综合教学2号楼A406",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=aec0f56c63d94d2cb3be85fddfa0a8d4",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "1000以上",
+        "website": "http://www.hnxlx.com.cn/",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "河南心连心化学工业集团股份有限公司招聘",
+          "education": "硕士,博士",
+          "majors": "应用化学,化学工程,化学,生物工程,化学生物学,材料与化工,机械电子工程,机械制造及其自动化,自动化",
+          "city": "河南省新乡市",
+          "headcount": "75",
+          "description": "详见招聘简章"
+        }
+      ],
+      "participants": [],
+      "description": "河南心连心化学工业集团股份有限公司招聘简章\n\n公司介绍\n\n简介：河南心连心化学工业集团股份有限公司，始建于1969年，2003年改为股份制企业，2009年在香港上市，2024年、2025年入选中国化肥行业100强第4位。\n\n规模：现有河南新乡、新疆玛纳斯、江西九江、新疆准东、广西贵港五大生产基地。总资产超400亿元，员工1.3万余人，总部占地面积3.71平方公里。\n\n产品：心连心集团主要经营尿素、复合肥以及煤化工相关产品，下属分子公司的腐植酸、车用尿素、糠醇、二氧化碳、高端封头、医药中间体等产品也在行业内名列前茅。\n\n科研：心连心集团为国家高新技术企业，掌握先进煤气化技术，拥有国家企业技术中心、中国氮肥工业（心连心）技术研究中心、博士后科研工作站、水肥一体化研究中心、国家认可实验室、深圳研发中心、上海研发中心等科研平台。\n\n二、招聘需求\n\n招聘岗位\n\n中央研究院化工技术研发岗\n\n工作方向\n\n基础化工品调研及产业链延伸、园区规划、产品技术调研等；\n\n精细化工、生物化工等方向产品规划研究与技术攻关；\n\n聚甲醛、催化剂、肥料添加剂技术研究；\n\n现有装置节能降耗优化；\n\n新建项目技术方案论证实施；\n\n双碳技术（生物质能利用、CCUS、降碳技术）；\n\n化工装备新技术调研、自动化提升研究。\n\n招聘专业\n\n化学工程、化学工艺、化学工程与技术、材料与化工、生物发酵、化工制药、化工过程机械、电气类、自动化类专业或研究方向\n\n招聘对象\n\n硕士、博士毕业生\n\n工作地点\n\n河南新乡总部；江西、新疆、广西基地；一线研发中心（郑州、深圳、上海）\n\n招聘岗位\n\n中央研究院产品技术研发岗\n\n工作方向\n\n负责研究根际微环境的影响因素；\n\n开展氮（速效、缓效）、磷（活化）、中微量元素不同形态的最佳配比和养分调控技术的研究；\n\n开发专用型增效包，为功能性肥料开发提供技术包；\n\n负责对腐植酸原料、工艺进行技术升级和新技术开发或引进，为肥料开发提供技术支持；\n\n负责水溶肥技术的研究，为液体肥和粉剂水溶肥开发、产品质量提升提供技术支持；\n\n负责围绕肥料质量提升、产品实现、降本提效开展助剂研究，收集研究助剂材料在肥料中的应用效果。\n\n招聘专业\n\n植物营养学、土壤学、高分子材料、化工材料学、合成生物学、农学、有机化学类专业或研究方向\n\n招聘对象\n\n硕士、博士毕业生\n\n工作地点\n\n全国\n\n三、职业发展通道\n\n1、技术发展通道\n\n助理工程师→工程师→副主任工程师→主任工程师→专业副总工→专业总工→首席科学家\n\n2、管理发展通道\n\n基层员工→基层干部→中层干部→核心中层→高层干部\n\n薪酬待遇\n\n类别\n\n内容\n\n薪酬体系\n\n硕士:15-30万/年起薪\n\n博士:基础年薪30-45万/年起薪，优秀人员“一人一议”\n\n激励奖(项目奖金、创新奖金)\n\n福利体系\n\n1、七险一金、年终奖、专项奖金、职工子女奖学金、降温补助、取暖补助\n\n2、节日福利、生日礼品、健康体检、四季工作服、婚假、产假、带薪年休假、免费旅游\n\n3、免费班车、职工公寓、职工餐厅、职工医院、自建生活区、幼儿园、养老服务中心\n\n文娱活动\n\n1、场所：健身房、棋牌室、图书阅览室\n\n2、协会：心佳缘协会、乒乓球协会、羽毛球协会、篮球协会、卡拉OK协会\n\n3、活动：趣味运动会、春节晚会、演讲比赛、好声音大赛、鹊桥联谊会\n\n五、招聘流程\n\n简历投递→综合+专业面试→考试测评→录用签约→体检+背景调查→入职报到→岗前培训\n\n投递方式\n\n扫“码”投递（推荐）\n\nPC端：https://jobs.hnxlx.com/SU68443b0809e001fc97d74c4e/pb/school.html\n\n3、其他简历投递方式：登录前程、智联、猎聘网站均可投递\n\n提醒：以上渠道任选其一，投递一份简历即可，HR会依据您的情况匹配合适岗位，无需多次投递\n\n★联系我们\n\n专属热线：、、\n\n公司地址：河南省新乡市经济开发区心连心大道\n\n企业公众号",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -5202,7 +5691,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -5240,7 +5729,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -5278,7 +5767,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -5316,7 +5805,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
@@ -5362,7 +5851,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-08T15:04:08.661Z",
-      "lastSeenAt": "2026-10-08T15:04:08.661Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "fair:e9529be80c514cd2bc9e05901a9f0089",
+      "kind": "fair",
+      "title": "“东北五校”2027届毕业生秋季双选会（大连理工大学凌水主校区）",
+      "company": "",
+      "startAt": "2026-10-24T08:30:00+08:00",
+      "endAt": "2026-10-24T17:00:00+08:00",
+      "date": "2026-10-24",
+      "venue": "凌水主校区刘长春体育馆",
+      "campus": "",
+      "building": "凌水主校区刘长春体育馆",
+      "sourceUrl": "https://job.dlut.edu.cn/f/bilateralchosefair/show?bilateralchosefairId=e9529be80c514cd2bc9e05901a9f0089",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "全校2027届毕业生同学：\n\n我校2027届毕业生秋季双选会（凌水主校区）将于10月24日（凌水主校区刘长春体育馆）召开，现将会议有关内容通知如下，请毕业生同学提前准备好个人简历、成绩单等应聘材料，以积极的心态面对择业、就业。\n\n凌水主校区：\n\n1、会议时间：10月24日8:30—17:00。\n\n2、会议地点：刘长春体育馆主馆及篮球训练馆。\n\n3、参会单位名录：企业报名后陆续公布在就业网，实际报到的单位名称和展位号请直接在就业网查看。\n\n4、参会须知：\n\n（1）参会学生凭玉兰卡从体育馆西北门入场\n\n（2）为防止丢失、盗窃及其它安全问题，学生一律不得携包入内。请同学们遵守秩序，在场馆内洽谈时勿拥挤，自觉排队。\n\n（3）欢迎大三或研二的同学到会观摩学习，提前了解就业市场，以上非毕业年级在校生同学可10:30后凭玉兰卡入场。\n\n（4）请爱护场馆内设施，勿乱动场馆内电气设施及各种开关阀门。保持场馆内卫生，勿随地吐痰、乱扔杂物。场馆内禁止吸烟。\n\n（5）洽谈会期间，在体育馆设有医疗服务站。\n\n（6）学生服务中心及各学院在体育馆设有咨询服务处，如有任何问题请到咨询服务处咨询。",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-10-09T14:47:35.803Z",
+      "lastSeenAt": "2026-10-09T14:47:35.803Z",
       "changes": [
         "new"
       ]
