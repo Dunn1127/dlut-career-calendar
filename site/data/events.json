@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T14:41:27.983Z",
-  "lastSuccessAt": "2026-10-28T14:41:27.983Z",
+  "generatedAt": "2026-10-29T14:46:25.670Z",
+  "lastSuccessAt": "2026-10-29T14:46:25.670Z",
   "window": {
-    "start": "2026-10-23",
-    "end": "2026-11-12"
+    "start": "2026-10-24",
+    "end": "2026-11-13"
   },
   "source": {
     "url": "https://job.dlut.edu.cn/",
@@ -12,85 +12,11 @@
   },
   "sync": {
     "status": "partial",
-    "fetchedCount": 58,
+    "fetchedCount": 56,
     "detailFailures": 3,
     "detailSkipped": 0
   },
   "events": [
-    {
-      "id": "group:37acbd62ee49442b87d7cf4a25edbe82",
-      "kind": "group",
-      "title": "大国装备 择机而行 中国机械工业集团2027届校园招聘——大连理工大学专场",
-      "company": "中国机械工业集团有限公司",
-      "startAt": "2026-10-23T14:00:00+08:00",
-      "endAt": "2026-10-23T17:00:00+08:00",
-      "date": "2026-10-23",
-      "venue": "学生文化中心A座312报告厅+一楼中厅",
-      "campus": "",
-      "building": "学生文化中心A座",
-      "sourceUrl": "https://job.dlut.edu.cn/f/bilateralchosefairGroup/show?bilateralchosefairGroupId=37acbd62ee49442b87d7cf4a25edbe82",
-      "companyInfo": {
-        "nature": "国有企业",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-10-16T12:51:24.790Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:30fbe6aaabba4c9fb824fe3522cbe5b9",
-      "kind": "talk",
-      "title": "中国长江三峡集团有限公司2027年高校毕业生招聘公告",
-      "company": "中国三峡新能源（集团）股份有限公司辽宁分公司",
-      "startAt": "2026-10-23T15:30:00+08:00",
-      "endAt": "2026-10-23T17:30:00+08:00",
-      "date": "2026-10-23",
-      "venue": "学生文化中心A座501",
-      "campus": "大连凌水主校区",
-      "building": "学生文化中心A座",
-      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=30fbe6aaabba4c9fb824fe3522cbe5b9",
-      "companyInfo": {
-        "nature": "国有企业",
-        "scale": "100到200人",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [
-        {
-          "title": "电气工程、机械工程、土木工程、企业管理等",
-          "education": "本科,硕士,博士",
-          "majors": "土木水利,电气工程及其自动化,电气工程",
-          "city": "全国",
-          "headcount": "200",
-          "description": "电气工程、机械工程、土木工程、企业管理等职位，具体已招聘公告为准。"
-        }
-      ],
-      "participants": [],
-      "description": "中国长江三峡集团有限公司\n\n2027年高校毕业生招聘公告\n\n中国长江三峡集团有限公司（以下简称三峡集团）于1993年正式成立。在党中央和国务院的坚强领导下，三峡集团始终坚决服从服务国家战略，立足长江、辐射全国、布局全球，历经三十多年持续快速高质量发展，现已成为全球最大的水电开发运营企业和中国领先的可再生能源集团。\n\n截至2025年底，三峡集团的水电、风电、太阳能等清洁可再生能源项目已遍布中国各个省市区和世界12个国家和地区，可控装机达1.68亿千瓦，拥有全资和控股子公司24家，分公司27家，直接控股上市公司3家，资产规模超过1.52万亿元。三峡集团利润总额、归属母公司净利润、成本费用利润率、全员劳动生产率、人均利润、人均上缴利税等指标在央企名列前茅。在中央企业年度经营业绩考核中连续19年获评A级。\n\n三峡集团秉承爱才、惜才的人才理念，建立多项人才培养制度，努力为每一位员工搭建建功立业平台，开辟多条发展路径和通道，实现员工与企业共成长。现根据业务发展需要面向海内外广纳贤才，公开招聘2027年高校毕业生，请有意参加应聘的同学通过网络方式报名。\n\n一、招聘对象\n\n2027年年高校毕业生，大学本科及以上学历。\n\n二、报名方式\n\n本次报名只接受网络报名一种方式，报名通道及岗位信息详见三峡集团官网。\n\n三、招聘工作程序及安排\n\n本着“公开、平等、竞争、择优”的原则，本次招聘按照简历筛选、笔试、AI沟通、面谈、面试、体检、公示、录用等主要程序进行。\n\n四、相关事项说明\n\n（一）应聘毕业生须严格按照规定准备和上传材料，并对报名信息和提供材料的真实性和准确性负责。凡弄虚作假者，一经核实，将取消应聘资格。\n\n（二）三峡集团不组织应聘前培训活动，也不以任何形式向应聘人员收取报名、培训等费用，请应聘人员提高警惕，谨防受骗。\n\n（三）三峡集团招聘工作组将于近期赴部分城市进行现场招聘活动，具体时间安排详见招聘网站，敬请同学们关注。\n\n特此公告。\n\n中国长江三峡集团有限公司\n\n2026年10月",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-10-14T13:11:14.225Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
-      "changes": [
-        "new",
-        "time",
-        "venue"
-      ],
-      "previous": {
-        "startAt": "2026-10-22T15:30:00+08:00",
-        "endAt": "2026-10-22T17:30:00+08:00",
-        "venue": "综合教学2号楼A305"
-      }
-    },
     {
       "id": "fair:e9529be80c514cd2bc9e05901a9f0089",
       "kind": "fair",
@@ -115,7 +41,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-09T14:47:35.803Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new",
         "time"
@@ -150,7 +76,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-15T12:57:31.676Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -179,7 +105,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-10T14:06:00.585Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -217,7 +143,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -367,7 +293,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-15T12:57:31.676Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -405,7 +331,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-15T12:57:31.676Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new",
         "venue"
@@ -513,7 +439,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-15T12:57:31.676Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -551,7 +477,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -597,7 +523,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -651,7 +577,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-15T12:57:31.676Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -705,7 +631,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-15T12:57:31.676Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -799,7 +725,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-15T12:57:31.676Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -869,7 +795,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-15T12:57:31.676Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -907,7 +833,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-16T12:51:24.790Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -945,7 +871,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-15T12:57:31.676Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -983,7 +909,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1021,7 +947,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-24T12:21:00.335Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1050,7 +976,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-10-26T14:41:04.521Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1112,7 +1038,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-21T13:19:14.259Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new",
         "venue"
@@ -1156,7 +1082,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-23T12:57:44.062Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1194,7 +1120,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1223,7 +1149,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-10-26T14:41:04.521Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1252,7 +1178,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-23T12:57:44.062Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1290,7 +1216,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-22T13:18:51.095Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1376,7 +1302,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1414,7 +1340,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-22T13:18:51.095Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1476,7 +1402,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1530,7 +1456,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-22T13:18:51.095Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1568,7 +1494,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1606,7 +1532,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1688,7 +1614,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-21T13:19:14.259Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1726,7 +1652,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1852,7 +1778,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-23T12:57:44.062Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1890,7 +1816,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1928,7 +1854,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -1966,7 +1892,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2004,7 +1930,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2042,7 +1968,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:41:27.983Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2096,7 +2022,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-23T12:57:44.062Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2220,7 +2146,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-23T12:57:44.062Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2338,7 +2264,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-22T13:18:51.095Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2400,7 +2326,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-21T13:19:14.259Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2438,7 +2364,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-21T13:19:14.259Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2476,7 +2402,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-22T13:18:51.095Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2505,7 +2431,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-20T13:08:48.791Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2543,7 +2469,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-22T13:18:51.095Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2581,7 +2507,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-22T13:18:51.095Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2651,7 +2577,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-22T13:18:51.095Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2689,7 +2615,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:41:27.983Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2727,7 +2653,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:41:27.983Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2756,7 +2682,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:41:27.983Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2802,7 +2728,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:41:27.983Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2831,7 +2757,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-23T12:57:44.062Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2901,7 +2827,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:41:27.983Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -2963,7 +2889,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:41:27.983Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
@@ -3001,7 +2927,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-10-28T14:41:27.983Z",
-      "lastSeenAt": "2026-10-28T14:41:27.983Z",
+      "lastSeenAt": "2026-10-29T14:46:25.670Z",
       "changes": [
         "new"
       ]
