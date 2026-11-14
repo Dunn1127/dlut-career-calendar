@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T16:27:11.200Z",
-  "lastSuccessAt": "2026-11-12T16:27:11.200Z",
+  "generatedAt": "2026-11-14T14:38:25.758Z",
+  "lastSuccessAt": "2026-11-14T14:38:25.758Z",
   "window": {
-    "start": "2026-11-08",
-    "end": "2026-11-28"
+    "start": "2026-11-09",
+    "end": "2026-11-29"
   },
   "source": {
     "url": "https://job.dlut.edu.cn/",
@@ -12,65 +12,11 @@
   },
   "sync": {
     "status": "partial",
-    "fetchedCount": 25,
-    "detailFailures": 1,
+    "fetchedCount": 29,
+    "detailFailures": 4,
     "detailSkipped": 0
   },
   "events": [
-    {
-      "id": "talk:b3813ecdc57e444599ad8fa651c6f23f",
-      "kind": "talk",
-      "title": "内蒙古北方重工业集团有限公司秋季招聘会",
-      "company": "内蒙古北方重工业集团有限公司",
-      "startAt": "2026-11-08T09:00:00+08:00",
-      "endAt": "2026-11-08T10:30:00+08:00",
-      "date": "2026-11-08",
-      "venue": "综合教学2号楼A404",
-      "campus": "大连凌水主校区",
-      "building": "综合教学2号楼",
-      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=b3813ecdc57e444599ad8fa651c6f23f",
-      "companyInfo": {
-        "nature": "国有企业",
-        "scale": "1000以上",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [
-        {
-          "title": "专业技术岗（人工智能）",
-          "education": "硕士,博士",
-          "majors": "人工智能",
-          "city": "内蒙古自治区包头市",
-          "headcount": "5",
-          "description": "1、面向装备智能化需求，开展智能识别、模式识别、具身智能算法研究、模型开发与优化；2、负责装备嵌入式软件、业务软件需求分析、编码开发、单元测试与集成调试；3、完成算法仿真验证、软硬件联调，解决智能化装备落地过程技术难题；4、开展前沿智能技术预研，完成项目报告、专利、技术文档编制。"
-        },
-        {
-          "title": "专业技术岗（新材料）",
-          "education": "硕士,博士",
-          "majors": "材料科学与工程,材料成型及控制工程,材料类",
-          "city": "内蒙古自治区包头市",
-          "headcount": "5",
-          "description": "1、 开展装备特种金属、功能材料选型、材料工艺研究与性能验证；2、针对装备工况，开展材料改性、加工工艺优化，解决强度、耐冲击、耐腐蚀等材料瓶颈；3、完成材料试样试验、性能检测分析，输出材料试验报告；4、推进新材料工程化应用，开展材料方向科研攻关与专利申报。"
-        },
-        {
-          "title": "专业技术岗（机械、控制）",
-          "education": "硕士,博士",
-          "majors": "控制理论与控制工程,控制工程,机械类",
-          "city": "内蒙古自治区包头市",
-          "headcount": "10",
-          "description": "1、负责装备机械结构、传动机构、伺服机构的方案设计、三维建模、工程图纸绘制；2、开展结构优化，编制设计说明书、工艺技术文件等工作；3、配合加工、装配、试验环节，处理生产试制现场技术问题，完成技术状态更改；4、参与科研项目攻等工作。"
-        }
-      ],
-      "participants": [],
-      "description": "",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
-      "changes": [
-        "new"
-      ]
-    },
     {
       "id": "talk:6a33741b7cb642e3b0df43ae4c5dbd3d",
       "kind": "talk",
@@ -176,7 +122,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:28:37.513Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -334,7 +280,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-02T17:34:51.074Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -404,7 +350,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-02T17:34:51.074Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -433,7 +379,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -479,7 +425,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-02T17:34:51.074Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -589,7 +535,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-02T17:34:51.074Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -627,7 +573,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -665,7 +611,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -711,7 +657,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:28:37.513Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -749,7 +695,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:28:37.513Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -819,7 +765,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-02T17:34:51.074Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -873,7 +819,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -902,7 +848,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-09T17:59:05.028Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -931,7 +877,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new",
         "venue"
@@ -1015,7 +961,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:28:37.513Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -1061,7 +1007,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "other:06590fd5ee9a4db8919f51ce9aa04aa9",
+      "kind": "other",
+      "title": "成谷科技2027届校招空中宣讲会",
+      "company": "",
+      "startAt": "2026-11-13T10:00:00.000Z",
+      "endAt": "2026-11-13T11:20:00.000Z",
+      "date": "2026-11-13",
+      "venue": "https://s1.tuoguanyun.cn/autoupload/f/a1gy4/20261105/Zo61/580X1068/%E5%AE%A3%E8%AE%B2%E4%BC%9A%E6%B5%B7%E6%8A%A5.png/webp",
+      "campus": "",
+      "building": "",
+      "sourceUrl": "",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "unavailable",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-14T14:38:25.758Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -1139,7 +1114,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:28:37.513Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "other:4c68b3d376704a63a9a7010cae40870e",
+      "kind": "other",
+      "title": "2027平行线教育空中宣讲会",
+      "company": "",
+      "startAt": "2026-11-13T11:00:00.000Z",
+      "endAt": "2026-11-13T12:00:00.000Z",
+      "date": "2026-11-13",
+      "venue": "https://channels-aladin.wxqcloud.qq.com/aladin/html/48596a1f-12f8-4866-8a6c-b45fcc9b8097.html",
+      "campus": "",
+      "building": "",
+      "sourceUrl": "",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "unavailable",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-14T14:38:25.758Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -1168,7 +1172,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -1286,7 +1290,77 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:9a133af04a6842fdaf2475e5e68dd5d0",
+      "kind": "talk",
+      "title": "山推工程机械股份有限公司2027届校园招聘",
+      "company": "山推工程机械股份有限公司",
+      "startAt": "2026-11-16T18:30:00+08:00",
+      "endAt": "2026-11-16T20:00:00+08:00",
+      "date": "2026-11-16",
+      "venue": "综合教学2号楼B406",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=9a133af04a6842fdaf2475e5e68dd5d0",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "1000以上",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "研发技术",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "山东省济宁市,山东省济南市,山东省青岛市,山东省临沂市,山东省德州市,湖北省武汉市",
+          "headcount": "300",
+          "description": "1.学历要求：本科及以上。2.专业要求：新能源、机械、机械电子、电气、控制、液压、仿真、力学、动力、车辆、材料成型等相关。3.薪酬福利：本科：12-13.2万元/年，硕士：14.4-18万元/年，博士：面议。六险二金、高温补贴、深造培训、人才公寓、租房补贴、免费午餐、免费班车、免费体检。子公司按照子公司福利待遇执行。4.工作地点：济宁、临沂、济南、青岛、德州、武汉。"
+        },
+        {
+          "title": "信息技术",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "山东省济宁市,山东省济南市,山东省青岛市,山东省临沂市,山东省德州市,湖北省武汉市",
+          "headcount": "30",
+          "description": "1.学历要求：本科及以上。2.专业要求：计算机、软件工程、网络安全、大数据、人工智能、物联网、算法开发等相关。3.薪酬福利：本科：12-13.2万元/年，硕士：14.4-18万元/年，博士：面议。六险二金、高温补贴、深造培训、人才公寓、租房补贴、免费午餐、免费班车、免费体检。子公司按照子公司福利待遇执行。4.工作地点：济宁、临沂、济南、青岛、德州、武汉。"
+        },
+        {
+          "title": "市场营销",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "山东省济宁市,山东省济南市,山东省青岛市,山东省临沂市,山东省德州市,湖北省武汉市",
+          "headcount": "50",
+          "description": "1.学历要求：本科及以上。2.专业要求：1.学历要求：本科及以上。2.专业要求：俄语、西班牙语、葡萄牙语、法语、阿拉伯语、越南语及机械类专业等相关(含外籍)。3.薪酬福利：本科：12-13.2万元/年，硕士：14.4-18万元/年，博士：面议。六险二金、高温补贴、深造培训、人才公寓、租房补贴、免费午餐、免费班车、免费体检。子公司按照子公司福利待遇执行。4.工作地点：济宁、临沂、济南、青岛、德州、武汉。"
+        },
+        {
+          "title": "财务管理",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "山东省济宁市,山东省济南市,山东省青岛市,山东省临沂市,山东省德州市,湖北省武汉市",
+          "headcount": "30",
+          "description": "1.学历要求：本科及以上。2.专业要求：会计学、财务管理、税务、金融等相关。3.薪酬福利：本科：12-13.2万元/年，硕士：14.4-18万元/年，博士：面议。六险二金、高温补贴、深造培训、人才公寓、租房补贴、免费午餐、免费班车、免费体检。子公司按照子公司福利待遇执行。4.工作地点：济宁、临沂、济南、青岛、德州、武汉。"
+        },
+        {
+          "title": "行政管理",
+          "education": "本科,硕士,博士",
+          "majors": "不限专业",
+          "city": "山东省济宁市,山东省济南市,山东省青岛市,山东省临沂市,山东省德州市,湖北省武汉市",
+          "headcount": "30",
+          "description": "1.学历要求：本科及以上。2.专业要求：企业管理、信息管理、审计、安全工程、法学、统计学、汉语言文学、新闻传播、新媒体等相关。3.薪酬福利：本科：12-13.2万元/年，硕士：14.4-18万元/年，博士：面议。六险二金、高温补贴、深造培训、人才公寓、租房补贴、免费午餐、免费班车、免费体检。子公司按照子公司福利待遇执行。4.工作地点：济宁、临沂、济南、青岛、德州、武汉。"
+        }
+      ],
+      "participants": [],
+      "description": "山推股份2027届校园招聘简章\n\n一、公司简介\n\n山推工程机械股份有限公司（股票代码000680）总部位于孔孟之乡山东省济宁市，是世界500强企业山东重工集团工程机械板块的领头羊、主力军。属于国有股份制上市公司，国家大型一类骨干企业。产品涵盖推土机、挖掘机、装载机、矿卡、道路机械、混凝土机械等核心工程机械主机和履带底盘、电控单元、传动部件、结构件等零部件产品，推土机连续22年稳居全国产销量第一。\n\n山推股份拥有国家级技术中心，山东省工程技术研究中心和博士后科研工作站。山推股份坚持科技创新，产品创新，先后荣获省高端品牌培育企业、省长质量奖，参与制定82项国家/行业标准，拥有1800+核心专利，21项国家级科研成果，获得行业内唯一国家金质奖章，国家级制造业单项冠军。\n\n山推股份长期秉承“一路厚道”的品牌文化，心无旁骛攻主业，从1962年推出国内首台推土机到被誉为开天神推的900马力推土机，打破了国外品牌大马力推土机市场垄断。2025年6月18日，山推再次以先行者的姿态，面向全球发布AI战略，并实现全球首台 AI 智能推土机正式交付。AI智能、新能源、混动、无人驾驶、远程遥控等新科技赋能，矿用推土机、挖掘机、刚性矿卡、矿用平地机等大吨位高端产品，让施工更简单。\n\n当前，山推股份国际化战略加速发展，已拥有13家海外子公司，产品远销160余个国家和地区，出口收入占比超55%。近五年，山推股份营业收入年复合增长率17%，利润年复合增长率达80%，年产销工程机械主机突破2万台。客户满意是我们的宗旨，未来，山推股份将以科技赋能，装备美好，为客户创造更大价值！\n\n二、招聘岗位\n\n招聘岗位\n\n专业要求\n\n研发技术\n\n新能源、机械、机械电子、电气、控制、液压、仿真、力学、动力、车辆、材料成型等相关\n\n市场营销\n\n俄语、西班牙语、葡萄牙语、法语、阿拉伯语、越南语及机械类专业等相关(含外籍)\n\n信息技术\n\n计算机、软件工程、网络安全、大数据、人工智能、物联网、算法开发等相关\n\n财务管理\n\n会计学、财务管理、税务、金融等相关\n\n行政管理\n\n企业管理、信息管理、审计、安全工程、法学、统计学、汉语言文学、新闻传播、新媒体等相关\n\n三、薪酬福利\n\n1.薪酬标准\n\n本科9.6-15.6万/年、硕士10.8-21.6万/年、博士：面议\n\n2.社保福利\n\n六险二金、高温补贴、取暖补贴、深造培训、节日福利\n\n人才公寓、租房补贴、免费午餐、免费班车、免费体检\n\n子公司按照子公司福利待遇执行\n\n四、招聘流程\n\n简历投递--简历筛选--专业面试--AI测试--发送offer--签约\n\n五、简历投递\n\n1.网申链接：\n\nhttps://shantui.zhiye.com/jobs?queryId=9536a3c8-99cc-40e1-abf4-3f36a540cde0\n\n2.扫码网申：\n\n六、联系我们\n\n1.",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-14T14:38:25.758Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -1332,7 +1406,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-11T15:42:26.367Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -1361,7 +1435,45 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:28:37.513Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:5f54934dc1c147dfa3c95632607642e0",
+      "kind": "talk",
+      "title": "“循光而上，与星并肩” 长光卫星技术股份有限公司2027届校园招聘",
+      "company": "长光卫星技术股份有限公司",
+      "startAt": "2026-11-18T18:00:00+08:00",
+      "endAt": "2026-11-18T21:30:00+08:00",
+      "date": "2026-11-18",
+      "venue": "综合教学2号楼A304",
+      "campus": "大连凌水主校区",
+      "building": "综合教学2号楼",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=5f54934dc1c147dfa3c95632607642e0",
+      "companyInfo": {
+        "nature": "其他企业(含民营企业等)",
+        "scale": "500-1000人",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [
+        {
+          "title": "“循光而上，与星并肩” 长光卫星技术股份有限公司2027届校",
+          "education": "硕士,博士",
+          "majors": "不限专业",
+          "city": "吉林省长春市",
+          "headcount": "75",
+          "description": "详见招聘简章"
+        }
+      ],
+      "participants": [],
+      "description": "“循光而上，与星并肩”\n\n长光卫星技术股份有限公司2027届校园招聘\n\n长光卫星技术股份有限公司成立于2014年12月1日，是我国第一家集卫星研发制造、运营管理和遥感信息服务于一体的全产业链商业遥感卫星公司。公司由吉林省人民政府、中科院长春光机所、社会资本以及技术骨干出资成立，总注册资金29.15亿元。\n\n经过多年的研发和技术积累，公司自主建设并运营管理着全球最大的亚米级商业遥感卫星星座，可为客户提供高时间分辨率、高空间分辨率、高光谱分辨率、快速广域覆盖的卫星遥感数据以及以卫星遥感数据为基础的空间信息综合应用服务；同时，公司凭借着在卫星平台和空间光学有效载荷方面的核心技术积累，能够为客户提供定制化的卫星制造及相关服务，包括卫星整星及部组件、试验与测试服务、搭载服务、冠名服务等。\n\n2027届校园招聘已正式启动！循光而上，与星并肩！\n\n转正后薪酬待遇\n\n硕士税前薪酬：20000元/月+绩效奖金（平均4个月工资）；\n\n博士税前薪酬：21000元/月+绩效奖金（平均8个月工资）。\n\n人才补贴：\n\n吉林省高校毕业生就业生活补贴：3.6万/硕士，6万/博士（注：税前，连续2年按月发放）；\n\n其他福利：\n\n1）五险一金，带薪假期；\n\n2）免费三餐、公寓（六个月）、班车、员工体检（三甲医院）；\n\n3）免费体育馆（健身器材、瑜伽房、篮球、羽毛球、乒乓球、台球），丰富且奖品丰厚的文体活动；\n\n4）慰问金（结婚、医疗）；\n\n5）提供岗前集中培训及技术、技能、管理提升方面的各种在职培训；\n\n6）公司获批设立国家博士后科研工作站，正式员工可申请入站。\n\n公司秉承“团结、创新、拼搏、务实”的“长光卫星”精神，以“用空天地一体化遥感信息产品服务全球80亿人”为使命，以“建立基于互联网的遥感信息平台、不断推出创新性产品”为目标，愿为推动吉林省产业转型升级，带动东北老工业基地振兴并谱写中国商业遥感卫星的辉煌明天而全力奋斗!\n\n本次招聘面向硕士及以上学历人员，工作地点：长春。\n\n具体岗位类型如下：\n\n研发类\n\n岗位名称\n\n专业\n\n机械设计工程师\n\n机械工程、机电、仪器科学与技术、机械设计制造及其自动化、飞行器设计、力学\n\n机械、光学制造工程师\n\n机械工程、机械设计制造及其自动化、机电一体化、智能制造工程、焊接技术与工程、材料科学、材料加工工程\n\n空间环境工程师\n\n动力工程与工程热物理、机械设计制造及其自动化\n\n硬件技术工程师\n\n电子科学与技术、电路与系统、电子信息工程、航空宇航科学与技术、控制科学与工程、集成电路工程、仪器科学与技术、电气工程及其自动化\n\nFPGA软件工程师\n\n电子科学与技术、电路与系统、信息与通信工程、电子信息工程\n\n嵌入式开发工程师\n\n电子科学与技术、电路与系统、仪器科学与技术、计算机科学与技术、电气工程、电子信息、自动化\n\n伺服控制工程师\n\n电力电子、电子科学与技术、电气工程、自动化、控制科学与工程、航空航天工程\n\n控制系统工程师\n\n控制科学与工程、飞行器设计、航空航天工程、导航、制导与控制\n\n天线工程师\n\n信息与通信工程、电磁场与微波技术、电路与系统、微电子、信号与信息处理\n\n软件开发工程师\n\n计算机科学与技术、软件工程、人工智能、地理信息科学 、遥感科学与技术、测绘工程、数据科学与大数据技术\n\n算法工程师\n\n计算机科学与技术、软件工程、人工智能、地理信息科学 、遥感科学与技术、测绘工程、数据科学与大数据技术\n\n遥感测绘工程师\n\n测绘工程、遥感科学与技术、摄影测量与遥感、资源与环境、地理信息科学\n\n管理类/市场营销类\n\n项目管理\n\n理工科专业\n\n质量体系管理\n\n理工科专业\n\n市场营销\n\n理工科专业\n\n招聘流程：\n\n1.简历投递→2.笔试→3.面试→4.综合评估→5.人才测评→6.OFFER发放→7.录用签约\n\n本次招聘只接收网申系统的投递方式，请通过下方网址或扫描二维码进行简历投递，建议使用电脑端登录cgwx.hotjob.cn网址操作。\n\n线下宣讲行程将陆续在公司微信公众号“吉林一号”、高校就业网、高校就业公众号发布，欢迎广大求职者就近参加高校宣讲会，宣讲会现场将随机抽取精美礼品。\n\n投递简历\n\n简历投递：https://cgwx.hotjob.cn/\n\n人力热线：\n\n公司官网：https://www.jl1.cn/",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-14T14:38:25.758Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -1374,7 +1486,7 @@
       "startAt": "2026-11-18T18:00:00+08:00",
       "endAt": "2026-11-18T21:30:00+08:00",
       "date": "2026-11-18",
-      "venue": "综合教学2号楼A408",
+      "venue": "综合教学2号楼A404",
       "campus": "大连凌水主校区",
       "building": "综合教学2号楼",
       "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=204ebee4a5774d879cf14080e6b8fc73",
@@ -1415,10 +1527,16 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-11T15:42:26.367Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
-        "new"
-      ]
+        "new",
+        "venue"
+      ],
+      "previous": {
+        "startAt": "2026-11-18T18:00:00+08:00",
+        "endAt": "2026-11-18T21:30:00+08:00",
+        "venue": "综合教学2号楼A408"
+      }
     },
     {
       "id": "talk:11b660cacb98452fa7b75cd290fe4772",
@@ -1453,7 +1571,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-11T15:42:26.367Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
@@ -1491,7 +1609,36 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-11T15:42:26.367Z",
-      "lastSeenAt": "2026-11-12T16:27:11.200Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "other:ac9ade29aecb4b0180a121b9de717dfc",
+      "kind": "other",
+      "title": "新东方深圳学校-27校招空中宣讲会-冲刺专场！",
+      "company": "",
+      "startAt": "2026-11-24T10:30:00.000Z",
+      "endAt": "2026-11-24T12:30:00.000Z",
+      "date": "2026-11-24",
+      "venue": "https://mp.weixin.qq.com/s/Skxpz08sUUKlT-pRHob3Bw",
+      "campus": "",
+      "building": "",
+      "sourceUrl": "",
+      "companyInfo": {
+        "nature": "",
+        "scale": "",
+        "website": "",
+        "introduction": ""
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "",
+      "detailStatus": "unavailable",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-14T14:38:25.758Z",
+      "lastSeenAt": "2026-11-14T14:38:25.758Z",
       "changes": [
         "new"
       ]
