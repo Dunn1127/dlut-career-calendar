@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T17:13:00.890Z",
-  "lastSuccessAt": "2026-11-17T17:13:00.890Z",
+  "generatedAt": "2026-11-18T16:49:29.939Z",
+  "lastSuccessAt": "2026-11-18T16:49:29.939Z",
   "window": {
-    "start": "2026-11-13",
-    "end": "2026-12-03"
+    "start": "2026-11-14",
+    "end": "2026-12-04"
   },
   "source": {
     "url": "https://job.dlut.edu.cn/",
@@ -12,176 +12,11 @@
   },
   "sync": {
     "status": "partial",
-    "fetchedCount": 20,
-    "detailFailures": 4,
+    "fetchedCount": 18,
+    "detailFailures": 1,
     "detailSkipped": 0
   },
   "events": [
-    {
-      "id": "other:06590fd5ee9a4db8919f51ce9aa04aa9",
-      "kind": "other",
-      "title": "成谷科技2027届校招空中宣讲会",
-      "company": "",
-      "startAt": "2026-11-13T10:00:00.000Z",
-      "endAt": "2026-11-13T11:20:00.000Z",
-      "date": "2026-11-13",
-      "venue": "https://s1.tuoguanyun.cn/autoupload/f/a1gy4/20261105/Zo61/580X1068/%E5%AE%A3%E8%AE%B2%E4%BC%9A%E6%B5%B7%E6%8A%A5.png/webp",
-      "campus": "",
-      "building": "",
-      "sourceUrl": "",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "",
-      "detailStatus": "unavailable",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-14T14:38:25.758Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "talk:b9f401119d614064800fe43a246b445f",
-      "kind": "talk",
-      "title": "海军航空大学2027年军队文职招聘宣讲会",
-      "company": "中国人民解放军海军航空大学",
-      "startAt": "2026-11-13T10:00:00+08:00",
-      "endAt": "2026-11-13T12:00:00+08:00",
-      "date": "2026-11-13",
-      "venue": "综合教学2号楼A406",
-      "campus": "大连凌水主校区",
-      "building": "综合教学2号楼",
-      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=b9f401119d614064800fe43a246b445f",
-      "companyInfo": {
-        "nature": "高等教育单位",
-        "scale": "1000以上",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [
-        {
-          "title": "助理讲师",
-          "education": "硕士,博士",
-          "majors": "不限专业",
-          "city": "山东省青岛市",
-          "headcount": "5",
-          "description": "完成大学教学以及科研等"
-        },
-        {
-          "title": "医师",
-          "education": "硕士,博士",
-          "majors": "不限专业",
-          "city": "河南省许昌市,辽宁省葫芦岛市,河北省秦皇岛市",
-          "headcount": "4",
-          "description": "需要具有住院医师规范化培训合格证书"
-        },
-        {
-          "title": "助理工程师",
-          "education": "硕士,博士",
-          "majors": "不限专业",
-          "city": "北京市",
-          "headcount": "2",
-          "description": "器材管理以及军用仿真软件开发。"
-        },
-        {
-          "title": "讲师",
-          "education": "硕士,博士",
-          "majors": "不限专业",
-          "city": "山东省烟台市,山东省青岛市",
-          "headcount": "32",
-          "description": "完成大学教学以及科研工作"
-        },
-        {
-          "title": "干事",
-          "education": "硕士,博士",
-          "majors": "不限专业",
-          "city": "山东省烟台市",
-          "headcount": "1",
-          "description": "负责军事人力资源工作"
-        },
-        {
-          "title": "助教",
-          "education": "硕士,博士",
-          "majors": "不限专业",
-          "city": "山东省烟台市",
-          "headcount": "1",
-          "description": "装备管理、教学科研"
-        }
-      ],
-      "participants": [],
-      "description": "海军航空大学是一所兵种类高等教育院校。面向海军航空兵、岸防兵两大兵种，航空飞行与指挥、航空作战保障、航空装备保障、航空勤务保障、岸防作战指挥、导弹技术保障六个领域，培养初级指挥军官和各级各类专业技术人才，是两兵种人才培养基地、战法创新基地、科研试验基地、作战支援基地、文化传播和对外交流中心，是海军培训规模最大、编制员额最多、地域分布最广的院校，是全军唯一拥有海湾、海军唯一拥有机场的院校，被誉为“海空骄子的摇篮”。\n大学院士名师领衔、专家教授荟萃，现有中国工程院院士1人，“长江学者奖励计划”青年学者1人，全国优秀科技工作者3人，全国、全军优秀教师7名，入选军队高层次创新人才工程35人，山东省“泰山学者”16人，教授、副教授470余人，博士研究生导师70余人，硕士研究生导师280余人，院士兼职导师6人，先后走出近百名将军，涌现出“时代楷模”舰载机飞行教官群体。\n\n现需要招收45名文职人员，招收岗位仅面向硕、博士毕业生，博士毕业生优先。主要流程包含网上报名、统一笔试（博士免笔试）、面试考核、体格检查、政治考核、公示录用。具体详情可于军队人才网（网址：http://www.81rc.mil.cn）查询。\n\n所面向招收专业：\n\n1.医学类：包含临床医学、康复医学与理疗学、急诊医学、临床检验诊断学、基础医学；\n\n2.理学类：包含数学、统计学；\n\n3.管理学类：包含管理科学与工程、公共管理；\n\n4.法学/政治学类：包含政治学、马克思主义中国化研究；\n\n5.交叉/智能类：包含智能科学与技术；\n\n6.工学类：包含动力工程及工程热物理、航空宇航科学与技术、能源动力、机械工程、材料科学与工程、兵器科学与技术、电气工程、控制科学与工程、计算机科学与技术、信息与通信工程、电子科学与技术、电子信息、计算机技术、软件工程、人工智能、大数据技术与工程、水声工程、交通运输工程、航空交通运输。\n\n其他具体详情请见宣讲会！",
-      "detailStatus": "ok",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-06T15:28:37.513Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "other:4c68b3d376704a63a9a7010cae40870e",
-      "kind": "other",
-      "title": "2027平行线教育空中宣讲会",
-      "company": "",
-      "startAt": "2026-11-13T11:00:00.000Z",
-      "endAt": "2026-11-13T12:00:00.000Z",
-      "date": "2026-11-13",
-      "venue": "https://channels-aladin.wxqcloud.qq.com/aladin/html/48596a1f-12f8-4866-8a6c-b45fcc9b8097.html",
-      "campus": "",
-      "building": "",
-      "sourceUrl": "",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "",
-      "detailStatus": "unavailable",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-14T14:38:25.758Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
-      "changes": [
-        "new"
-      ]
-    },
-    {
-      "id": "other:93698c3533194022987503fce82aa648",
-      "kind": "other",
-      "title": "上海电气·赢合科技2027届秋招空中宣讲会",
-      "company": "",
-      "startAt": "2026-11-13T11:00:00.000Z",
-      "endAt": "2026-11-13T13:00:00.000Z",
-      "date": "2026-11-13",
-      "venue": "https://yhwins2.zhiye.com/（后续微信群通知）",
-      "campus": "",
-      "building": "",
-      "sourceUrl": "",
-      "companyInfo": {
-        "nature": "",
-        "scale": "",
-        "website": "",
-        "introduction": ""
-      },
-      "jobs": [],
-      "participants": [],
-      "description": "",
-      "detailStatus": "unavailable",
-      "availability": "listed",
-      "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
-      "changes": [
-        "new"
-      ]
-    },
     {
       "id": "talk:97c3e0722a294bbd8ba68f6c1affb1dc",
       "kind": "talk",
@@ -295,7 +130,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-04T16:15:29.441Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -365,7 +200,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-14T14:38:25.758Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -411,7 +246,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-11T15:42:26.367Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -440,7 +275,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-06T15:28:37.513Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -478,7 +313,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-14T14:38:25.758Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -532,7 +367,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-11T15:42:26.367Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new",
         "venue"
@@ -542,6 +377,35 @@
         "endAt": "2026-11-18T21:30:00+08:00",
         "venue": "综合教学2号楼A408"
       }
+    },
+    {
+      "id": "talk:4d6fe6b24fab4a1abe21355e49658e67",
+      "kind": "talk",
+      "title": "2027年宁夏招录选调生宣讲会",
+      "company": "大连理工大学就业指导中心",
+      "startAt": "2026-11-19T10:00:00+08:00",
+      "endAt": "2026-11-19T11:30:00+08:00",
+      "date": "2026-11-19",
+      "venue": "大学生文化中心A228",
+      "campus": "",
+      "building": "",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=4d6fe6b24fab4a1abe21355e49658e67",
+      "companyInfo": {
+        "nature": "高等教育单位",
+        "scale": "",
+        "website": "",
+        "introduction": "大连理工大学就业指导中心"
+      },
+      "jobs": [],
+      "participants": [],
+      "description": "为加强宁夏干部队伍源头建设，根据中组部《关于进一步加强和改进选调生工作的意见》（组通字〔2018〕17号）等有关规定，经研究，决定面向国内部分高校2027年应届优秀毕业生招录一批选调生。宁夏自治区组织部将于11月19日上午，在我校学生文化中心228，召开2027年招录选调生宣讲会，届时将进行相关政策宣传，并与有意向到宁夏工作的优秀毕业生进行现场交流。",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-18T16:49:29.939Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
+      "changes": [
+        "new"
+      ]
     },
     {
       "id": "talk:11b660cacb98452fa7b75cd290fe4772",
@@ -576,7 +440,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-11T15:42:26.367Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -614,7 +478,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-11T15:42:26.367Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -652,7 +516,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-17T17:13:00.890Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -681,7 +545,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-17T17:13:00.890Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -710,7 +574,7 @@
       "detailStatus": "unavailable",
       "availability": "listed",
       "firstSeenAt": "2026-11-14T14:38:25.758Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -748,7 +612,45 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-17T17:13:00.890Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
+      "changes": [
+        "new"
+      ]
+    },
+    {
+      "id": "talk:288894da319f4e689300e6568370e0a8",
+      "kind": "talk",
+      "title": "国泰海通证券辽宁分公司2027届校园招聘专场宣讲会",
+      "company": "国泰海通证券股份有限公司辽宁分公司",
+      "startAt": "2026-11-25T13:00:00+08:00",
+      "endAt": "2026-11-25T15:00:00+08:00",
+      "date": "2026-11-25",
+      "venue": "学生文化中心A座212报告厅",
+      "campus": "大连凌水主校区",
+      "building": "学生文化中心A座",
+      "sourceUrl": "https://job.dlut.edu.cn/f/recruitmentFair/show?recruitmentFairId=288894da319f4e689300e6568370e0a8",
+      "companyInfo": {
+        "nature": "国有企业",
+        "scale": "200到500人",
+        "website": "",
+        "introduction": "国泰海通证券股份有限公司（简称“国泰海通”或“公司”）由国泰君安与海通证券合并而成，是中国资本市场长期、持续、全面领先的综合金融服务商。作为中国证券行业最早的一批探索者，海通证券成立于1988年，国泰证券、君安证券均成立于1992年，并于1999年8月合并成立国泰君安。2024年9月，国泰君安与海通证券积极响应国家战略，基于“强强联合、优势互补、对等合并”原则实施合并重组，并于2025年4..."
+      },
+      "jobs": [
+        {
+          "title": "管理培训生",
+          "education": "本科,硕士",
+          "majors": "不限专业",
+          "city": "辽宁省沈阳市,辽宁省大连市,辽宁省鞍山市,辽宁省营口市,辽宁省盘锦市",
+          "headcount": "25",
+          "description": "1、参与分公司本部不同部门及营业部的轮岗交流，深入学习、了解不同业务的运作和管理；2、参与客户开发与服务，理解和挖掘客户需求，为客户提供专业的投资咨询服务、金融产品和资产配置解决方案；整合公司业务资源，提供投融资等综合金融服务；3、协助进行市场研究与数据分析，参与策划和组织客户路演、市场推广活动；4、完成管培生专项培训培养学习计划，全面提升专业能力和综合素养。"
+        }
+      ],
+      "participants": [],
+      "description": "一、公司简介\n\n国泰海通由国泰君安与海通证券于2025年4月合并成立，是中国资本市场长期、持续、全面领先的综合金融服务商。合并重组后的国泰海通具备更加雄厚、稳健的资本实力，截至2026年上半年，公司总资产超2.5万亿元，归母净资产3730亿元。公司客户基础雄厚，分支机构遍布全国31个省市自治区，服务范围覆盖17个国家和地区，已形成涵盖证券及期货经纪、投行、自营、权益及FICC交易、信用、资产管理、公募基金管理、私募股权投资、另类投资、融资租赁、国际业务等诸多业务领域的综合金融服务体系，正向着“成为具备国际竞争力与市场引领力的一流投资银行”目标阔步前进。\n\n我们具有完善的薪酬福利体系，涵盖五险一金、补充医疗保险、企业年金、绩效奖金、午餐补贴、交通补贴、通讯补贴、证券休市假、降温取暖费、亲属慰问金及工会福利等。\n\n二、招聘岗位\n\n管理培训生 25人\n\n工作地点：沈阳、大连、鞍山、盘锦、营口\n\n工作职责：\n\n1、参与分公司本部不同部门及营业部的轮岗交流，深入学习、了解不同业务的运作和管理；\n\n2、参与客户开发与服务，理解和挖掘客户需求，为客户提供专业的投资咨询服务、金融产品和资产配置解决方案；整合公司业务资源，提供投融资等综合金融服务；\n\n3、协助进行市场研究与数据分析，参与策划和组织客户路演、市场推广活动；\n\n4、完成管培生专项培训培养学习计划，全面提升专业能力和综合素养。\n\n应聘要求：\n\n1、2027年应届毕业生，本科及以上学历；\n\n2、热爱金融行业，认同行业和公司文化，具备良好的职业道德；\n\n3、具有较强的学习能力和自驱力，能够快速掌握和运用新知识；具备良好的人际交往、沟通表达能力和团队合作精神；具备较强的研究分析能力和问题解决能力。\n\n三、联系方式\n\n【请携带简历到场，宣讲会后即面试】\n\n联 系 人：张女士\n\n简历投递邮箱：\n\n联系地址：沈阳市和平区青年大街286号华润大厦A座33层",
+      "detailStatus": "ok",
+      "availability": "listed",
+      "firstSeenAt": "2026-11-18T16:49:29.939Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -786,7 +688,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-17T17:13:00.890Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -824,7 +726,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-17T17:13:00.890Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -862,7 +764,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-17T17:13:00.890Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
@@ -900,7 +802,7 @@
       "detailStatus": "ok",
       "availability": "listed",
       "firstSeenAt": "2026-11-17T17:13:00.890Z",
-      "lastSeenAt": "2026-11-17T17:13:00.890Z",
+      "lastSeenAt": "2026-11-18T16:49:29.939Z",
       "changes": [
         "new"
       ]
